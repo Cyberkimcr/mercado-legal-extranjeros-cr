@@ -1,0 +1,1828 @@
+anio_corte,continente,pais_origen,categoria_migratoria,residentes,pais_iso3
+2021,Africa,Africa Del Sur,Categoría especial,0,ZAF
+2021,Africa,Africa Del Sur,Residente temporal,3,ZAF
+2021,Africa,Africa Del Sur,Residente permanente,4,ZAF
+2021,Africa,Angola,Categoría especial,3,AGO
+2021,Africa,Angola,Residente temporal,0,AGO
+2021,Africa,Angola,Residente permanente,3,AGO
+2021,Africa,Argelia,Categoría especial,4,DZA
+2021,Africa,Argelia,Residente temporal,6,DZA
+2021,Africa,Argelia,Residente permanente,10,DZA
+2021,Africa,Benin,Categoría especial,1,BEN
+2021,Africa,Benin,Residente temporal,1,BEN
+2021,Africa,Benin,Residente permanente,1,BEN
+2021,Africa,Botswana,Categoría especial,4,BWA
+2021,Africa,Botswana,Residente temporal,0,BWA
+2021,Africa,Botswana,Residente permanente,0,BWA
+2021,Africa,Burkina Faso,Categoría especial,1,BFA
+2021,Africa,Burkina Faso,Residente temporal,0,BFA
+2021,Africa,Burkina Faso,Residente permanente,0,BFA
+2021,Africa,Burundi,Categoría especial,4,BDI
+2021,Africa,Burundi,Residente temporal,0,BDI
+2021,Africa,Burundi,Residente permanente,1,BDI
+2021,Africa,Butan,Categoría especial,6,BTN
+2021,Africa,Butan,Residente temporal,0,BTN
+2021,Africa,Butan,Residente permanente,0,BTN
+2021,Africa,Cabo Verde,Categoría especial,2,CPV
+2021,Africa,Cabo Verde,Residente temporal,0,CPV
+2021,Africa,Cabo Verde,Residente permanente,4,CPV
+2021,Africa,Camerun,Categoría especial,44,CMR
+2021,Africa,Camerun,Residente temporal,1,CMR
+2021,Africa,Camerun,Residente permanente,2,CMR
+2021,Africa,Comoras,Categoría especial,4,COM
+2021,Africa,Comoras,Residente temporal,0,COM
+2021,Africa,Comoras,Residente permanente,6,COM
+2021,Africa,Costa De Marfil,Categoría especial,2,CIV
+2021,Africa,Costa De Marfil,Residente temporal,1,CIV
+2021,Africa,Costa De Marfil,Residente permanente,1,CIV
+2021,Africa,Egipto,Categoría especial,15,EGY
+2021,Africa,Egipto,Residente temporal,25,EGY
+2021,Africa,Egipto,Residente permanente,24,EGY
+2021,Africa,Eritrea,Categoría especial,3,ERI
+2021,Africa,Eritrea,Residente temporal,1,ERI
+2021,Africa,Eritrea,Residente permanente,1,ERI
+2021,Africa,Etiopia,Categoría especial,38,ETH
+2021,Africa,Etiopia,Residente temporal,0,ETH
+2021,Africa,Etiopia,Residente permanente,1,ETH
+2021,Africa,Gabon,Categoría especial,1,GAB
+2021,Africa,Gabon,Residente temporal,0,GAB
+2021,Africa,Gabon,Residente permanente,1,GAB
+2021,Africa,Ghana,Categoría especial,24,GHA
+2021,Africa,Ghana,Residente temporal,1,GHA
+2021,Africa,Ghana,Residente permanente,2,GHA
+2021,Africa,Guinea Bissau,Categoría especial,0,GNB
+2021,Africa,Guinea Bissau,Residente temporal,0,GNB
+2021,Africa,Guinea Bissau,Residente permanente,1,GNB
+2021,Africa,Guinea Ecuatorial,Categoría especial,1,GNQ
+2021,Africa,Guinea Ecuatorial,Residente temporal,0,GNQ
+2021,Africa,Guinea Ecuatorial,Residente permanente,0,GNQ
+2021,Africa,Kenia,Categoría especial,59,KEN
+2021,Africa,Kenia,Residente temporal,5,KEN
+2021,Africa,Kenia,Residente permanente,15,KEN
+2021,Africa,Laos,Categoría especial,2,LAO
+2021,Africa,Laos,Residente temporal,0,LAO
+2021,Africa,Laos,Residente permanente,0,LAO
+2021,Africa,Lesotho,Categoría especial,3,LSO
+2021,Africa,Lesotho,Residente temporal,0,LSO
+2021,Africa,Lesotho,Residente permanente,0,LSO
+2021,Africa,Liberia,Categoría especial,17,LBR
+2021,Africa,Liberia,Residente temporal,0,LBR
+2021,Africa,Liberia,Residente permanente,4,LBR
+2021,Africa,Libia,Categoría especial,0,LBY
+2021,Africa,Libia,Residente temporal,0,LBY
+2021,Africa,Libia,Residente permanente,12,LBY
+2021,Africa,Madagascar,Categoría especial,1,MDG
+2021,Africa,Madagascar,Residente temporal,0,MDG
+2021,Africa,Madagascar,Residente permanente,0,MDG
+2021,Africa,Malawi,Categoría especial,22,MWI
+2021,Africa,Malawi,Residente temporal,0,MWI
+2021,Africa,Malawi,Residente permanente,1,MWI
+2021,Africa,Mali,Categoría especial,0,MLI
+2021,Africa,Mali,Residente temporal,0,MLI
+2021,Africa,Mali,Residente permanente,1,MLI
+2021,Africa,Marruecos,Categoría especial,17,MAR
+2021,Africa,Marruecos,Residente temporal,7,MAR
+2021,Africa,Marruecos,Residente permanente,17,MAR
+2021,Africa,Mauricio,Categoría especial,2,MUS
+2021,Africa,Mauricio,Residente temporal,3,MUS
+2021,Africa,Mauricio,Residente permanente,0,MUS
+2021,Africa,Mozambique,Categoría especial,16,MOZ
+2021,Africa,Mozambique,Residente temporal,0,MOZ
+2021,Africa,Mozambique,Residente permanente,3,MOZ
+2021,Africa,Namibia,Categoría especial,10,NAM
+2021,Africa,Namibia,Residente temporal,1,NAM
+2021,Africa,Namibia,Residente permanente,3,NAM
+2021,Africa,Niger,Categoría especial,2,NER
+2021,Africa,Niger,Residente temporal,0,NER
+2021,Africa,Niger,Residente permanente,1,NER
+2021,Africa,Nigeria,Categoría especial,80,NGA
+2021,Africa,Nigeria,Residente temporal,7,NGA
+2021,Africa,Nigeria,Residente permanente,21,NGA
+2021,Africa,Republica Dem. Del Congo,Categoría especial,15,COD
+2021,Africa,Republica Dem. Del Congo,Residente temporal,0,COD
+2021,Africa,Republica Dem. Del Congo,Residente permanente,3,COD
+2021,Africa,Republica Centroafricana,Categoría especial,1,CAF
+2021,Africa,Republica Centroafricana,Residente temporal,0,CAF
+2021,Africa,Republica Centroafricana,Residente permanente,0,CAF
+2021,Africa,Republica De Guinea,Categoría especial,1,GIN
+2021,Africa,Republica De Guinea,Residente temporal,2,GIN
+2021,Africa,Republica De Guinea,Residente permanente,1,GIN
+2021,Africa,Republica Del Congo,Categoría especial,9,COG
+2021,Africa,Republica Del Congo,Residente temporal,0,COG
+2021,Africa,Republica Del Congo,Residente permanente,2,COG
+2021,Africa,Rwanda,Categoría especial,42,RWA
+2021,Africa,Rwanda,Residente temporal,0,RWA
+2021,Africa,Rwanda,Residente permanente,0,RWA
+2021,Africa,Sahara Occidental,Categoría especial,0,ESH
+2021,Africa,Sahara Occidental,Residente temporal,1,ESH
+2021,Africa,Sahara Occidental,Residente permanente,0,ESH
+2021,Africa,Senegal,Categoría especial,2,SEN
+2021,Africa,Senegal,Residente temporal,0,SEN
+2021,Africa,Senegal,Residente permanente,4,SEN
+2021,Africa,Seychelles,Categoría especial,0,SYC
+2021,Africa,Seychelles,Residente temporal,0,SYC
+2021,Africa,Seychelles,Residente permanente,2,SYC
+2021,Africa,Sierra Leona,Categoría especial,8,SLE
+2021,Africa,Sierra Leona,Residente temporal,1,SLE
+2021,Africa,Sierra Leona,Residente permanente,1,SLE
+2021,Africa,Somalia,Categoría especial,23,SOM
+2021,Africa,Somalia,Residente temporal,0,SOM
+2021,Africa,Somalia,Residente permanente,1,SOM
+2021,Africa,Sudafrica,Categoría especial,28,ZAF
+2021,Africa,Sudafrica,Residente temporal,72,ZAF
+2021,Africa,Sudafrica,Residente permanente,18,ZAF
+2021,Africa,Sudan,Categoría especial,16,SDN
+2021,Africa,Sudan,Residente temporal,0,SDN
+2021,Africa,Sudan,Residente permanente,1,SDN
+2021,Africa,Sudan Del Norte,Categoría especial,4,SDN
+2021,Africa,Sudan Del Norte,Residente temporal,0,SDN
+2021,Africa,Sudan Del Norte,Residente permanente,0,SDN
+2021,Africa,Swazilandia,Categoría especial,3,SWZ
+2021,Africa,Swazilandia,Residente temporal,0,SWZ
+2021,Africa,Swazilandia,Residente permanente,0,SWZ
+2021,Africa,Tanzania,Categoría especial,20,TZA
+2021,Africa,Tanzania,Residente temporal,3,TZA
+2021,Africa,Tanzania,Residente permanente,3,TZA
+2021,Africa,Togo,Categoría especial,4,TGO
+2021,Africa,Togo,Residente temporal,5,TGO
+2021,Africa,Togo,Residente permanente,0,TGO
+2021,Africa,Tunez,Categoría especial,2,TUN
+2021,Africa,Tunez,Residente temporal,2,TUN
+2021,Africa,Tunez,Residente permanente,1,TUN
+2021,Africa,Uganda,Categoría especial,53,UGA
+2021,Africa,Uganda,Residente temporal,2,UGA
+2021,Africa,Uganda,Residente permanente,2,UGA
+2021,Africa,Zambia,Categoría especial,29,ZMB
+2021,Africa,Zambia,Residente temporal,0,ZMB
+2021,Africa,Zambia,Residente permanente,0,ZMB
+2021,Africa,Zimbabwe,Categoría especial,22,ZWE
+2021,Africa,Zimbabwe,Residente temporal,0,ZWE
+2021,Africa,Zimbabwe,Residente permanente,0,ZWE
+2021,America,Antigua Y Barbuda,Categoría especial,0,ATG
+2021,America,Antigua Y Barbuda,Residente temporal,4,ATG
+2021,America,Antigua Y Barbuda,Residente permanente,1,ATG
+2021,America,Antillas Holandesa,Categoría especial,0,ANT
+2021,America,Antillas Holandesa,Residente temporal,0,ANT
+2021,America,Antillas Holandesa,Residente permanente,2,ANT
+2021,America,Argentina,Categoría especial,349,ARG
+2021,America,Argentina,Residente temporal,1690,ARG
+2021,America,Argentina,Residente permanente,1513,ARG
+2021,America,Aruba,Categoría especial,7,ABW
+2021,America,Aruba,Residente temporal,0,ABW
+2021,America,Aruba,Residente permanente,1,ABW
+2021,America,Bahamas,Categoría especial,14,BHS
+2021,America,Bahamas,Residente temporal,9,BHS
+2021,America,Bahamas,Residente permanente,10,BHS
+2021,America,Barbados,Categoría especial,18,BRB
+2021,America,Barbados,Residente temporal,4,BRB
+2021,America,Barbados,Residente permanente,4,BRB
+2021,America,Belice,Categoría especial,177,BLZ
+2021,America,Belice,Residente temporal,26,BLZ
+2021,America,Belice,Residente permanente,80,BLZ
+2021,America,Bermudas,Categoría especial,6,BMU
+2021,America,Bermudas,Residente temporal,62,BMU
+2021,America,Bermudas,Residente permanente,2,BMU
+2021,America,Bolivia,Categoría especial,251,BOL
+2021,America,Bolivia,Residente temporal,178,BOL
+2021,America,Bolivia,Residente permanente,255,BOL
+2021,America,Brasil,Categoría especial,360,BRA
+2021,America,Brasil,Residente temporal,1468,BRA
+2021,America,Brasil,Residente permanente,549,BRA
+2021,America,Canada,Categoría especial,492,CAN
+2021,America,Canada,Residente temporal,2147,CAN
+2021,America,Canada,Residente permanente,1979,CAN
+2021,America,Chile,Categoría especial,237,CHL
+2021,America,Chile,Residente temporal,844,CHL
+2021,America,Chile,Residente permanente,989,CHL
+2021,America,Colombia,Categoría especial,9538,COL
+2021,America,Colombia,Residente temporal,4923,COL
+2021,America,Colombia,Residente permanente,15032,COL
+2021,America,Cuba,Categoría especial,1299,CUB
+2021,America,Cuba,Residente temporal,371,CUB
+2021,America,Cuba,Residente permanente,8020,CUB
+2021,America,Curazao,Categoría especial,0,CUW
+2021,America,Curazao,Residente temporal,1,CUW
+2021,America,Curazao,Residente permanente,2,CUW
+2021,America,Dominica,Categoría especial,3,DMA
+2021,America,Dominica,Residente temporal,6,DMA
+2021,America,Dominica,Residente permanente,21,DMA
+2021,America,Ecuador,Categoría especial,815,ECU
+2021,America,Ecuador,Residente temporal,637,ECU
+2021,America,Ecuador,Residente permanente,926,ECU
+2021,America,El Salvador,Categoría especial,3544,SLV
+2021,America,El Salvador,Residente temporal,2615,SLV
+2021,America,El Salvador,Residente permanente,8048,SLV
+2021,America,Estados Unidos,Categoría especial,5025,USA
+2021,America,Estados Unidos,Residente temporal,13766,USA
+2021,America,Estados Unidos,Residente permanente,11544,USA
+2021,America,Granada,Categoría especial,3,GRD
+2021,America,Granada,Residente temporal,0,GRD
+2021,America,Granada,Residente permanente,2,GRD
+2021,America,Guadalupe,Categoría especial,1,GLP
+2021,America,Guadalupe,Residente temporal,0,GLP
+2021,America,Guadalupe,Residente permanente,0,GLP
+2021,America,Guatemala,Categoría especial,1281,GTM
+2021,America,Guatemala,Residente temporal,1786,GTM
+2021,America,Guatemala,Residente permanente,1669,GTM
+2021,America,Guyana,Categoría especial,7,GUY
+2021,America,Guyana,Residente temporal,8,GUY
+2021,America,Guyana,Residente permanente,24,GUY
+2021,America,Haiti,Categoría especial,135,HTI
+2021,America,Haiti,Residente temporal,41,HTI
+2021,America,Haiti,Residente permanente,225,HTI
+2021,America,Honduras,Categoría especial,2549,HND
+2021,America,Honduras,Residente temporal,1583,HND
+2021,America,Honduras,Residente permanente,2688,HND
+2021,America,Islas Caiman,Categoría especial,3,CYM
+2021,America,Islas Caiman,Residente temporal,0,CYM
+2021,America,Islas Caiman,Residente permanente,0,CYM
+2021,America,Jamaica,Categoría especial,32,JAM
+2021,America,Jamaica,Residente temporal,59,JAM
+2021,America,Jamaica,Residente permanente,140,JAM
+2021,America,Mexico,Categoría especial,1055,MEX
+2021,America,Mexico,Residente temporal,3967,MEX
+2021,America,Mexico,Residente permanente,1819,MEX
+2021,America,Nicaragua,Categoría especial,59125,NIC
+2021,America,Nicaragua,Residente temporal,11291,NIC
+2021,America,Nicaragua,Residente permanente,314478,NIC
+2021,America,Panama,Categoría especial,1588,PAN
+2021,America,Panama,Residente temporal,902,PAN
+2021,America,Panama,Residente permanente,5908,PAN
+2021,America,Paraguay,Categoría especial,116,PRY
+2021,America,Paraguay,Residente temporal,66,PRY
+2021,America,Paraguay,Residente permanente,52,PRY
+2021,America,Peru,Categoría especial,935,PER
+2021,America,Peru,Residente temporal,969,PER
+2021,America,Peru,Residente permanente,3661,PER
+2021,America,Puerto Rico,Categoría especial,5,PRI
+2021,America,Puerto Rico,Residente temporal,24,PRI
+2021,America,Puerto Rico,Residente permanente,10,PRI
+2021,America,Republica Dominicana,Categoría especial,1900,DOM
+2021,America,Republica Dominicana,Residente temporal,434,DOM
+2021,America,Republica Dominicana,Residente permanente,2533,DOM
+2021,America,Saint Kitts Y Nevis,Categoría especial,1,KNA
+2021,America,Saint Kitts Y Nevis,Residente temporal,0,KNA
+2021,America,Saint Kitts Y Nevis,Residente permanente,0,KNA
+2021,America,San Cristobal Y Nevis,Categoría especial,7,KNA
+2021,America,San Cristobal Y Nevis,Residente temporal,2,KNA
+2021,America,San Cristobal Y Nevis,Residente permanente,2,KNA
+2021,America,San Vicente Y Las Granadinas,Categoría especial,0,VCT
+2021,America,San Vicente Y Las Granadinas,Residente temporal,0,VCT
+2021,America,San Vicente Y Las Granadinas,Residente permanente,4,VCT
+2021,America,Santa Lucia,Categoría especial,1,LCA
+2021,America,Santa Lucia,Residente temporal,4,LCA
+2021,America,Santa Lucia,Residente permanente,2,LCA
+2021,America,Surinam,Categoría especial,6,SUR
+2021,America,Surinam,Residente temporal,4,SUR
+2021,America,Surinam,Residente permanente,8,SUR
+2021,America,Trinidad Y Tobago,Categoría especial,29,TTO
+2021,America,Trinidad Y Tobago,Residente temporal,60,TTO
+2021,America,Trinidad Y Tobago,Residente permanente,38,TTO
+2021,America,Uruguay,Categoría especial,73,URY
+2021,America,Uruguay,Residente temporal,212,URY
+2021,America,Uruguay,Residente permanente,263,URY
+2021,America,Venezuela,Categoría especial,5054,VEN
+2021,America,Venezuela,Residente temporal,6629,VEN
+2021,America,Venezuela,Residente permanente,3288,VEN
+2021,Asia,Afganistan,Categoría especial,10,AFG
+2021,Asia,Afganistan,Residente temporal,2,AFG
+2021,Asia,Afganistan,Residente permanente,3,AFG
+2021,Asia,Arabia Saudi,Categoría especial,0,SAU
+2021,Asia,Arabia Saudi,Residente temporal,2,SAU
+2021,Asia,Arabia Saudi,Residente permanente,0,SAU
+2021,Asia,Armenia,Categoría especial,2,ARM
+2021,Asia,Armenia,Residente temporal,6,ARM
+2021,Asia,Armenia,Residente permanente,0,ARM
+2021,Asia,Azerbaiyan,Categoría especial,0,AZE
+2021,Asia,Azerbaiyan,Residente temporal,1,AZE
+2021,Asia,Azerbaiyan,Residente permanente,1,AZE
+2021,Asia,Bangladesh,Categoría especial,16,BGD
+2021,Asia,Bangladesh,Residente temporal,3,BGD
+2021,Asia,Bangladesh,Residente permanente,9,BGD
+2021,Asia,Camboya,Categoría especial,26,KHM
+2021,Asia,Camboya,Residente temporal,0,KHM
+2021,Asia,Camboya,Residente permanente,0,KHM
+2021,Asia,Chad,Categoría especial,1,TCD
+2021,Asia,Chad,Residente temporal,0,TCD
+2021,Asia,Chad,Residente permanente,1,TCD
+2021,Asia,Chipre,Categoría especial,5,CYP
+2021,Asia,Chipre,Residente temporal,2,CYP
+2021,Asia,Chipre,Residente permanente,1,CYP
+2021,Asia,Emiratos Arabes Unidos,Categoría especial,1,ARE
+2021,Asia,Emiratos Arabes Unidos,Residente temporal,0,ARE
+2021,Asia,Emiratos Arabes Unidos,Residente permanente,0,ARE
+2021,Asia,Filipinas,Categoría especial,129,PHL
+2021,Asia,Filipinas,Residente temporal,234,PHL
+2021,Asia,Filipinas,Residente permanente,218,PHL
+2021,Asia,Guam,Categoría especial,2,GUM
+2021,Asia,Guam,Residente temporal,0,GUM
+2021,Asia,Guam,Residente permanente,3,GUM
+2021,Asia,Hong Kong,Categoría especial,2,HKG
+2021,Asia,Hong Kong,Residente temporal,96,HKG
+2021,Asia,Hong Kong,Residente permanente,33,HKG
+2021,Asia,India,Categoría especial,189,IND
+2021,Asia,India,Residente temporal,246,IND
+2021,Asia,India,Residente permanente,916,IND
+2021,Asia,Indonesia,Categoría especial,37,IDN
+2021,Asia,Indonesia,Residente temporal,7,IDN
+2021,Asia,Indonesia,Residente permanente,11,IDN
+2021,Asia,Iran,Categoría especial,17,IRN
+2021,Asia,Iran,Residente temporal,119,IRN
+2021,Asia,Iran,Residente permanente,37,IRN
+2021,Asia,Iraq,Categoría especial,10,IRQ
+2021,Asia,Iraq,Residente temporal,4,IRQ
+2021,Asia,Iraq,Residente permanente,2,IRQ
+2021,Asia,Israel,Categoría especial,84,ISR
+2021,Asia,Israel,Residente temporal,352,ISR
+2021,Asia,Israel,Residente permanente,163,ISR
+2021,Asia,Japon,Categoría especial,340,JPN
+2021,Asia,Japon,Residente temporal,202,JPN
+2021,Asia,Japon,Residente permanente,202,JPN
+2021,Asia,Jordania,Categoría especial,16,JOR
+2021,Asia,Jordania,Residente temporal,55,JOR
+2021,Asia,Jordania,Residente permanente,28,JOR
+2021,Asia,Kazajistan,Categoría especial,7,KAZ
+2021,Asia,Kazajistan,Residente temporal,3,KAZ
+2021,Asia,Kazajistan,Residente permanente,6,KAZ
+2021,Asia,Kirguistan,Categoría especial,9,KGZ
+2021,Asia,Kirguistan,Residente temporal,0,KGZ
+2021,Asia,Kirguistan,Residente permanente,1,KGZ
+2021,Asia,Kuwait,Categoría especial,0,KWT
+2021,Asia,Kuwait,Residente temporal,2,KWT
+2021,Asia,Kuwait,Residente permanente,1,KWT
+2021,Asia,Laos,Categoría especial,4,LAO
+2021,Asia,Laos,Residente temporal,1,LAO
+2021,Asia,Laos,Residente permanente,0,LAO
+2021,Asia,Libano,Categoría especial,16,LBN
+2021,Asia,Libano,Residente temporal,102,LBN
+2021,Asia,Libano,Residente permanente,36,LBN
+2021,Asia,Malasia,Categoría especial,11,MYS
+2021,Asia,Malasia,Residente temporal,5,MYS
+2021,Asia,Malasia,Residente permanente,22,MYS
+2021,Asia,Maldivas,Categoría especial,3,MDV
+2021,Asia,Maldivas,Residente temporal,0,MDV
+2021,Asia,Maldivas,Residente permanente,0,MDV
+2021,Asia,Mayanmar,Categoría especial,3,MMR
+2021,Asia,Mayanmar,Residente temporal,0,MMR
+2021,Asia,Mayanmar,Residente permanente,0,MMR
+2021,Asia,Mongolia,Categoría especial,2,MNG
+2021,Asia,Mongolia,Residente temporal,0,MNG
+2021,Asia,Mongolia,Residente permanente,0,MNG
+2021,Asia,Myanmar,Categoría especial,27,MMR
+2021,Asia,Myanmar,Residente temporal,0,MMR
+2021,Asia,Myanmar,Residente permanente,0,MMR
+2021,Asia,Nepal,Categoría especial,87,NPL
+2021,Asia,Nepal,Residente temporal,88,NPL
+2021,Asia,Nepal,Residente permanente,7,NPL
+2021,Asia,Oman,Categoría especial,2,OMN
+2021,Asia,Oman,Residente temporal,1,OMN
+2021,Asia,Oman,Residente permanente,1,OMN
+2021,Asia,Pakistan,Categoría especial,22,PAK
+2021,Asia,Pakistan,Residente temporal,18,PAK
+2021,Asia,Pakistan,Residente permanente,11,PAK
+2021,Asia,Palestina,Categoría especial,9,PSE
+2021,Asia,Palestina,Residente temporal,18,PSE
+2021,Asia,Palestina,Residente permanente,4,PSE
+2021,Asia,Qatar,Categoría especial,1,QAT
+2021,Asia,Qatar,Residente temporal,0,QAT
+2021,Asia,Qatar,Residente permanente,0,QAT
+2021,Asia,Republica De China Taiwan,Categoría especial,48,TWN
+2021,Asia,Republica De China Taiwan,Residente temporal,2215,TWN
+2021,Asia,Republica De China Taiwan,Residente permanente,186,TWN
+2021,Asia,Republica De Corea,Categoría especial,144,KOR
+2021,Asia,Republica De Corea,Residente temporal,427,KOR
+2021,Asia,Republica De Corea,Residente permanente,526,KOR
+2021,Asia,Republica Pop. De China,Categoría especial,3333,CHN
+2021,Asia,Republica Pop. De China,Residente temporal,6725,CHN
+2021,Asia,Republica Pop. De China,Residente permanente,1319,CHN
+2021,Asia,Republica Pop. Dem. De Corea,Categoría especial,64,PRK
+2021,Asia,Republica Pop. Dem. De Corea,Residente temporal,9,PRK
+2021,Asia,Republica Pop. Dem. De Corea,Residente permanente,18,PRK
+2021,Asia,Singapur,Categoría especial,2,SGP
+2021,Asia,Singapur,Residente temporal,8,SGP
+2021,Asia,Singapur,Residente permanente,5,SGP
+2021,Asia,Siria,Categoría especial,8,SYR
+2021,Asia,Siria,Residente temporal,78,SYR
+2021,Asia,Siria,Residente permanente,4,SYR
+2021,Asia,Sri Lanka,Categoría especial,47,LKA
+2021,Asia,Sri Lanka,Residente temporal,1,LKA
+2021,Asia,Sri Lanka,Residente permanente,12,LKA
+2021,Asia,Tailandia,Categoría especial,64,THA
+2021,Asia,Tailandia,Residente temporal,7,THA
+2021,Asia,Tailandia,Residente permanente,12,THA
+2021,Asia,Tajikistan,Categoría especial,6,TJK
+2021,Asia,Tajikistan,Residente temporal,0,TJK
+2021,Asia,Tajikistan,Residente permanente,0,TJK
+2021,Asia,Timor Oriental,Categoría especial,1,TLS
+2021,Asia,Timor Oriental,Residente temporal,0,TLS
+2021,Asia,Timor Oriental,Residente permanente,0,TLS
+2021,Asia,Turkmenistan,Categoría especial,3,TKM
+2021,Asia,Turkmenistan,Residente temporal,0,TKM
+2021,Asia,Turkmenistan,Residente permanente,0,TKM
+2021,Asia,Turquia,Categoría especial,21,TUR
+2021,Asia,Turquia,Residente temporal,26,TUR
+2021,Asia,Turquia,Residente permanente,18,TUR
+2021,Asia,Uzbekistan,Categoría especial,10,UZB
+2021,Asia,Uzbekistan,Residente temporal,6,UZB
+2021,Asia,Uzbekistan,Residente permanente,0,UZB
+2021,Asia,Vietnam,Categoría especial,35,VNM
+2021,Asia,Vietnam,Residente temporal,6,VNM
+2021,Asia,Vietnam,Residente permanente,9,VNM
+2021,Asia,Yemen,Categoría especial,2,YEM
+2021,Asia,Yemen,Residente temporal,0,YEM
+2021,Asia,Yemen,Residente permanente,1,YEM
+2021,Europa,Albania,Categoría especial,9,ALB
+2021,Europa,Albania,Residente temporal,1,ALB
+2021,Europa,Albania,Residente permanente,2,ALB
+2021,Europa,Alemania,Categoría especial,1546,DEU
+2021,Europa,Alemania,Residente temporal,1042,DEU
+2021,Europa,Alemania,Residente permanente,1703,DEU
+2021,Europa,Andorra,Categoría especial,0,AND
+2021,Europa,Andorra,Residente temporal,7,AND
+2021,Europa,Andorra,Residente permanente,2,AND
+2021,Europa,Austria,Categoría especial,179,AUT
+2021,Europa,Austria,Residente temporal,107,AUT
+2021,Europa,Austria,Residente permanente,150,AUT
+2021,Europa,Belgica,Categoría especial,73,BEL
+2021,Europa,Belgica,Residente temporal,286,BEL
+2021,Europa,Belgica,Residente permanente,304,BEL
+2021,Europa,Bielorrusia,Categoría especial,9,BLR
+2021,Europa,Bielorrusia,Residente temporal,4,BLR
+2021,Europa,Bielorrusia,Residente permanente,23,BLR
+2021,Europa,Bosnia Y Hercegovina,Categoría especial,0,BIH
+2021,Europa,Bosnia Y Hercegovina,Residente temporal,1,BIH
+2021,Europa,Bosnia Y Hercegovina,Residente permanente,1,BIH
+2021,Europa,Bulgaria,Categoría especial,15,BGR
+2021,Europa,Bulgaria,Residente temporal,15,BGR
+2021,Europa,Bulgaria,Residente permanente,53,BGR
+2021,Europa,Croacia,Categoría especial,5,HRV
+2021,Europa,Croacia,Residente temporal,0,HRV
+2021,Europa,Croacia,Residente permanente,13,HRV
+2021,Europa,Dinamarca,Categoría especial,118,DNK
+2021,Europa,Dinamarca,Residente temporal,80,DNK
+2021,Europa,Dinamarca,Residente permanente,65,DNK
+2021,Europa,Eslovaquia,Categoría especial,19,SVK
+2021,Europa,Eslovaquia,Residente temporal,27,SVK
+2021,Europa,Eslovaquia,Residente permanente,11,SVK
+2021,Europa,Eslovenia,Categoría especial,0,SVN
+2021,Europa,Eslovenia,Residente temporal,4,SVN
+2021,Europa,Eslovenia,Residente permanente,7,SVN
+2021,Europa,España,Categoría especial,893,ESP
+2021,Europa,España,Residente temporal,1826,ESP
+2021,Europa,España,Residente permanente,2266,ESP
+2021,Europa,Estonia,Categoría especial,3,EST
+2021,Europa,Estonia,Residente temporal,2,EST
+2021,Europa,Estonia,Residente permanente,3,EST
+2021,Europa,Federacion Rusa,Categoría especial,97,RUS
+2021,Europa,Federacion Rusa,Residente temporal,234,RUS
+2021,Europa,Federacion Rusa,Residente permanente,451,RUS
+2021,Europa,Finlandia,Categoría especial,85,FIN
+2021,Europa,Finlandia,Residente temporal,22,FIN
+2021,Europa,Finlandia,Residente permanente,18,FIN
+2021,Europa,Francia,Categoría especial,518,FRA
+2021,Europa,Francia,Residente temporal,1048,FRA
+2021,Europa,Francia,Residente permanente,986,FRA
+2021,Europa,Georgia,Categoría especial,8,GEO
+2021,Europa,Georgia,Residente temporal,0,GEO
+2021,Europa,Georgia,Residente permanente,6,GEO
+2021,Europa,Hungria,Categoría especial,19,HUN
+2021,Europa,Hungria,Residente temporal,20,HUN
+2021,Europa,Hungria,Residente permanente,45,HUN
+2021,Europa,Irlanda,Categoría especial,29,IRL
+2021,Europa,Irlanda,Residente temporal,107,IRL
+2021,Europa,Irlanda,Residente permanente,37,IRL
+2021,Europa,Islandia,Categoría especial,39,ISL
+2021,Europa,Islandia,Residente temporal,0,ISL
+2021,Europa,Islandia,Residente permanente,0,ISL
+2021,Europa,Italia,Categoría especial,496,ITA
+2021,Europa,Italia,Residente temporal,1158,ITA
+2021,Europa,Italia,Residente permanente,2030,ITA
+2021,Europa,Letonia,Categoría especial,3,LVA
+2021,Europa,Letonia,Residente temporal,4,LVA
+2021,Europa,Letonia,Residente permanente,17,LVA
+2021,Europa,Liechtenstein,Categoría especial,1,LIE
+2021,Europa,Liechtenstein,Residente temporal,3,LIE
+2021,Europa,Liechtenstein,Residente permanente,0,LIE
+2021,Europa,Lituania,Categoría especial,5,LTU
+2021,Europa,Lituania,Residente temporal,19,LTU
+2021,Europa,Lituania,Residente permanente,3,LTU
+2021,Europa,Luxemburgo,Categoría especial,5,LUX
+2021,Europa,Luxemburgo,Residente temporal,11,LUX
+2021,Europa,Luxemburgo,Residente permanente,7,LUX
+2021,Europa,Macedonia,Categoría especial,3,MKD
+2021,Europa,Macedonia,Residente temporal,3,MKD
+2021,Europa,Macedonia,Residente permanente,0,MKD
+2021,Europa,Malta,Categoría especial,0,MLT
+2021,Europa,Malta,Residente temporal,1,MLT
+2021,Europa,Malta,Residente permanente,1,MLT
+2021,Europa,Moldova,Categoría especial,4,MDA
+2021,Europa,Moldova,Residente temporal,1,MDA
+2021,Europa,Moldova,Residente permanente,5,MDA
+2021,Europa,Montenegro,Categoría especial,0,MNE
+2021,Europa,Montenegro,Residente temporal,1,MNE
+2021,Europa,Montenegro,Residente permanente,1,MNE
+2021,Europa,Noruega,Categoría especial,114,NOR
+2021,Europa,Noruega,Residente temporal,62,NOR
+2021,Europa,Noruega,Residente permanente,58,NOR
+2021,Europa,Paises Bajos,Categoría especial,383,NLD
+2021,Europa,Paises Bajos,Residente temporal,518,NLD
+2021,Europa,Paises Bajos,Residente permanente,646,NLD
+2021,Europa,Polonia,Categoría especial,26,POL
+2021,Europa,Polonia,Residente temporal,78,POL
+2021,Europa,Polonia,Residente permanente,91,POL
+2021,Europa,Portugal,Categoría especial,31,PRT
+2021,Europa,Portugal,Residente temporal,129,PRT
+2021,Europa,Portugal,Residente permanente,64,PRT
+2021,Europa,Principado De Monaco,Categoría especial,0,MCO
+2021,Europa,Principado De Monaco,Residente temporal,0,MCO
+2021,Europa,Principado De Monaco,Residente permanente,1,MCO
+2021,Europa,Reino Unido,Categoría especial,277,GBR
+2021,Europa,Reino Unido,Residente temporal,598,GBR
+2021,Europa,Reino Unido,Residente permanente,561,GBR
+2021,Europa,Republica Checa,Categoría especial,19,CZE
+2021,Europa,Republica Checa,Residente temporal,59,CZE
+2021,Europa,Republica Checa,Residente permanente,54,CZE
+2021,Europa,Republica Helenica,Categoría especial,10,GRC
+2021,Europa,Republica Helenica,Residente temporal,22,GRC
+2021,Europa,Republica Helenica,Residente permanente,25,GRC
+2021,Europa,Rumania,Categoría especial,18,ROU
+2021,Europa,Rumania,Residente temporal,45,ROU
+2021,Europa,Rumania,Residente permanente,108,ROU
+2021,Europa,San Marino,Categoría especial,0,SMR
+2021,Europa,San Marino,Residente temporal,0,SMR
+2021,Europa,San Marino,Residente permanente,1,SMR
+2021,Europa,Santa Sede Del Vaticano,Categoría especial,2,VAT
+2021,Europa,Santa Sede Del Vaticano,Residente temporal,0,VAT
+2021,Europa,Santa Sede Del Vaticano,Residente permanente,1,VAT
+2021,Europa,Serbia,Categoría especial,7,SRB
+2021,Europa,Serbia,Residente temporal,10,SRB
+2021,Europa,Serbia,Residente permanente,21,SRB
+2021,Europa,Suecia,Categoría especial,66,SWE
+2021,Europa,Suecia,Residente temporal,136,SWE
+2021,Europa,Suecia,Residente permanente,159,SWE
+2021,Europa,Suiza,Categoría especial,252,CHE
+2021,Europa,Suiza,Residente temporal,553,CHE
+2021,Europa,Suiza,Residente permanente,720,CHE
+2021,Europa,Ucrania,Categoría especial,36,UKR
+2021,Europa,Ucrania,Residente temporal,28,UKR
+2021,Europa,Ucrania,Residente permanente,86,UKR
+2021,Europa,Yugoeslavia,Categoría especial,0,YUG
+2021,Europa,Yugoeslavia,Residente temporal,0,YUG
+2021,Europa,Yugoeslavia,Residente permanente,1,YUG
+2021,Oceania,Australia,Categoría especial,67,AUS
+2021,Oceania,Australia,Residente temporal,87,AUS
+2021,Oceania,Australia,Residente permanente,78,AUS
+2021,Oceania,Fiji,Categoría especial,2,FJI
+2021,Oceania,Fiji,Residente temporal,0,FJI
+2021,Oceania,Fiji,Residente permanente,0,FJI
+2021,Oceania,Islas Pitcarin,Categoría especial,1,PCN
+2021,Oceania,Islas Pitcarin,Residente temporal,0,PCN
+2021,Oceania,Islas Pitcarin,Residente permanente,2,PCN
+2021,Oceania,Islas Virgenes,Categoría especial,1,VGB
+2021,Oceania,Islas Virgenes,Residente temporal,0,VGB
+2021,Oceania,Islas Virgenes,Residente permanente,0,VGB
+2021,Oceania,Micronesia,Categoría especial,2,FSM
+2021,Oceania,Micronesia,Residente temporal,0,FSM
+2021,Oceania,Micronesia,Residente permanente,0,FSM
+2021,Oceania,Nauru,Categoría especial,1,NRU
+2021,Oceania,Nauru,Residente temporal,0,NRU
+2021,Oceania,Nauru,Residente permanente,3,NRU
+2021,Oceania,Niue,Categoría especial,1,NIU
+2021,Oceania,Niue,Residente temporal,0,NIU
+2021,Oceania,Niue,Residente permanente,0,NIU
+2021,Oceania,Nueva Zelanda,Categoría especial,56,NZL
+2021,Oceania,Nueva Zelanda,Residente temporal,15,NZL
+2021,Oceania,Nueva Zelanda,Residente permanente,19,NZL
+2021,Oceania,Timor Oriental,Categoría especial,2,TLS
+2021,Oceania,Timor Oriental,Residente temporal,0,TLS
+2021,Oceania,Timor Oriental,Residente permanente,0,TLS
+2021,Oceania,Tonga,Categoría especial,0,TON
+2021,Oceania,Tonga,Residente temporal,2,TON
+2021,Oceania,Tonga,Residente permanente,0,TON
+2021,Oceania,Vanuatu,Categoría especial,3,VUT
+2021,Oceania,Vanuatu,Residente temporal,2,VUT
+2021,Oceania,Vanuatu,Residente permanente,1,VUT
+2021,Otros,Apatria,Categoría especial,8,XXA
+2021,Otros,Apatria,Residente temporal,0,XXA
+2021,Otros,Apatria,Residente permanente,6,XXA
+2021,Otros,No Indica,Categoría especial,12,UNK
+2021,Otros,No Indica,Residente temporal,0,UNK
+2021,Otros,No Indica,Residente permanente,7,UNK
+2022,Africa,Africa Del Sur,Categoría especial,0,ZAF
+2022,Africa,Africa Del Sur,Residente temporal,3,ZAF
+2022,Africa,Africa Del Sur,Residente permanente,4,ZAF
+2022,Africa,Angola,Categoría especial,3,AGO
+2022,Africa,Angola,Residente temporal,1,AGO
+2022,Africa,Angola,Residente permanente,3,AGO
+2022,Africa,Argelia,Categoría especial,4,DZA
+2022,Africa,Argelia,Residente temporal,8,DZA
+2022,Africa,Argelia,Residente permanente,10,DZA
+2022,Africa,Benin,Categoría especial,1,BEN
+2022,Africa,Benin,Residente temporal,1,BEN
+2022,Africa,Benin,Residente permanente,1,BEN
+2022,Africa,Botswana,Categoría especial,4,BWA
+2022,Africa,Botswana,Residente temporal,0,BWA
+2022,Africa,Botswana,Residente permanente,0,BWA
+2022,Africa,Burkina Faso,Categoría especial,1,BFA
+2022,Africa,Burkina Faso,Residente temporal,0,BFA
+2022,Africa,Burkina Faso,Residente permanente,0,BFA
+2022,Africa,Burundi,Categoría especial,4,BDI
+2022,Africa,Burundi,Residente temporal,0,BDI
+2022,Africa,Burundi,Residente permanente,1,BDI
+2022,Africa,Butan,Categoría especial,6,BTN
+2022,Africa,Butan,Residente temporal,0,BTN
+2022,Africa,Butan,Residente permanente,0,BTN
+2022,Africa,Cabo Verde,Categoría especial,2,CPV
+2022,Africa,Cabo Verde,Residente temporal,0,CPV
+2022,Africa,Cabo Verde,Residente permanente,4,CPV
+2022,Africa,Camerun,Categoría especial,45,CMR
+2022,Africa,Camerun,Residente temporal,1,CMR
+2022,Africa,Camerun,Residente permanente,3,CMR
+2022,Africa,Comoras,Categoría especial,4,COM
+2022,Africa,Comoras,Residente temporal,0,COM
+2022,Africa,Comoras,Residente permanente,6,COM
+2022,Africa,Costa De Marfil,Categoría especial,2,CIV
+2022,Africa,Costa De Marfil,Residente temporal,2,CIV
+2022,Africa,Costa De Marfil,Residente permanente,1,CIV
+2022,Africa,Egipto,Categoría especial,16,EGY
+2022,Africa,Egipto,Residente temporal,28,EGY
+2022,Africa,Egipto,Residente permanente,24,EGY
+2022,Africa,Eritrea,Categoría especial,3,ERI
+2022,Africa,Eritrea,Residente temporal,1,ERI
+2022,Africa,Eritrea,Residente permanente,1,ERI
+2022,Africa,Etiopia,Categoría especial,39,ETH
+2022,Africa,Etiopia,Residente temporal,0,ETH
+2022,Africa,Etiopia,Residente permanente,1,ETH
+2022,Africa,Gabon,Categoría especial,1,GAB
+2022,Africa,Gabon,Residente temporal,1,GAB
+2022,Africa,Gabon,Residente permanente,1,GAB
+2022,Africa,Ghana,Categoría especial,24,GHA
+2022,Africa,Ghana,Residente temporal,1,GHA
+2022,Africa,Ghana,Residente permanente,2,GHA
+2022,Africa,Guinea Bissau,Categoría especial,0,GNB
+2022,Africa,Guinea Bissau,Residente temporal,0,GNB
+2022,Africa,Guinea Bissau,Residente permanente,1,GNB
+2022,Africa,Guinea Ecuatorial,Categoría especial,1,GNQ
+2022,Africa,Guinea Ecuatorial,Residente temporal,0,GNQ
+2022,Africa,Guinea Ecuatorial,Residente permanente,0,GNQ
+2022,Africa,Kenia,Categoría especial,63,KEN
+2022,Africa,Kenia,Residente temporal,6,KEN
+2022,Africa,Kenia,Residente permanente,15,KEN
+2022,Africa,Laos,Categoría especial,2,LAO
+2022,Africa,Laos,Residente temporal,0,LAO
+2022,Africa,Laos,Residente permanente,0,LAO
+2022,Africa,Lesotho,Categoría especial,3,LSO
+2022,Africa,Lesotho,Residente temporal,0,LSO
+2022,Africa,Lesotho,Residente permanente,0,LSO
+2022,Africa,Liberia,Categoría especial,17,LBR
+2022,Africa,Liberia,Residente temporal,0,LBR
+2022,Africa,Liberia,Residente permanente,4,LBR
+2022,Africa,Libia,Categoría especial,0,LBY
+2022,Africa,Libia,Residente temporal,0,LBY
+2022,Africa,Libia,Residente permanente,12,LBY
+2022,Africa,Madagascar,Categoría especial,1,MDG
+2022,Africa,Madagascar,Residente temporal,0,MDG
+2022,Africa,Madagascar,Residente permanente,0,MDG
+2022,Africa,Malawi,Categoría especial,23,MWI
+2022,Africa,Malawi,Residente temporal,0,MWI
+2022,Africa,Malawi,Residente permanente,1,MWI
+2022,Africa,Mali,Categoría especial,0,MLI
+2022,Africa,Mali,Residente temporal,0,MLI
+2022,Africa,Mali,Residente permanente,1,MLI
+2022,Africa,Marruecos,Categoría especial,18,MAR
+2022,Africa,Marruecos,Residente temporal,14,MAR
+2022,Africa,Marruecos,Residente permanente,17,MAR
+2022,Africa,Mauricio,Categoría especial,2,MUS
+2022,Africa,Mauricio,Residente temporal,3,MUS
+2022,Africa,Mauricio,Residente permanente,0,MUS
+2022,Africa,Mozambique,Categoría especial,16,MOZ
+2022,Africa,Mozambique,Residente temporal,0,MOZ
+2022,Africa,Mozambique,Residente permanente,3,MOZ
+2022,Africa,Namibia,Categoría especial,10,NAM
+2022,Africa,Namibia,Residente temporal,1,NAM
+2022,Africa,Namibia,Residente permanente,3,NAM
+2022,Africa,Niger,Categoría especial,2,NER
+2022,Africa,Niger,Residente temporal,0,NER
+2022,Africa,Niger,Residente permanente,1,NER
+2022,Africa,Nigeria,Categoría especial,82,NGA
+2022,Africa,Nigeria,Residente temporal,7,NGA
+2022,Africa,Nigeria,Residente permanente,21,NGA
+2022,Africa,Republica Dem. Del Congo,Categoría especial,16,COD
+2022,Africa,Republica Dem. Del Congo,Residente temporal,0,COD
+2022,Africa,Republica Dem. Del Congo,Residente permanente,3,COD
+2022,Africa,Republica Centroafricana,Categoría especial,1,CAF
+2022,Africa,Republica Centroafricana,Residente temporal,0,CAF
+2022,Africa,Republica Centroafricana,Residente permanente,0,CAF
+2022,Africa,Republica De Guinea,Categoría especial,1,GIN
+2022,Africa,Republica De Guinea,Residente temporal,2,GIN
+2022,Africa,Republica De Guinea,Residente permanente,1,GIN
+2022,Africa,Republica Del Congo,Categoría especial,9,COG
+2022,Africa,Republica Del Congo,Residente temporal,0,COG
+2022,Africa,Republica Del Congo,Residente permanente,2,COG
+2022,Africa,Rwanda,Categoría especial,43,RWA
+2022,Africa,Rwanda,Residente temporal,0,RWA
+2022,Africa,Rwanda,Residente permanente,0,RWA
+2022,Africa,Sahara Occidental,Categoría especial,0,ESH
+2022,Africa,Sahara Occidental,Residente temporal,1,ESH
+2022,Africa,Sahara Occidental,Residente permanente,0,ESH
+2022,Africa,Senegal,Categoría especial,2,SEN
+2022,Africa,Senegal,Residente temporal,0,SEN
+2022,Africa,Senegal,Residente permanente,4,SEN
+2022,Africa,Seychelles,Categoría especial,0,SYC
+2022,Africa,Seychelles,Residente temporal,0,SYC
+2022,Africa,Seychelles,Residente permanente,2,SYC
+2022,Africa,Sierra Leona,Categoría especial,8,SLE
+2022,Africa,Sierra Leona,Residente temporal,1,SLE
+2022,Africa,Sierra Leona,Residente permanente,1,SLE
+2022,Africa,Somalia,Categoría especial,23,SOM
+2022,Africa,Somalia,Residente temporal,0,SOM
+2022,Africa,Somalia,Residente permanente,1,SOM
+2022,Africa,Sudafrica,Categoría especial,31,ZAF
+2022,Africa,Sudafrica,Residente temporal,84,ZAF
+2022,Africa,Sudafrica,Residente permanente,21,ZAF
+2022,Africa,Sudan,Categoría especial,16,SDN
+2022,Africa,Sudan,Residente temporal,0,SDN
+2022,Africa,Sudan,Residente permanente,1,SDN
+2022,Africa,Sudan Del Norte,Categoría especial,4,SDN
+2022,Africa,Sudan Del Norte,Residente temporal,0,SDN
+2022,Africa,Sudan Del Norte,Residente permanente,0,SDN
+2022,Africa,Swazilandia,Categoría especial,4,SWZ
+2022,Africa,Swazilandia,Residente temporal,0,SWZ
+2022,Africa,Swazilandia,Residente permanente,0,SWZ
+2022,Africa,Tanzania,Categoría especial,20,TZA
+2022,Africa,Tanzania,Residente temporal,3,TZA
+2022,Africa,Tanzania,Residente permanente,3,TZA
+2022,Africa,Togo,Categoría especial,4,TGO
+2022,Africa,Togo,Residente temporal,5,TGO
+2022,Africa,Togo,Residente permanente,0,TGO
+2022,Africa,Tunez,Categoría especial,2,TUN
+2022,Africa,Tunez,Residente temporal,3,TUN
+2022,Africa,Tunez,Residente permanente,1,TUN
+2022,Africa,Uganda,Categoría especial,53,UGA
+2022,Africa,Uganda,Residente temporal,2,UGA
+2022,Africa,Uganda,Residente permanente,3,UGA
+2022,Africa,Zambia,Categoría especial,31,ZMB
+2022,Africa,Zambia,Residente temporal,0,ZMB
+2022,Africa,Zambia,Residente permanente,0,ZMB
+2022,Africa,Zimbabwe,Categoría especial,22,ZWE
+2022,Africa,Zimbabwe,Residente temporal,1,ZWE
+2022,Africa,Zimbabwe,Residente permanente,0,ZWE
+2022,America,Antigua Y Barbuda,Categoría especial,0,ATG
+2022,America,Antigua Y Barbuda,Residente temporal,4,ATG
+2022,America,Antigua Y Barbuda,Residente permanente,1,ATG
+2022,America,Antillas Holandesa,Categoría especial,0,ANT
+2022,America,Antillas Holandesa,Residente temporal,0,ANT
+2022,America,Antillas Holandesa,Residente permanente,2,ANT
+2022,America,Argentina,Categoría especial,392,ARG
+2022,America,Argentina,Residente temporal,1791,ARG
+2022,America,Argentina,Residente permanente,1555,ARG
+2022,America,Aruba,Categoría especial,7,ABW
+2022,America,Aruba,Residente temporal,0,ABW
+2022,America,Aruba,Residente permanente,1,ABW
+2022,America,Bahamas,Categoría especial,15,BHS
+2022,America,Bahamas,Residente temporal,9,BHS
+2022,America,Bahamas,Residente permanente,10,BHS
+2022,America,Barbados,Categoría especial,18,BRB
+2022,America,Barbados,Residente temporal,4,BRB
+2022,America,Barbados,Residente permanente,4,BRB
+2022,America,Belice,Categoría especial,182,BLZ
+2022,America,Belice,Residente temporal,26,BLZ
+2022,America,Belice,Residente permanente,81,BLZ
+2022,America,Bermudas,Categoría especial,6,BMU
+2022,America,Bermudas,Residente temporal,64,BMU
+2022,America,Bermudas,Residente permanente,2,BMU
+2022,America,Bolivia,Categoría especial,269,BOL
+2022,America,Bolivia,Residente temporal,188,BOL
+2022,America,Bolivia,Residente permanente,259,BOL
+2022,America,Brasil,Categoría especial,377,BRA
+2022,America,Brasil,Residente temporal,1561,BRA
+2022,America,Brasil,Residente permanente,593,BRA
+2022,America,Canada,Categoría especial,515,CAN
+2022,America,Canada,Residente temporal,2490,CAN
+2022,America,Canada,Residente permanente,2049,CAN
+2022,America,Chile,Categoría especial,247,CHL
+2022,America,Chile,Residente temporal,908,CHL
+2022,America,Chile,Residente permanente,1003,CHL
+2022,America,Colombia,Categoría especial,9683,COL
+2022,America,Colombia,Residente temporal,5131,COL
+2022,America,Colombia,Residente permanente,15306,COL
+2022,America,Cuba,Categoría especial,1439,CUB
+2022,America,Cuba,Residente temporal,385,CUB
+2022,America,Cuba,Residente permanente,8065,CUB
+2022,America,Curazao,Categoría especial,0,CUW
+2022,America,Curazao,Residente temporal,1,CUW
+2022,America,Curazao,Residente permanente,2,CUW
+2022,America,Dominica,Categoría especial,3,DMA
+2022,America,Dominica,Residente temporal,6,DMA
+2022,America,Dominica,Residente permanente,21,DMA
+2022,America,Ecuador,Categoría especial,856,ECU
+2022,America,Ecuador,Residente temporal,673,ECU
+2022,America,Ecuador,Residente permanente,941,ECU
+2022,America,El Salvador,Categoría especial,3871,SLV
+2022,America,El Salvador,Residente temporal,2714,SLV
+2022,America,El Salvador,Residente permanente,8202,SLV
+2022,America,Estados Unidos,Categoría especial,5282,USA
+2022,America,Estados Unidos,Residente temporal,15328,USA
+2022,America,Estados Unidos,Residente permanente,11853,USA
+2022,America,Granada,Categoría especial,3,GRD
+2022,America,Granada,Residente temporal,0,GRD
+2022,America,Granada,Residente permanente,2,GRD
+2022,America,Guadalupe,Categoría especial,1,GLP
+2022,America,Guadalupe,Residente temporal,0,GLP
+2022,America,Guadalupe,Residente permanente,0,GLP
+2022,America,Guatemala,Categoría especial,1410,GTM
+2022,America,Guatemala,Residente temporal,1863,GTM
+2022,America,Guatemala,Residente permanente,1693,GTM
+2022,America,Guyana,Categoría especial,7,GUY
+2022,America,Guyana,Residente temporal,8,GUY
+2022,America,Guyana,Residente permanente,24,GUY
+2022,America,Haiti,Categoría especial,139,HTI
+2022,America,Haiti,Residente temporal,43,HTI
+2022,America,Haiti,Residente permanente,228,HTI
+2022,America,Honduras,Categoría especial,2734,HND
+2022,America,Honduras,Residente temporal,1661,HND
+2022,America,Honduras,Residente permanente,2774,HND
+2022,America,Islas Caiman,Categoría especial,3,CYM
+2022,America,Islas Caiman,Residente temporal,0,CYM
+2022,America,Islas Caiman,Residente permanente,0,CYM
+2022,America,Jamaica,Categoría especial,37,JAM
+2022,America,Jamaica,Residente temporal,61,JAM
+2022,America,Jamaica,Residente permanente,144,JAM
+2022,America,Mexico,Categoría especial,1117,MEX
+2022,America,Mexico,Residente temporal,4186,MEX
+2022,America,Mexico,Residente permanente,1900,MEX
+2022,America,Nicaragua,Categoría especial,68272,NIC
+2022,America,Nicaragua,Residente temporal,11586,NIC
+2022,America,Nicaragua,Residente permanente,317934,NIC
+2022,America,Panama,Categoría especial,1702,PAN
+2022,America,Panama,Residente temporal,938,PAN
+2022,America,Panama,Residente permanente,6827,PAN
+2022,America,Paraguay,Categoría especial,125,PRY
+2022,America,Paraguay,Residente temporal,73,PRY
+2022,America,Paraguay,Residente permanente,53,PRY
+2022,America,Peru,Categoría especial,994,PER
+2022,America,Peru,Residente temporal,1112,PER
+2022,America,Peru,Residente permanente,3696,PER
+2022,America,Puerto Rico,Categoría especial,5,PRI
+2022,America,Puerto Rico,Residente temporal,24,PRI
+2022,America,Puerto Rico,Residente permanente,10,PRI
+2022,America,Republica Dominicana,Categoría especial,1925,DOM
+2022,America,Republica Dominicana,Residente temporal,458,DOM
+2022,America,Republica Dominicana,Residente permanente,2567,DOM
+2022,America,Saint Kitts Y Nevis,Categoría especial,1,KNA
+2022,America,Saint Kitts Y Nevis,Residente temporal,1,KNA
+2022,America,Saint Kitts Y Nevis,Residente permanente,0,KNA
+2022,America,San Cristobal Y Nevis,Categoría especial,7,KNA
+2022,America,San Cristobal Y Nevis,Residente temporal,2,KNA
+2022,America,San Cristobal Y Nevis,Residente permanente,2,KNA
+2022,America,San Vicente Y Las Granadinas,Categoría especial,0,VCT
+2022,America,San Vicente Y Las Granadinas,Residente temporal,0,VCT
+2022,America,San Vicente Y Las Granadinas,Residente permanente,4,VCT
+2022,America,Santa Lucia,Categoría especial,1,LCA
+2022,America,Santa Lucia,Residente temporal,8,LCA
+2022,America,Santa Lucia,Residente permanente,2,LCA
+2022,America,Surinam,Categoría especial,6,SUR
+2022,America,Surinam,Residente temporal,4,SUR
+2022,America,Surinam,Residente permanente,8,SUR
+2022,America,Trinidad Y Tobago,Categoría especial,30,TTO
+2022,America,Trinidad Y Tobago,Residente temporal,63,TTO
+2022,America,Trinidad Y Tobago,Residente permanente,38,TTO
+2022,America,Uruguay,Categoría especial,76,URY
+2022,America,Uruguay,Residente temporal,227,URY
+2022,America,Uruguay,Residente permanente,269,URY
+2022,America,Venezuela,Categoría especial,6095,VEN
+2022,America,Venezuela,Residente temporal,6919,VEN
+2022,America,Venezuela,Residente permanente,3755,VEN
+2022,Asia,Afganistan,Categoría especial,10,AFG
+2022,Asia,Afganistan,Residente temporal,2,AFG
+2022,Asia,Afganistan,Residente permanente,3,AFG
+2022,Asia,Arabia Saudi,Categoría especial,0,SAU
+2022,Asia,Arabia Saudi,Residente temporal,2,SAU
+2022,Asia,Arabia Saudi,Residente permanente,0,SAU
+2022,Asia,Armenia,Categoría especial,2,ARM
+2022,Asia,Armenia,Residente temporal,6,ARM
+2022,Asia,Armenia,Residente permanente,0,ARM
+2022,Asia,Azerbaiyan,Categoría especial,0,AZE
+2022,Asia,Azerbaiyan,Residente temporal,2,AZE
+2022,Asia,Azerbaiyan,Residente permanente,1,AZE
+2022,Asia,Bangladesh,Categoría especial,18,BGD
+2022,Asia,Bangladesh,Residente temporal,3,BGD
+2022,Asia,Bangladesh,Residente permanente,9,BGD
+2022,Asia,Camboya,Categoría especial,26,KHM
+2022,Asia,Camboya,Residente temporal,1,KHM
+2022,Asia,Camboya,Residente permanente,0,KHM
+2022,Asia,Chad,Categoría especial,1,TCD
+2022,Asia,Chad,Residente temporal,0,TCD
+2022,Asia,Chad,Residente permanente,1,TCD
+2022,Asia,Chipre,Categoría especial,6,CYP
+2022,Asia,Chipre,Residente temporal,2,CYP
+2022,Asia,Chipre,Residente permanente,1,CYP
+2022,Asia,Emiratos Arabes Unidos,Categoría especial,1,ARE
+2022,Asia,Emiratos Arabes Unidos,Residente temporal,0,ARE
+2022,Asia,Emiratos Arabes Unidos,Residente permanente,0,ARE
+2022,Asia,Filipinas,Categoría especial,136,PHL
+2022,Asia,Filipinas,Residente temporal,252,PHL
+2022,Asia,Filipinas,Residente permanente,225,PHL
+2022,Asia,Guam,Categoría especial,2,GUM
+2022,Asia,Guam,Residente temporal,0,GUM
+2022,Asia,Guam,Residente permanente,3,GUM
+2022,Asia,Hong Kong,Categoría especial,2,HKG
+2022,Asia,Hong Kong,Residente temporal,96,HKG
+2022,Asia,Hong Kong,Residente permanente,33,HKG
+2022,Asia,India,Categoría especial,197,IND
+2022,Asia,India,Residente temporal,360,IND
+2022,Asia,India,Residente permanente,936,IND
+2022,Asia,Indonesia,Categoría especial,39,IDN
+2022,Asia,Indonesia,Residente temporal,9,IDN
+2022,Asia,Indonesia,Residente permanente,11,IDN
+2022,Asia,Iran,Categoría especial,17,IRN
+2022,Asia,Iran,Residente temporal,122,IRN
+2022,Asia,Iran,Residente permanente,38,IRN
+2022,Asia,Iraq,Categoría especial,10,IRQ
+2022,Asia,Iraq,Residente temporal,4,IRQ
+2022,Asia,Iraq,Residente permanente,2,IRQ
+2022,Asia,Israel,Categoría especial,87,ISR
+2022,Asia,Israel,Residente temporal,394,ISR
+2022,Asia,Israel,Residente permanente,175,ISR
+2022,Asia,Japon,Categoría especial,340,JPN
+2022,Asia,Japon,Residente temporal,215,JPN
+2022,Asia,Japon,Residente permanente,205,JPN
+2022,Asia,Jordania,Categoría especial,16,JOR
+2022,Asia,Jordania,Residente temporal,55,JOR
+2022,Asia,Jordania,Residente permanente,28,JOR
+2022,Asia,Kazajistan,Categoría especial,7,KAZ
+2022,Asia,Kazajistan,Residente temporal,4,KAZ
+2022,Asia,Kazajistan,Residente permanente,6,KAZ
+2022,Asia,Kirguistan,Categoría especial,9,KGZ
+2022,Asia,Kirguistan,Residente temporal,0,KGZ
+2022,Asia,Kirguistan,Residente permanente,1,KGZ
+2022,Asia,Kuwait,Categoría especial,0,KWT
+2022,Asia,Kuwait,Residente temporal,2,KWT
+2022,Asia,Kuwait,Residente permanente,1,KWT
+2022,Asia,Laos,Categoría especial,4,LAO
+2022,Asia,Laos,Residente temporal,1,LAO
+2022,Asia,Laos,Residente permanente,0,LAO
+2022,Asia,Libano,Categoría especial,17,LBN
+2022,Asia,Libano,Residente temporal,104,LBN
+2022,Asia,Libano,Residente permanente,37,LBN
+2022,Asia,Malasia,Categoría especial,11,MYS
+2022,Asia,Malasia,Residente temporal,6,MYS
+2022,Asia,Malasia,Residente permanente,22,MYS
+2022,Asia,Maldivas,Categoría especial,3,MDV
+2022,Asia,Maldivas,Residente temporal,0,MDV
+2022,Asia,Maldivas,Residente permanente,0,MDV
+2022,Asia,Mayanmar,Categoría especial,3,MMR
+2022,Asia,Mayanmar,Residente temporal,0,MMR
+2022,Asia,Mayanmar,Residente permanente,0,MMR
+2022,Asia,Mongolia,Categoría especial,2,MNG
+2022,Asia,Mongolia,Residente temporal,0,MNG
+2022,Asia,Mongolia,Residente permanente,0,MNG
+2022,Asia,Myanmar,Categoría especial,29,MMR
+2022,Asia,Myanmar,Residente temporal,0,MMR
+2022,Asia,Myanmar,Residente permanente,0,MMR
+2022,Asia,Nepal,Categoría especial,89,NPL
+2022,Asia,Nepal,Residente temporal,88,NPL
+2022,Asia,Nepal,Residente permanente,7,NPL
+2022,Asia,Oman,Categoría especial,2,OMN
+2022,Asia,Oman,Residente temporal,1,OMN
+2022,Asia,Oman,Residente permanente,1,OMN
+2022,Asia,Pakistan,Categoría especial,22,PAK
+2022,Asia,Pakistan,Residente temporal,19,PAK
+2022,Asia,Pakistan,Residente permanente,12,PAK
+2022,Asia,Palestina,Categoría especial,9,PSE
+2022,Asia,Palestina,Residente temporal,19,PSE
+2022,Asia,Palestina,Residente permanente,7,PSE
+2022,Asia,Qatar,Categoría especial,1,QAT
+2022,Asia,Qatar,Residente temporal,0,QAT
+2022,Asia,Qatar,Residente permanente,0,QAT
+2022,Asia,Republica De China Taiwan,Categoría especial,48,TWN
+2022,Asia,Republica De China Taiwan,Residente temporal,2216,TWN
+2022,Asia,Republica De China Taiwan,Residente permanente,186,TWN
+2022,Asia,Republica De Corea,Categoría especial,144,KOR
+2022,Asia,Republica De Corea,Residente temporal,435,KOR
+2022,Asia,Republica De Corea,Residente permanente,528,KOR
+2022,Asia,Republica Pop. De China,Categoría especial,3385,CHN
+2022,Asia,Republica Pop. De China,Residente temporal,6847,CHN
+2022,Asia,Republica Pop. De China,Residente permanente,1437,CHN
+2022,Asia,Republica Pop. Dem. De Corea,Categoría especial,64,PRK
+2022,Asia,Republica Pop. Dem. De Corea,Residente temporal,9,PRK
+2022,Asia,Republica Pop. Dem. De Corea,Residente permanente,18,PRK
+2022,Asia,Singapur,Categoría especial,2,SGP
+2022,Asia,Singapur,Residente temporal,8,SGP
+2022,Asia,Singapur,Residente permanente,5,SGP
+2022,Asia,Siria,Categoría especial,13,SYR
+2022,Asia,Siria,Residente temporal,80,SYR
+2022,Asia,Siria,Residente permanente,4,SYR
+2022,Asia,Sri Lanka,Categoría especial,47,LKA
+2022,Asia,Sri Lanka,Residente temporal,2,LKA
+2022,Asia,Sri Lanka,Residente permanente,12,LKA
+2022,Asia,Tailandia,Categoría especial,65,THA
+2022,Asia,Tailandia,Residente temporal,8,THA
+2022,Asia,Tailandia,Residente permanente,12,THA
+2022,Asia,Tajikistan,Categoría especial,6,TJK
+2022,Asia,Tajikistan,Residente temporal,0,TJK
+2022,Asia,Tajikistan,Residente permanente,0,TJK
+2022,Asia,Timor Oriental,Categoría especial,1,TLS
+2022,Asia,Timor Oriental,Residente temporal,0,TLS
+2022,Asia,Timor Oriental,Residente permanente,0,TLS
+2022,Asia,Turkmenistan,Categoría especial,3,TKM
+2022,Asia,Turkmenistan,Residente temporal,0,TKM
+2022,Asia,Turkmenistan,Residente permanente,0,TKM
+2022,Asia,Turquia,Categoría especial,21,TUR
+2022,Asia,Turquia,Residente temporal,32,TUR
+2022,Asia,Turquia,Residente permanente,20,TUR
+2022,Asia,Uzbekistan,Categoría especial,10,UZB
+2022,Asia,Uzbekistan,Residente temporal,6,UZB
+2022,Asia,Uzbekistan,Residente permanente,0,UZB
+2022,Asia,Vietnam,Categoría especial,36,VNM
+2022,Asia,Vietnam,Residente temporal,7,VNM
+2022,Asia,Vietnam,Residente permanente,9,VNM
+2022,Asia,Yemen,Categoría especial,3,YEM
+2022,Asia,Yemen,Residente temporal,0,YEM
+2022,Asia,Yemen,Residente permanente,1,YEM
+2022,Europa,Albania,Categoría especial,9,ALB
+2022,Europa,Albania,Residente temporal,1,ALB
+2022,Europa,Albania,Residente permanente,2,ALB
+2022,Europa,Alemania,Categoría especial,1631,DEU
+2022,Europa,Alemania,Residente temporal,1138,DEU
+2022,Europa,Alemania,Residente permanente,1742,DEU
+2022,Europa,Andorra,Categoría especial,0,AND
+2022,Europa,Andorra,Residente temporal,7,AND
+2022,Europa,Andorra,Residente permanente,2,AND
+2022,Europa,Austria,Categoría especial,185,AUT
+2022,Europa,Austria,Residente temporal,118,AUT
+2022,Europa,Austria,Residente permanente,156,AUT
+2022,Europa,Belgica,Categoría especial,79,BEL
+2022,Europa,Belgica,Residente temporal,294,BEL
+2022,Europa,Belgica,Residente permanente,308,BEL
+2022,Europa,Bielorrusia,Categoría especial,9,BLR
+2022,Europa,Bielorrusia,Residente temporal,5,BLR
+2022,Europa,Bielorrusia,Residente permanente,23,BLR
+2022,Europa,Bosnia Y Hercegovina,Categoría especial,0,BIH
+2022,Europa,Bosnia Y Hercegovina,Residente temporal,1,BIH
+2022,Europa,Bosnia Y Hercegovina,Residente permanente,1,BIH
+2022,Europa,Bulgaria,Categoría especial,15,BGR
+2022,Europa,Bulgaria,Residente temporal,15,BGR
+2022,Europa,Bulgaria,Residente permanente,53,BGR
+2022,Europa,Croacia,Categoría especial,5,HRV
+2022,Europa,Croacia,Residente temporal,0,HRV
+2022,Europa,Croacia,Residente permanente,14,HRV
+2022,Europa,Dinamarca,Categoría especial,123,DNK
+2022,Europa,Dinamarca,Residente temporal,80,DNK
+2022,Europa,Dinamarca,Residente permanente,67,DNK
+2022,Europa,Eslovaquia,Categoría especial,21,SVK
+2022,Europa,Eslovaquia,Residente temporal,28,SVK
+2022,Europa,Eslovaquia,Residente permanente,14,SVK
+2022,Europa,Eslovenia,Categoría especial,0,SVN
+2022,Europa,Eslovenia,Residente temporal,4,SVN
+2022,Europa,Eslovenia,Residente permanente,7,SVN
+2022,Europa,España,Categoría especial,933,ESP
+2022,Europa,España,Residente temporal,1941,ESP
+2022,Europa,España,Residente permanente,2302,ESP
+2022,Europa,Estonia,Categoría especial,3,EST
+2022,Europa,Estonia,Residente temporal,7,EST
+2022,Europa,Estonia,Residente permanente,3,EST
+2022,Europa,Federacion Rusa,Categoría especial,102,RUS
+2022,Europa,Federacion Rusa,Residente temporal,259,RUS
+2022,Europa,Federacion Rusa,Residente permanente,473,RUS
+2022,Europa,Finlandia,Categoría especial,92,FIN
+2022,Europa,Finlandia,Residente temporal,27,FIN
+2022,Europa,Finlandia,Residente permanente,20,FIN
+2022,Europa,Francia,Categoría especial,546,FRA
+2022,Europa,Francia,Residente temporal,1148,FRA
+2022,Europa,Francia,Residente permanente,1022,FRA
+2022,Europa,Georgia,Categoría especial,8,GEO
+2022,Europa,Georgia,Residente temporal,0,GEO
+2022,Europa,Georgia,Residente permanente,6,GEO
+2022,Europa,Hungria,Categoría especial,21,HUN
+2022,Europa,Hungria,Residente temporal,29,HUN
+2022,Europa,Hungria,Residente permanente,53,HUN
+2022,Europa,Irlanda,Categoría especial,31,IRL
+2022,Europa,Irlanda,Residente temporal,108,IRL
+2022,Europa,Irlanda,Residente permanente,42,IRL
+2022,Europa,Islandia,Categoría especial,41,ISL
+2022,Europa,Islandia,Residente temporal,0,ISL
+2022,Europa,Islandia,Residente permanente,0,ISL
+2022,Europa,Italia,Categoría especial,550,ITA
+2022,Europa,Italia,Residente temporal,1221,ITA
+2022,Europa,Italia,Residente permanente,2061,ITA
+2022,Europa,Letonia,Categoría especial,3,LVA
+2022,Europa,Letonia,Residente temporal,4,LVA
+2022,Europa,Letonia,Residente permanente,17,LVA
+2022,Europa,Liechtenstein,Categoría especial,1,LIE
+2022,Europa,Liechtenstein,Residente temporal,3,LIE
+2022,Europa,Liechtenstein,Residente permanente,0,LIE
+2022,Europa,Lituania,Categoría especial,5,LTU
+2022,Europa,Lituania,Residente temporal,19,LTU
+2022,Europa,Lituania,Residente permanente,3,LTU
+2022,Europa,Luxemburgo,Categoría especial,6,LUX
+2022,Europa,Luxemburgo,Residente temporal,11,LUX
+2022,Europa,Luxemburgo,Residente permanente,7,LUX
+2022,Europa,Macedonia,Categoría especial,3,MKD
+2022,Europa,Macedonia,Residente temporal,3,MKD
+2022,Europa,Macedonia,Residente permanente,1,MKD
+2022,Europa,Malta,Categoría especial,0,MLT
+2022,Europa,Malta,Residente temporal,1,MLT
+2022,Europa,Malta,Residente permanente,1,MLT
+2022,Europa,Moldova,Categoría especial,4,MDA
+2022,Europa,Moldova,Residente temporal,1,MDA
+2022,Europa,Moldova,Residente permanente,5,MDA
+2022,Europa,Montenegro,Categoría especial,0,MNE
+2022,Europa,Montenegro,Residente temporal,1,MNE
+2022,Europa,Montenegro,Residente permanente,1,MNE
+2022,Europa,Noruega,Categoría especial,118,NOR
+2022,Europa,Noruega,Residente temporal,64,NOR
+2022,Europa,Noruega,Residente permanente,59,NOR
+2022,Europa,Paises Bajos,Categoría especial,391,NLD
+2022,Europa,Paises Bajos,Residente temporal,546,NLD
+2022,Europa,Paises Bajos,Residente permanente,656,NLD
+2022,Europa,Polonia,Categoría especial,30,POL
+2022,Europa,Polonia,Residente temporal,86,POL
+2022,Europa,Polonia,Residente permanente,92,POL
+2022,Europa,Portugal,Categoría especial,34,PRT
+2022,Europa,Portugal,Residente temporal,136,PRT
+2022,Europa,Portugal,Residente permanente,66,PRT
+2022,Europa,Principado De Monaco,Categoría especial,0,MCO
+2022,Europa,Principado De Monaco,Residente temporal,0,MCO
+2022,Europa,Principado De Monaco,Residente permanente,1,MCO
+2022,Europa,Reino Unido,Categoría especial,285,GBR
+2022,Europa,Reino Unido,Residente temporal,651,GBR
+2022,Europa,Reino Unido,Residente permanente,579,GBR
+2022,Europa,Republica Checa,Categoría especial,20,CZE
+2022,Europa,Republica Checa,Residente temporal,64,CZE
+2022,Europa,Republica Checa,Residente permanente,57,CZE
+2022,Europa,Republica Helenica,Categoría especial,10,GRC
+2022,Europa,Republica Helenica,Residente temporal,28,GRC
+2022,Europa,Republica Helenica,Residente permanente,27,GRC
+2022,Europa,Rumania,Categoría especial,18,ROU
+2022,Europa,Rumania,Residente temporal,50,ROU
+2022,Europa,Rumania,Residente permanente,111,ROU
+2022,Europa,San Marino,Categoría especial,0,SMR
+2022,Europa,San Marino,Residente temporal,0,SMR
+2022,Europa,San Marino,Residente permanente,1,SMR
+2022,Europa,Santa Sede Del Vaticano,Categoría especial,2,VAT
+2022,Europa,Santa Sede Del Vaticano,Residente temporal,0,VAT
+2022,Europa,Santa Sede Del Vaticano,Residente permanente,1,VAT
+2022,Europa,Serbia,Categoría especial,7,SRB
+2022,Europa,Serbia,Residente temporal,10,SRB
+2022,Europa,Serbia,Residente permanente,21,SRB
+2022,Europa,Suecia,Categoría especial,70,SWE
+2022,Europa,Suecia,Residente temporal,143,SWE
+2022,Europa,Suecia,Residente permanente,160,SWE
+2022,Europa,Suiza,Categoría especial,277,CHE
+2022,Europa,Suiza,Residente temporal,593,CHE
+2022,Europa,Suiza,Residente permanente,742,CHE
+2022,Europa,Ucrania,Categoría especial,38,UKR
+2022,Europa,Ucrania,Residente temporal,34,UKR
+2022,Europa,Ucrania,Residente permanente,88,UKR
+2022,Europa,Yugoeslavia,Categoría especial,0,YUG
+2022,Europa,Yugoeslavia,Residente temporal,0,YUG
+2022,Europa,Yugoeslavia,Residente permanente,1,YUG
+2022,Oceania,Australia,Categoría especial,69,AUS
+2022,Oceania,Australia,Residente temporal,89,AUS
+2022,Oceania,Australia,Residente permanente,82,AUS
+2022,Oceania,Fiji,Categoría especial,2,FJI
+2022,Oceania,Fiji,Residente temporal,0,FJI
+2022,Oceania,Fiji,Residente permanente,0,FJI
+2022,Oceania,Islas Pitcarin,Categoría especial,1,PCN
+2022,Oceania,Islas Pitcarin,Residente temporal,0,PCN
+2022,Oceania,Islas Pitcarin,Residente permanente,2,PCN
+2022,Oceania,Islas Virgenes,Categoría especial,1,VGB
+2022,Oceania,Islas Virgenes,Residente temporal,0,VGB
+2022,Oceania,Islas Virgenes,Residente permanente,0,VGB
+2022,Oceania,Micronesia,Categoría especial,2,FSM
+2022,Oceania,Micronesia,Residente temporal,0,FSM
+2022,Oceania,Micronesia,Residente permanente,0,FSM
+2022,Oceania,Nauru,Categoría especial,1,NRU
+2022,Oceania,Nauru,Residente temporal,0,NRU
+2022,Oceania,Nauru,Residente permanente,3,NRU
+2022,Oceania,Niue,Categoría especial,1,NIU
+2022,Oceania,Niue,Residente temporal,0,NIU
+2022,Oceania,Niue,Residente permanente,0,NIU
+2022,Oceania,Nueva Zelanda,Categoría especial,56,NZL
+2022,Oceania,Nueva Zelanda,Residente temporal,17,NZL
+2022,Oceania,Nueva Zelanda,Residente permanente,20,NZL
+2022,Oceania,Timor Oriental,Categoría especial,2,TLS
+2022,Oceania,Timor Oriental,Residente temporal,0,TLS
+2022,Oceania,Timor Oriental,Residente permanente,0,TLS
+2022,Oceania,Tonga,Categoría especial,0,TON
+2022,Oceania,Tonga,Residente temporal,2,TON
+2022,Oceania,Tonga,Residente permanente,0,TON
+2022,Oceania,Vanuatu,Categoría especial,3,VUT
+2022,Oceania,Vanuatu,Residente temporal,2,VUT
+2022,Oceania,Vanuatu,Residente permanente,1,VUT
+2022,Otros,Apatria,Categoría especial,11,XXA
+2022,Otros,Apatria,Residente temporal,0,XXA
+2022,Otros,Apatria,Residente permanente,6,XXA
+2022,Otros,No Indica,Categoría especial,32,UNK
+2022,Otros,No Indica,Residente temporal,0,UNK
+2022,Otros,No Indica,Residente permanente,7,UNK
+2024,Africa,Africa Del Sur,Categoría especial,0,ZAF
+2024,Africa,Africa Del Sur,Residente temporal,3,ZAF
+2024,Africa,Africa Del Sur,Residente permanente,4,ZAF
+2024,Africa,Angola,Categoría especial,3,AGO
+2024,Africa,Angola,Residente temporal,2,AGO
+2024,Africa,Angola,Residente permanente,3,AGO
+2024,Africa,Argelia,Categoría especial,4,DZA
+2024,Africa,Argelia,Residente temporal,10,DZA
+2024,Africa,Argelia,Residente permanente,10,DZA
+2024,Africa,Benin,Categoría especial,1,BEN
+2024,Africa,Benin,Residente temporal,1,BEN
+2024,Africa,Benin,Residente permanente,1,BEN
+2024,Africa,Botswana,Categoría especial,5,BWA
+2024,Africa,Botswana,Residente temporal,0,BWA
+2024,Africa,Botswana,Residente permanente,0,BWA
+2024,Africa,Burkina Faso,Categoría especial,2,BFA
+2024,Africa,Burkina Faso,Residente temporal,0,BFA
+2024,Africa,Burkina Faso,Residente permanente,0,BFA
+2024,Africa,Burundi,Categoría especial,5,BDI
+2024,Africa,Burundi,Residente temporal,0,BDI
+2024,Africa,Burundi,Residente permanente,1,BDI
+2024,Africa,Butan,Categoría especial,9,BTN
+2024,Africa,Butan,Residente temporal,0,BTN
+2024,Africa,Butan,Residente permanente,0,BTN
+2024,Africa,Cabo Verde,Categoría especial,2,CPV
+2024,Africa,Cabo Verde,Residente temporal,0,CPV
+2024,Africa,Cabo Verde,Residente permanente,4,CPV
+2024,Africa,Camerun,Categoría especial,50,CMR
+2024,Africa,Camerun,Residente temporal,1,CMR
+2024,Africa,Camerun,Residente permanente,3,CMR
+2024,Africa,Comoras,Categoría especial,4,COM
+2024,Africa,Comoras,Residente temporal,0,COM
+2024,Africa,Comoras,Residente permanente,6,COM
+2024,Africa,Costa De Marfil,Categoría especial,2,CIV
+2024,Africa,Costa De Marfil,Residente temporal,2,CIV
+2024,Africa,Costa De Marfil,Residente permanente,2,CIV
+2024,Africa,Egipto,Categoría especial,16,EGY
+2024,Africa,Egipto,Residente temporal,31,EGY
+2024,Africa,Egipto,Residente permanente,24,EGY
+2024,Africa,Eritrea,Categoría especial,3,ERI
+2024,Africa,Eritrea,Residente temporal,1,ERI
+2024,Africa,Eritrea,Residente permanente,1,ERI
+2024,Africa,Etiopia,Categoría especial,42,ETH
+2024,Africa,Etiopia,Residente temporal,0,ETH
+2024,Africa,Etiopia,Residente permanente,1,ETH
+2024,Africa,Gabon,Categoría especial,1,GAB
+2024,Africa,Gabon,Residente temporal,1,GAB
+2024,Africa,Gabon,Residente permanente,1,GAB
+2024,Africa,Gambia,Categoría especial,1,GMB
+2024,Africa,Gambia,Residente temporal,0,GMB
+2024,Africa,Gambia,Residente permanente,0,GMB
+2024,Africa,Ghana,Categoría especial,26,GHA
+2024,Africa,Ghana,Residente temporal,1,GHA
+2024,Africa,Ghana,Residente permanente,2,GHA
+2024,Africa,Guinea Bissau,Categoría especial,0,GNB
+2024,Africa,Guinea Bissau,Residente temporal,0,GNB
+2024,Africa,Guinea Bissau,Residente permanente,1,GNB
+2024,Africa,Guinea Ecuatorial,Categoría especial,1,GNQ
+2024,Africa,Guinea Ecuatorial,Residente temporal,0,GNQ
+2024,Africa,Guinea Ecuatorial,Residente permanente,0,GNQ
+2024,Africa,Kenia,Categoría especial,67,KEN
+2024,Africa,Kenia,Residente temporal,6,KEN
+2024,Africa,Kenia,Residente permanente,15,KEN
+2024,Africa,Laos,Categoría especial,2,LAO
+2024,Africa,Laos,Residente temporal,0,LAO
+2024,Africa,Laos,Residente permanente,0,LAO
+2024,Africa,Lesotho,Categoría especial,3,LSO
+2024,Africa,Lesotho,Residente temporal,0,LSO
+2024,Africa,Lesotho,Residente permanente,0,LSO
+2024,Africa,Liberia,Categoría especial,17,LBR
+2024,Africa,Liberia,Residente temporal,1,LBR
+2024,Africa,Liberia,Residente permanente,4,LBR
+2024,Africa,Libia,Categoría especial,0,LBY
+2024,Africa,Libia,Residente temporal,0,LBY
+2024,Africa,Libia,Residente permanente,12,LBY
+2024,Africa,Madagascar,Categoría especial,2,MDG
+2024,Africa,Madagascar,Residente temporal,0,MDG
+2024,Africa,Madagascar,Residente permanente,0,MDG
+2024,Africa,Malawi,Categoría especial,25,MWI
+2024,Africa,Malawi,Residente temporal,0,MWI
+2024,Africa,Malawi,Residente permanente,1,MWI
+2024,Africa,Mali,Categoría especial,0,MLI
+2024,Africa,Mali,Residente temporal,0,MLI
+2024,Africa,Mali,Residente permanente,1,MLI
+2024,Africa,Marruecos,Categoría especial,23,MAR
+2024,Africa,Marruecos,Residente temporal,20,MAR
+2024,Africa,Marruecos,Residente permanente,17,MAR
+2024,Africa,Mauricio,Categoría especial,2,MUS
+2024,Africa,Mauricio,Residente temporal,5,MUS
+2024,Africa,Mauricio,Residente permanente,0,MUS
+2024,Africa,Mozambique,Categoría especial,16,MOZ
+2024,Africa,Mozambique,Residente temporal,0,MOZ
+2024,Africa,Mozambique,Residente permanente,3,MOZ
+2024,Africa,Namibia,Categoría especial,10,NAM
+2024,Africa,Namibia,Residente temporal,1,NAM
+2024,Africa,Namibia,Residente permanente,3,NAM
+2024,Africa,Niger,Categoría especial,2,NER
+2024,Africa,Niger,Residente temporal,0,NER
+2024,Africa,Niger,Residente permanente,1,NER
+2024,Africa,Nigeria,Categoría especial,90,NGA
+2024,Africa,Nigeria,Residente temporal,8,NGA
+2024,Africa,Nigeria,Residente permanente,21,NGA
+2024,Africa,Republica Dem. Del Congo,Categoría especial,16,COD
+2024,Africa,Republica Dem. Del Congo,Residente temporal,1,COD
+2024,Africa,Republica Dem. Del Congo,Residente permanente,3,COD
+2024,Africa,Republica Centroafricana,Categoría especial,1,CAF
+2024,Africa,Republica Centroafricana,Residente temporal,0,CAF
+2024,Africa,Republica Centroafricana,Residente permanente,0,CAF
+2024,Africa,Republica De Guinea,Categoría especial,1,GIN
+2024,Africa,Republica De Guinea,Residente temporal,3,GIN
+2024,Africa,Republica De Guinea,Residente permanente,1,GIN
+2024,Africa,Republica Del Congo,Categoría especial,9,COG
+2024,Africa,Republica Del Congo,Residente temporal,0,COG
+2024,Africa,Republica Del Congo,Residente permanente,2,COG
+2024,Africa,Rwanda,Categoría especial,51,RWA
+2024,Africa,Rwanda,Residente temporal,0,RWA
+2024,Africa,Rwanda,Residente permanente,0,RWA
+2024,Africa,Sahara Occidental,Categoría especial,0,ESH
+2024,Africa,Sahara Occidental,Residente temporal,1,ESH
+2024,Africa,Sahara Occidental,Residente permanente,0,ESH
+2024,Africa,Senegal,Categoría especial,2,SEN
+2024,Africa,Senegal,Residente temporal,0,SEN
+2024,Africa,Senegal,Residente permanente,6,SEN
+2024,Africa,Seychelles,Categoría especial,0,SYC
+2024,Africa,Seychelles,Residente temporal,0,SYC
+2024,Africa,Seychelles,Residente permanente,2,SYC
+2024,Africa,Sierra Leona,Categoría especial,8,SLE
+2024,Africa,Sierra Leona,Residente temporal,1,SLE
+2024,Africa,Sierra Leona,Residente permanente,1,SLE
+2024,Africa,Somalia,Categoría especial,23,SOM
+2024,Africa,Somalia,Residente temporal,0,SOM
+2024,Africa,Somalia,Residente permanente,1,SOM
+2024,Africa,Sudafrica,Categoría especial,35,ZAF
+2024,Africa,Sudafrica,Residente temporal,92,ZAF
+2024,Africa,Sudafrica,Residente permanente,30,ZAF
+2024,Africa,Sudan Del Sur,Categoría especial,19,SSD
+2024,Africa,Sudan Del Sur,Residente temporal,0,SSD
+2024,Africa,Sudan Del Sur,Residente permanente,1,SSD
+2024,Africa,Sudan Del Norte,Categoría especial,4,SDN
+2024,Africa,Sudan Del Norte,Residente temporal,0,SDN
+2024,Africa,Sudan Del Norte,Residente permanente,0,SDN
+2024,Africa,Swazilandia,Categoría especial,4,SWZ
+2024,Africa,Swazilandia,Residente temporal,0,SWZ
+2024,Africa,Swazilandia,Residente permanente,0,SWZ
+2024,Africa,Tanzania,Categoría especial,25,TZA
+2024,Africa,Tanzania,Residente temporal,3,TZA
+2024,Africa,Tanzania,Residente permanente,3,TZA
+2024,Africa,Togo,Categoría especial,4,TGO
+2024,Africa,Togo,Residente temporal,5,TGO
+2024,Africa,Togo,Residente permanente,0,TGO
+2024,Africa,Tunez,Categoría especial,4,TUN
+2024,Africa,Tunez,Residente temporal,3,TUN
+2024,Africa,Tunez,Residente permanente,1,TUN
+2024,Africa,Uganda,Categoría especial,62,UGA
+2024,Africa,Uganda,Residente temporal,2,UGA
+2024,Africa,Uganda,Residente permanente,3,UGA
+2024,Africa,Zambia,Categoría especial,34,ZMB
+2024,Africa,Zambia,Residente temporal,0,ZMB
+2024,Africa,Zambia,Residente permanente,0,ZMB
+2024,Africa,Zimbabwe,Categoría especial,24,ZWE
+2024,Africa,Zimbabwe,Residente temporal,1,ZWE
+2024,Africa,Zimbabwe,Residente permanente,0,ZWE
+2024,America,Antigua Y Barbuda,Categoría especial,0,ATG
+2024,America,Antigua Y Barbuda,Residente temporal,4,ATG
+2024,America,Antigua Y Barbuda,Residente permanente,1,ATG
+2024,America,Antillas Holandesa,Categoría especial,0,ANT
+2024,America,Antillas Holandesa,Residente temporal,0,ANT
+2024,America,Antillas Holandesa,Residente permanente,2,ANT
+2024,America,Argentina,Categoría especial,436,ARG
+2024,America,Argentina,Residente temporal,2053,ARG
+2024,America,Argentina,Residente permanente,1660,ARG
+2024,America,Aruba,Categoría especial,7,ABW
+2024,America,Aruba,Residente temporal,0,ABW
+2024,America,Aruba,Residente permanente,1,ABW
+2024,America,Bahamas,Categoría especial,19,BHS
+2024,America,Bahamas,Residente temporal,10,BHS
+2024,America,Bahamas,Residente permanente,10,BHS
+2024,America,Barbados,Categoría especial,19,BRB
+2024,America,Barbados,Residente temporal,4,BRB
+2024,America,Barbados,Residente permanente,4,BRB
+2024,America,Belice,Categoría especial,210,BLZ
+2024,America,Belice,Residente temporal,31,BLZ
+2024,America,Belice,Residente permanente,84,BLZ
+2024,America,Bermudas,Categoría especial,7,BMU
+2024,America,Bermudas,Residente temporal,66,BMU
+2024,America,Bermudas,Residente permanente,2,BMU
+2024,America,Bolivia,Categoría especial,293,BOL
+2024,America,Bolivia,Residente temporal,228,BOL
+2024,America,Bolivia,Residente permanente,266,BOL
+2024,America,Brasil,Categoría especial,412,BRA
+2024,America,Brasil,Residente temporal,1720,BRA
+2024,America,Brasil,Residente permanente,703,BRA
+2024,America,Canada,Categoría especial,558,CAN
+2024,America,Canada,Residente temporal,3483,CAN
+2024,America,Canada,Residente permanente,2256,CAN
+2024,America,Chile,Categoría especial,273,CHL
+2024,America,Chile,Residente temporal,1039,CHL
+2024,America,Chile,Residente permanente,1059,CHL
+2024,America,Colombia,Categoría especial,9917,COL
+2024,America,Colombia,Residente temporal,5617,COL
+2024,America,Colombia,Residente permanente,15816,COL
+2024,America,Cuba,Categoría especial,1903,CUB
+2024,America,Cuba,Residente temporal,419,CUB
+2024,America,Cuba,Residente permanente,8157,CUB
+2024,America,Curazao,Categoría especial,0,CUW
+2024,America,Curazao,Residente temporal,1,CUW
+2024,America,Curazao,Residente permanente,2,CUW
+2024,America,Dominica,Categoría especial,4,DMA
+2024,America,Dominica,Residente temporal,6,DMA
+2024,America,Dominica,Residente permanente,21,DMA
+2024,America,Ecuador,Categoría especial,958,ECU
+2024,America,Ecuador,Residente temporal,772,ECU
+2024,America,Ecuador,Residente permanente,979,ECU
+2024,America,El Salvador,Categoría especial,4129,SLV
+2024,America,El Salvador,Residente temporal,2956,SLV
+2024,America,El Salvador,Residente permanente,8557,SLV
+2024,America,Estados Unidos,Categoría especial,5838,USA
+2024,America,Estados Unidos,Residente temporal,18192,USA
+2024,America,Estados Unidos,Residente permanente,12643,USA
+2024,America,Granada,Categoría especial,5,GRD
+2024,America,Granada,Residente temporal,0,GRD
+2024,America,Granada,Residente permanente,2,GRD
+2024,America,Guadalupe,Categoría especial,1,GLP
+2024,America,Guadalupe,Residente temporal,0,GLP
+2024,America,Guadalupe,Residente permanente,0,GLP
+2024,America,Guatemala,Categoría especial,1661,GTM
+2024,America,Guatemala,Residente temporal,2017,GTM
+2024,America,Guatemala,Residente permanente,1770,GTM
+2024,America,Guyana,Categoría especial,8,GUY
+2024,America,Guyana,Residente temporal,8,GUY
+2024,America,Guyana,Residente permanente,24,GUY
+2024,America,Haiti,Categoría especial,149,HTI
+2024,America,Haiti,Residente temporal,51,HTI
+2024,America,Haiti,Residente permanente,234,HTI
+2024,America,Honduras,Categoría especial,2995,HND
+2024,America,Honduras,Residente temporal,1779,HND
+2024,America,Honduras,Residente permanente,2930,HND
+2024,America,Islas Caiman,Categoría especial,3,CYM
+2024,America,Islas Caiman,Residente temporal,0,CYM
+2024,America,Islas Caiman,Residente permanente,0,CYM
+2024,America,Jamaica,Categoría especial,45,JAM
+2024,America,Jamaica,Residente temporal,62,JAM
+2024,America,Jamaica,Residente permanente,154,JAM
+2024,America,Mexico,Categoría especial,1224,MEX
+2024,America,Mexico,Residente temporal,4591,MEX
+2024,America,Mexico,Residente permanente,2035,MEX
+2024,America,Nicaragua,Categoría especial,80532,NIC
+2024,America,Nicaragua,Residente temporal,12276,NIC
+2024,America,Nicaragua,Residente permanente,324930,NIC
+2024,America,Panama,Categoría especial,1796,PAN
+2024,America,Panama,Residente temporal,1014,PAN
+2024,America,Panama,Residente permanente,7485,PAN
+2024,America,Paraguay,Categoría especial,134,PRY
+2024,America,Paraguay,Residente temporal,81,PRY
+2024,America,Paraguay,Residente permanente,60,PRY
+2024,America,Peru,Categoría especial,1081,PER
+2024,America,Peru,Residente temporal,1292,PER
+2024,America,Peru,Residente permanente,3752,PER
+2024,America,Puerto Rico,Categoría especial,6,PRI
+2024,America,Puerto Rico,Residente temporal,25,PRI
+2024,America,Puerto Rico,Residente permanente,10,PRI
+2024,America,Republica Dominicana,Categoría especial,1958,DOM
+2024,America,Republica Dominicana,Residente temporal,493,DOM
+2024,America,Republica Dominicana,Residente permanente,2629,DOM
+2024,America,San Cristobal Y Nevis,Categoría especial,10,KNA
+2024,America,San Cristobal Y Nevis,Residente temporal,4,KNA
+2024,America,San Cristobal Y Nevis,Residente permanente,2,KNA
+2024,America,San Vicente Y Las Granadinas,Categoría especial,0,VCT
+2024,America,San Vicente Y Las Granadinas,Residente temporal,0,VCT
+2024,America,San Vicente Y Las Granadinas,Residente permanente,4,VCT
+2024,America,Santa Lucia,Categoría especial,1,LCA
+2024,America,Santa Lucia,Residente temporal,8,LCA
+2024,America,Santa Lucia,Residente permanente,2,LCA
+2024,America,Surinam,Categoría especial,6,SUR
+2024,America,Surinam,Residente temporal,4,SUR
+2024,America,Surinam,Residente permanente,8,SUR
+2024,America,Trinidad Y Tobago,Categoría especial,31,TTO
+2024,America,Trinidad Y Tobago,Residente temporal,67,TTO
+2024,America,Trinidad Y Tobago,Residente permanente,39,TTO
+2024,America,Uruguay,Categoría especial,89,URY
+2024,America,Uruguay,Residente temporal,241,URY
+2024,America,Uruguay,Residente permanente,278,URY
+2024,America,Venezuela,Categoría especial,10043,VEN
+2024,America,Venezuela,Residente temporal,7281,VEN
+2024,America,Venezuela,Residente permanente,4511,VEN
+2024,Asia,Afganistan,Categoría especial,11,AFG
+2024,Asia,Afganistan,Residente temporal,3,AFG
+2024,Asia,Afganistan,Residente permanente,3,AFG
+2024,Asia,Arabia Saudi,Categoría especial,0,SAU
+2024,Asia,Arabia Saudi,Residente temporal,3,SAU
+2024,Asia,Arabia Saudi,Residente permanente,0,SAU
+2024,Asia,Armenia,Categoría especial,2,ARM
+2024,Asia,Armenia,Residente temporal,6,ARM
+2024,Asia,Armenia,Residente permanente,1,ARM
+2024,Asia,Azerbaiyan,Categoría especial,0,AZE
+2024,Asia,Azerbaiyan,Residente temporal,2,AZE
+2024,Asia,Azerbaiyan,Residente permanente,1,AZE
+2024,Asia,Bangladesh,Categoría especial,19,BGD
+2024,Asia,Bangladesh,Residente temporal,3,BGD
+2024,Asia,Bangladesh,Residente permanente,9,BGD
+2024,Asia,Camboya,Categoría especial,28,KHM
+2024,Asia,Camboya,Residente temporal,1,KHM
+2024,Asia,Camboya,Residente permanente,0,KHM
+2024,Asia,Chad,Categoría especial,1,TCD
+2024,Asia,Chad,Residente temporal,0,TCD
+2024,Asia,Chad,Residente permanente,1,TCD
+2024,Asia,Chipre,Categoría especial,6,CYP
+2024,Asia,Chipre,Residente temporal,2,CYP
+2024,Asia,Chipre,Residente permanente,1,CYP
+2024,Asia,Emiratos Arabes Unidos,Categoría especial,1,ARE
+2024,Asia,Emiratos Arabes Unidos,Residente temporal,0,ARE
+2024,Asia,Emiratos Arabes Unidos,Residente permanente,0,ARE
+2024,Asia,Filipinas,Categoría especial,156,PHL
+2024,Asia,Filipinas,Residente temporal,274,PHL
+2024,Asia,Filipinas,Residente permanente,252,PHL
+2024,Asia,Guam,Categoría especial,2,GUM
+2024,Asia,Guam,Residente temporal,1,GUM
+2024,Asia,Guam,Residente permanente,3,GUM
+2024,Asia,Hong Kong,Categoría especial,3,HKG
+2024,Asia,Hong Kong,Residente temporal,96,HKG
+2024,Asia,Hong Kong,Residente permanente,34,HKG
+2024,Asia,India,Categoría especial,234,IND
+2024,Asia,India,Residente temporal,585,IND
+2024,Asia,India,Residente permanente,985,IND
+2024,Asia,Indonesia,Categoría especial,40,IDN
+2024,Asia,Indonesia,Residente temporal,10,IDN
+2024,Asia,Indonesia,Residente permanente,11,IDN
+2024,Asia,Iran,Categoría especial,17,IRN
+2024,Asia,Iran,Residente temporal,124,IRN
+2024,Asia,Iran,Residente permanente,40,IRN
+2024,Asia,Iraq,Categoría especial,10,IRQ
+2024,Asia,Iraq,Residente temporal,4,IRQ
+2024,Asia,Iraq,Residente permanente,2,IRQ
+2024,Asia,Israel,Categoría especial,102,ISR
+2024,Asia,Israel,Residente temporal,499,ISR
+2024,Asia,Israel,Residente permanente,211,ISR
+2024,Asia,Japon,Categoría especial,359,JPN
+2024,Asia,Japon,Residente temporal,239,JPN
+2024,Asia,Japon,Residente permanente,210,JPN
+2024,Asia,Jordania,Categoría especial,17,JOR
+2024,Asia,Jordania,Residente temporal,55,JOR
+2024,Asia,Jordania,Residente permanente,34,JOR
+2024,Asia,Kazajistan,Categoría especial,7,KAZ
+2024,Asia,Kazajistan,Residente temporal,6,KAZ
+2024,Asia,Kazajistan,Residente permanente,6,KAZ
+2024,Asia,Kirguistan,Categoría especial,10,KGZ
+2024,Asia,Kirguistan,Residente temporal,0,KGZ
+2024,Asia,Kirguistan,Residente permanente,1,KGZ
+2024,Asia,Kuwait,Categoría especial,0,KWT
+2024,Asia,Kuwait,Residente temporal,2,KWT
+2024,Asia,Kuwait,Residente permanente,1,KWT
+2024,Asia,Laos,Categoría especial,4,LAO
+2024,Asia,Laos,Residente temporal,1,LAO
+2024,Asia,Laos,Residente permanente,0,LAO
+2024,Asia,Libano,Categoría especial,19,LBN
+2024,Asia,Libano,Residente temporal,110,LBN
+2024,Asia,Libano,Residente permanente,39,LBN
+2024,Asia,Malasia,Categoría especial,11,MYS
+2024,Asia,Malasia,Residente temporal,8,MYS
+2024,Asia,Malasia,Residente permanente,22,MYS
+2024,Asia,Maldivas,Categoría especial,3,MDV
+2024,Asia,Maldivas,Residente temporal,0,MDV
+2024,Asia,Maldivas,Residente permanente,0,MDV
+2024,Asia,Mongolia,Categoría especial,2,MNG
+2024,Asia,Mongolia,Residente temporal,0,MNG
+2024,Asia,Mongolia,Residente permanente,0,MNG
+2024,Asia,Myanmar,Categoría especial,39,MMR
+2024,Asia,Myanmar,Residente temporal,0,MMR
+2024,Asia,Myanmar,Residente permanente,0,MMR
+2024,Asia,Nepal,Categoría especial,97,NPL
+2024,Asia,Nepal,Residente temporal,88,NPL
+2024,Asia,Nepal,Residente permanente,7,NPL
+2024,Asia,Oman,Categoría especial,2,OMN
+2024,Asia,Oman,Residente temporal,1,OMN
+2024,Asia,Oman,Residente permanente,1,OMN
+2024,Asia,Pakistan,Categoría especial,22,PAK
+2024,Asia,Pakistan,Residente temporal,21,PAK
+2024,Asia,Pakistan,Residente permanente,12,PAK
+2024,Asia,Palestina,Categoría especial,9,PSE
+2024,Asia,Palestina,Residente temporal,20,PSE
+2024,Asia,Palestina,Residente permanente,7,PSE
+2024,Asia,Qatar,Categoría especial,1,QAT
+2024,Asia,Qatar,Residente temporal,0,QAT
+2024,Asia,Qatar,Residente permanente,0,QAT
+2024,Asia,Republica De China Taiwan,Categoría especial,54,TWN
+2024,Asia,Republica De China Taiwan,Residente temporal,2218,TWN
+2024,Asia,Republica De China Taiwan,Residente permanente,186,TWN
+2024,Asia,Republica De Corea,Categoría especial,155,KOR
+2024,Asia,Republica De Corea,Residente temporal,453,KOR
+2024,Asia,Republica De Corea,Residente permanente,536,KOR
+2024,Asia,Republica Pop. De China,Categoría especial,3544,CHN
+2024,Asia,Republica Pop. De China,Residente temporal,7130,CHN
+2024,Asia,Republica Pop. De China,Residente permanente,1735,CHN
+2024,Asia,Republica Pop. Dem. De Corea,Categoría especial,64,PRK
+2024,Asia,Republica Pop. Dem. De Corea,Residente temporal,9,PRK
+2024,Asia,Republica Pop. Dem. De Corea,Residente permanente,19,PRK
+2024,Asia,Singapur,Categoría especial,3,SGP
+2024,Asia,Singapur,Residente temporal,8,SGP
+2024,Asia,Singapur,Residente permanente,6,SGP
+2024,Asia,Siria,Categoría especial,14,SYR
+2024,Asia,Siria,Residente temporal,80,SYR
+2024,Asia,Siria,Residente permanente,11,SYR
+2024,Asia,Sri Lanka,Categoría especial,48,LKA
+2024,Asia,Sri Lanka,Residente temporal,3,LKA
+2024,Asia,Sri Lanka,Residente permanente,12,LKA
+2024,Asia,Tailandia,Categoría especial,69,THA
+2024,Asia,Tailandia,Residente temporal,9,THA
+2024,Asia,Tailandia,Residente permanente,14,THA
+2024,Asia,Tajikistan,Categoría especial,6,TJK
+2024,Asia,Tajikistan,Residente temporal,0,TJK
+2024,Asia,Tajikistan,Residente permanente,0,TJK
+2024,Asia,Timor Oriental,Categoría especial,1,TLS
+2024,Asia,Timor Oriental,Residente temporal,0,TLS
+2024,Asia,Timor Oriental,Residente permanente,0,TLS
+2024,Asia,Turkmenistan,Categoría especial,3,TKM
+2024,Asia,Turkmenistan,Residente temporal,0,TKM
+2024,Asia,Turkmenistan,Residente permanente,0,TKM
+2024,Asia,Turquia,Categoría especial,23,TUR
+2024,Asia,Turquia,Residente temporal,42,TUR
+2024,Asia,Turquia,Residente permanente,24,TUR
+2024,Asia,Uzbekistan,Categoría especial,10,UZB
+2024,Asia,Uzbekistan,Residente temporal,6,UZB
+2024,Asia,Uzbekistan,Residente permanente,0,UZB
+2024,Asia,Vietnam,Categoría especial,42,VNM
+2024,Asia,Vietnam,Residente temporal,8,VNM
+2024,Asia,Vietnam,Residente permanente,9,VNM
+2024,Asia,Yemen,Categoría especial,3,YEM
+2024,Asia,Yemen,Residente temporal,0,YEM
+2024,Asia,Yemen,Residente permanente,1,YEM
+2024,Europa,Albania,Categoría especial,9,ALB
+2024,Europa,Albania,Residente temporal,5,ALB
+2024,Europa,Albania,Residente permanente,2,ALB
+2024,Europa,Alemania,Categoría especial,1778,DEU
+2024,Europa,Alemania,Residente temporal,1495,DEU
+2024,Europa,Alemania,Residente permanente,1826,DEU
+2024,Europa,Andorra,Categoría especial,0,AND
+2024,Europa,Andorra,Residente temporal,9,AND
+2024,Europa,Andorra,Residente permanente,3,AND
+2024,Europa,Austria,Categoría especial,191,AUT
+2024,Europa,Austria,Residente temporal,168,AUT
+2024,Europa,Austria,Residente permanente,163,AUT
+2024,Europa,Belgica,Categoría especial,85,BEL
+2024,Europa,Belgica,Residente temporal,321,BEL
+2024,Europa,Belgica,Residente permanente,323,BEL
+2024,Europa,Bielorrusia,Categoría especial,11,BLR
+2024,Europa,Bielorrusia,Residente temporal,7,BLR
+2024,Europa,Bielorrusia,Residente permanente,24,BLR
+2024,Europa,Bosnia Y Hercegovina,Categoría especial,0,BIH
+2024,Europa,Bosnia Y Hercegovina,Residente temporal,1,BIH
+2024,Europa,Bosnia Y Hercegovina,Residente permanente,1,BIH
+2024,Europa,Bulgaria,Categoría especial,15,BGR
+2024,Europa,Bulgaria,Residente temporal,16,BGR
+2024,Europa,Bulgaria,Residente permanente,53,BGR
+2024,Europa,Croacia,Categoría especial,5,HRV
+2024,Europa,Croacia,Residente temporal,0,HRV
+2024,Europa,Croacia,Residente permanente,14,HRV
+2024,Europa,Dinamarca,Categoría especial,141,DNK
+2024,Europa,Dinamarca,Residente temporal,83,DNK
+2024,Europa,Dinamarca,Residente permanente,72,DNK
+2024,Europa,Eslovaquia,Categoría especial,21,SVK
+2024,Europa,Eslovaquia,Residente temporal,28,SVK
+2024,Europa,Eslovaquia,Residente permanente,16,SVK
+2024,Europa,Eslovenia,Categoría especial,1,SVN
+2024,Europa,Eslovenia,Residente temporal,9,SVN
+2024,Europa,Eslovenia,Residente permanente,8,SVN
+2024,Europa,España,Categoría especial,983,ESP
+2024,Europa,España,Residente temporal,2114,ESP
+2024,Europa,España,Residente permanente,2395,ESP
+2024,Europa,Estonia,Categoría especial,5,EST
+2024,Europa,Estonia,Residente temporal,9,EST
+2024,Europa,Estonia,Residente permanente,3,EST
+2024,Europa,Federacion Rusa,Categoría especial,114,RUS
+2024,Europa,Federacion Rusa,Residente temporal,342,RUS
+2024,Europa,Federacion Rusa,Residente permanente,536,RUS
+2024,Europa,Finlandia,Categoría especial,103,FIN
+2024,Europa,Finlandia,Residente temporal,32,FIN
+2024,Europa,Finlandia,Residente permanente,20,FIN
+2024,Europa,Francia,Categoría especial,593,FRA
+2024,Europa,Francia,Residente temporal,1329,FRA
+2024,Europa,Francia,Residente permanente,1115,FRA
+2024,Europa,Georgia,Categoría especial,8,GEO
+2024,Europa,Georgia,Residente temporal,0,GEO
+2024,Europa,Georgia,Residente permanente,6,GEO
+2024,Europa,Hungria,Categoría especial,27,HUN
+2024,Europa,Hungria,Residente temporal,38,HUN
+2024,Europa,Hungria,Residente permanente,56,HUN
+2024,Europa,Irlanda,Categoría especial,34,IRL
+2024,Europa,Irlanda,Residente temporal,116,IRL
+2024,Europa,Irlanda,Residente permanente,43,IRL
+2024,Europa,Islandia,Categoría especial,42,ISL
+2024,Europa,Islandia,Residente temporal,0,ISL
+2024,Europa,Islandia,Residente permanente,0,ISL
+2024,Europa,Italia,Categoría especial,666,ITA
+2024,Europa,Italia,Residente temporal,1334,ITA
+2024,Europa,Italia,Residente permanente,2135,ITA
+2024,Europa,Letonia,Categoría especial,3,LVA
+2024,Europa,Letonia,Residente temporal,4,LVA
+2024,Europa,Letonia,Residente permanente,18,LVA
+2024,Europa,Liechtenstein,Categoría especial,1,LIE
+2024,Europa,Liechtenstein,Residente temporal,3,LIE
+2024,Europa,Liechtenstein,Residente permanente,0,LIE
+2024,Europa,Lituania,Categoría especial,7,LTU
+2024,Europa,Lituania,Residente temporal,20,LTU
+2024,Europa,Lituania,Residente permanente,7,LTU
+2024,Europa,Luxemburgo,Categoría especial,6,LUX
+2024,Europa,Luxemburgo,Residente temporal,13,LUX
+2024,Europa,Luxemburgo,Residente permanente,9,LUX
+2024,Europa,Macedonia,Categoría especial,3,MKD
+2024,Europa,Macedonia,Residente temporal,3,MKD
+2024,Europa,Macedonia,Residente permanente,1,MKD
+2024,Europa,Malta,Categoría especial,0,MLT
+2024,Europa,Malta,Residente temporal,1,MLT
+2024,Europa,Malta,Residente permanente,1,MLT
+2024,Europa,Moldova,Categoría especial,4,MDA
+2024,Europa,Moldova,Residente temporal,1,MDA
+2024,Europa,Moldova,Residente permanente,5,MDA
+2024,Europa,Montenegro,Categoría especial,0,MNE
+2024,Europa,Montenegro,Residente temporal,1,MNE
+2024,Europa,Montenegro,Residente permanente,1,MNE
+2024,Europa,Noruega,Categoría especial,134,NOR
+2024,Europa,Noruega,Residente temporal,71,NOR
+2024,Europa,Noruega,Residente permanente,61,NOR
+2024,Europa,Paises Bajos,Categoría especial,425,NLD
+2024,Europa,Paises Bajos,Residente temporal,635,NLD
+2024,Europa,Paises Bajos,Residente permanente,688,NLD
+2024,Europa,Polonia,Categoría especial,33,POL
+2024,Europa,Polonia,Residente temporal,117,POL
+2024,Europa,Polonia,Residente permanente,103,POL
+2024,Europa,Portugal,Categoría especial,45,PRT
+2024,Europa,Portugal,Residente temporal,154,PRT
+2024,Europa,Portugal,Residente permanente,75,PRT
+2024,Europa,Principado De Monaco,Categoría especial,0,MCO
+2024,Europa,Principado De Monaco,Residente temporal,0,MCO
+2024,Europa,Principado De Monaco,Residente permanente,1,MCO
+2024,Europa,Reino Unido,Categoría especial,322,GBR
+2024,Europa,Reino Unido,Residente temporal,766,GBR
+2024,Europa,Reino Unido,Residente permanente,619,GBR
+2024,Europa,Republica Checa,Categoría especial,22,CZE
+2024,Europa,Republica Checa,Residente temporal,90,CZE
+2024,Europa,Republica Checa,Residente permanente,59,CZE
+2024,Europa,Republica Helenica,Categoría especial,11,GRC
+2024,Europa,Republica Helenica,Residente temporal,32,GRC
+2024,Europa,Republica Helenica,Residente permanente,29,GRC
+2024,Europa,Rumania,Categoría especial,23,ROU
+2024,Europa,Rumania,Residente temporal,63,ROU
+2024,Europa,Rumania,Residente permanente,112,ROU
+2024,Europa,San Marino,Categoría especial,0,SMR
+2024,Europa,San Marino,Residente temporal,2,SMR
+2024,Europa,San Marino,Residente permanente,1,SMR
+2024,Europa,Santa Sede Del Vaticano,Categoría especial,2,VAT
+2024,Europa,Santa Sede Del Vaticano,Residente temporal,0,VAT
+2024,Europa,Santa Sede Del Vaticano,Residente permanente,1,VAT
+2024,Europa,Serbia,Categoría especial,8,SRB
+2024,Europa,Serbia,Residente temporal,13,SRB
+2024,Europa,Serbia,Residente permanente,22,SRB
+2024,Europa,Suecia,Categoría especial,80,SWE
+2024,Europa,Suecia,Residente temporal,154,SWE
+2024,Europa,Suecia,Residente permanente,165,SWE
+2024,Europa,Suiza,Categoría especial,304,CHE
+2024,Europa,Suiza,Residente temporal,691,CHE
+2024,Europa,Suiza,Residente permanente,762,CHE
+2024,Europa,Ucrania,Categoría especial,40,UKR
+2024,Europa,Ucrania,Residente temporal,41,UKR
+2024,Europa,Ucrania,Residente permanente,94,UKR
+2024,Europa,Yugoeslavia,Categoría especial,0,YUG
+2024,Europa,Yugoeslavia,Residente temporal,0,YUG
+2024,Europa,Yugoeslavia,Residente permanente,1,YUG
+2024,Oceania,Australia,Categoría especial,81,AUS
+2024,Oceania,Australia,Residente temporal,111,AUS
+2024,Oceania,Australia,Residente permanente,90,AUS
+2024,Oceania,Fiji,Categoría especial,2,FJI
+2024,Oceania,Fiji,Residente temporal,0,FJI
+2024,Oceania,Fiji,Residente permanente,0,FJI
+2024,Oceania,Islas Pitcarin,Categoría especial,1,PCN
+2024,Oceania,Islas Pitcarin,Residente temporal,0,PCN
+2024,Oceania,Islas Pitcarin,Residente permanente,2,PCN
+2024,Oceania,Islas Virgenes,Categoría especial,1,VGB
+2024,Oceania,Islas Virgenes,Residente temporal,0,VGB
+2024,Oceania,Islas Virgenes,Residente permanente,0,VGB
+2024,Oceania,Micronesia,Categoría especial,2,FSM
+2024,Oceania,Micronesia,Residente temporal,0,FSM
+2024,Oceania,Micronesia,Residente permanente,0,FSM
+2024,Oceania,Nauru,Categoría especial,1,NRU
+2024,Oceania,Nauru,Residente temporal,0,NRU
+2024,Oceania,Nauru,Residente permanente,3,NRU
+2024,Oceania,Niue,Categoría especial,1,NIU
+2024,Oceania,Niue,Residente temporal,0,NIU
+2024,Oceania,Niue,Residente permanente,0,NIU
+2024,Oceania,Nueva Zelanda,Categoría especial,65,NZL
+2024,Oceania,Nueva Zelanda,Residente temporal,24,NZL
+2024,Oceania,Nueva Zelanda,Residente permanente,24,NZL
+2024,Oceania,Timor Oriental,Categoría especial,2,TLS
+2024,Oceania,Timor Oriental,Residente temporal,0,TLS
+2024,Oceania,Timor Oriental,Residente permanente,0,TLS
+2024,Oceania,Turcos Y Caicos,Categoría especial,0,TCA
+2024,Oceania,Turcos Y Caicos,Residente temporal,1,TCA
+2024,Oceania,Turcos Y Caicos,Residente permanente,0,TCA
+2024,Oceania,Reino Tonga,Categoría especial,1,TON
+2024,Oceania,Reino Tonga,Residente temporal,2,TON
+2024,Oceania,Reino Tonga,Residente permanente,0,TON
+2024,Oceania,Vanuatu,Categoría especial,3,VUT
+2024,Oceania,Vanuatu,Residente temporal,2,VUT
+2024,Oceania,Vanuatu,Residente permanente,1,VUT
+2024,Otros,Apatria,Categoría especial,135,XXA
+2024,Otros,Apatria,Residente temporal,0,XXA
+2024,Otros,Apatria,Residente permanente,6,XXA
+2024,Otros,No Indica,Categoría especial,32,UNK
+2024,Otros,No Indica,Residente temporal,0,UNK
+2024,Otros,No Indica,Residente permanente,7,UNK

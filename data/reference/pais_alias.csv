@@ -1,0 +1,336 @@
+nombre_en_fuente,pais_iso3,fuentes
+Afganistan,AFG,DGME
+Africa Del Sur,ZAF,DGME
+Albania,ALB,DGME
+Alemania,DEU,DGME;ICT
+Andorra,AND,DGME
+Angola,AGO,DGME
+Anguilla,AIA,DGME
+Antigua Y Barbuda,ATG,DGME
+Antillas Holandesa,ANT,DGME
+Antillas Holandesas,ANT,DGME
+Apatria,XXA,DGME
+Apatrida,XXA,DGME
+Arabia Saudi,SAU,DGME
+Arabia Saudita,SAU,DGME;ICT
+Arabia Sudita,SAU,DGME
+Argel,DZA,DGME
+Argelia,DZA,DGME
+Argentina,ARG,DGME;ICT
+Armenia,ARM,DGME
+Aruba,ABW,DGME
+Australia,AUS,DGME;ICT
+Austria,AUT,DGME;ICT
+Azerbaiyan,AZE,DGME
+Bahamas,BHS,DGME;ICT
+Bahrein,BHR,DGME
+Bangladesh,BGD,DGME
+Barabados,BRB,DGME
+Barbados,BRB,DGME
+Barein,BHR,DGME
+Belgica,BEL,DGME;ICT
+Belice,BLZ,DGME;ICT
+Benin,BEN,DGME
+Bermuda,BMU,DGME;ICT
+Bermudas,BMU,DGME
+Bhutan,BTN,DGME
+Bielorrusia,BLR,DGME
+Bolivia,BOL,DGME;ICT
+Bosnia Y Hercegovina,BIH,DGME
+Bosnia Y Herzegovina,BIH,DGME
+Botsuana,BWA,DGME
+Botswana,BWA,DGME
+Brasil,BRA,DGME;ICT
+Brunei,BRN,DGME
+Bukina Faso,BFA,DGME
+Bulgaria,BGR,DGME
+Burindi,BDI,DGME
+Burkina Faso,BFA,DGME
+Burundi,BDI,DGME
+Butan,BTN,DGME
+Bélgica,BEL,ICT
+Cabo Verde,CPV,DGME
+Camboya,KHM,DGME
+Camerun,CMR,DGME
+Canada,CAN,DGME
+Canadá,CAN,ICT
+Chad,TCD,DGME
+Chile,CHL,DGME;ICT
+China,CHN,ICT
+Chipre,CYP,DGME
+Ciudad Del Vaticano,VAT,DGME
+Colombia,COL,DGME;ICT
+Comoras,COM,DGME
+Comoros,COM,DGME
+Costa De Mafil,CIV,DGME
+Costa De Marfil,CIV,DGME
+Costa Rica,CRI,DGME
+Cripre,CYP,DGME
+Croacia,HRV,DGME
+Cuba,CUB,DGME;ICT
+Curazao,CUW,DGME
+Dinamarca,DNK,DGME;ICT
+Djibouti,DJI,DGME
+Dominica,DMA,DGME
+Ecuador,ECU,DGME;ICT
+Egipto,EGY,DGME;ICT
+El Salavador,SLV,DGME
+El Salvador,SLV,DGME;ICT
+Emiratos Arabes Unidos,ARE,DGME;ICT
+Emiratos Arebes Unidos,ARE,DGME
+Emiratos Árabes Unidos,ARE,ICT
+Eritrea,ERI,DGME
+Eslovaquia,SVK,DGME;ICT
+Eslovenia,SVN,DGME
+España,ESP,DGME;ICT
+Estados Unidos,USA,DGME;ICT
+Estiopia,ETH,DGME
+Estonia,EST,DGME
+Etiopia,ETH,DGME
+Federacion Rusa,RUS,DGME
+Fiji,FJI,DGME
+Filiphinas,PHL,DGME
+Filipinas,PHL,DGME;ICT
+Finlandia,FIN,DGME;ICT
+Francia,FRA,DGME;ICT
+Gabon,GAB,DGME
+Gambia,GMB,DGME
+Ganada,GRD,DGME
+Georgia,GEO,DGME
+Ghana,GHA,DGME
+Granada,GRD,DGME
+Guadalupe,GLP,DGME
+Guam,GUM,DGME
+Guatemala,GTM,DGME;ICT
+Guayana,GUY,DGME
+Guinea Bissau,GNB,DGME
+Guinea Ecuatorial,GNQ,DGME
+Guinea-Bissau,GNB,DGME
+Gutemala,GTM,DGME
+Guyana,GUY,DGME;ICT
+Guyana Francesa,GUF,DGME;ICT
+Haiti,HTI,DGME;ICT
+Haití,HTI,ICT
+Honduras,HND,DGME;ICT
+Hong Kong,HKG,DGME
+Hungria,HUN,DGME;ICT
+Hungría,HUN,ICT
+India,IND,DGME;ICT
+Indonesia,IDN,DGME
+Irak,IRQ,DGME
+Iran,IRN,DGME
+Iraq,IRQ,DGME
+Irlanda,IRL,DGME;ICT
+Isla Christmas,CXR,DGME
+Isla De Man,IMN,DGME
+Islandia,ISL,DGME
+Islas Caiman,CYM,DGME
+Islas Fiji,FJI,DGME
+Islas Heard Y Mcdonald,HMD,DGME
+Islas Marshal,MHL,DGME
+Islas Marshall,MHL,DGME
+Islas Pitcarin,PCN,DGME
+Islas Turcas Y Caicas,TCA,DGME
+Islas Turcos Y Caicos,TCA,DGME
+Islas Turks Y Caicos,TCA,DGME
+Islas Virgenes,VGB,DGME
+Islas Virgenes (Britanicas),VGB,DGME
+Islas Virgenes (E.E.U.U),VIR,DGME
+Islas Virgenes Britanicas,VGB,DGME
+Israel,ISR,DGME;ICT
+Italia,ITA,DGME;ICT
+Jamaica,JAM,DGME;ICT
+Japon,JPN,DGME;ICT
+Japón,JPN,ICT
+Jordania,JOR,DGME;ICT
+Kazagistan,KAZ,DGME
+Kazaguistan,KAZ,DGME
+Kazajistan,KAZ,DGME
+Kenia,KEN,DGME
+Kirgistan,KGZ,DGME
+Kirguistan,KGZ,DGME
+Kiribati,KIR,DGME
+Kosovo,XKX,DGME
+Kuwait,KWT,DGME
+Kyrgystan,KGZ,DGME
+Laos,LAO,DGME
+Lesotho,LSO,DGME
+Letonia,LVA,DGME
+Libano,LBN,DGME;ICT
+Liberia,LBR,DGME
+Libia,LBY,DGME
+Liechtenstein,LIE,DGME
+Lituania,LTU,DGME
+Ltuania,LTU,DGME
+Luxemburgo,LUX,DGME
+Líbano,LBN,ICT
+Macedonia,MKD,DGME
+Madagascar,MDG,DGME
+Madagascar.,MDG,DGME
+Malasia,MYS,DGME
+Malawi,MWI,DGME
+Maldivas,MDV,DGME
+Mali,MLI,DGME
+Malta,MLT,DGME
+Marruecos,MAR,DGME;ICT
+Mauricio,MUS,DGME
+Mauritania,MRT,DGME
+Mayanmar,MMR,DGME
+Mexico,MEX,DGME
+Micronesia,FSM,DGME
+Moldavia,MDA,DGME
+Moldova,MDA,DGME
+Mongolia,MNG,DGME
+Montenegro,MNE,DGME
+Mozambique,MOZ,DGME
+Myanmar,MMR,DGME
+Mynmar,MMR,DGME
+México,MEX,ICT
+Namibia,NAM,DGME
+Naru,NRU,DGME
+Nauru,NRU,DGME
+Nepal,NPL,DGME
+Nicaragua,NIC,DGME;ICT
+Niger,NER,DGME
+Nigeria,NGA,DGME;ICT
+Niu,NIU,DGME
+Niue,NIU,DGME
+No Indica,UNK,DGME
+Noruega,NOR,DGME;ICT
+Nueva Zelanda,NZL,DGME;ICT
+Oman,OMN,DGME
+"Otras zonas (Asia, África y Oriente Medio)",OT-ZON,ICT
+Otros Asia Y El Pacífico,OT-ASP,ICT
+Otros Asia y el Pacífico,OT-ASP,ICT
+Otros Caribe,OT-CAR,ICT
+Otros Europa,OT-EUR,ICT
+Otros Oriente Medio,OT-OME,ICT
+Otros África,OT-AFR,ICT
+Paises Bajos,NLD,DGME
+Pakistan,PAK,DGME
+Pakistasn,PAK,DGME
+Palaos,PLW,DGME
+Palau,PLW,DGME
+Palestina,PSE,DGME
+Panama,PAN,DGME;ICT
+Panamá,PAN,ICT
+Papua Nueva Guinea,PNG,DGME
+Paraguay,PRY,DGME;ICT
+Países Bajos,NLD,ICT
+Peru,PER,DGME;ICT
+Perú,PER,DGME;ICT
+Polonia,POL,DGME;ICT
+Portugal,PRT,DGME;ICT
+Principado De Monaco,MCO,DGME
+Puero Rico,PRI,DGME
+Puerto Rico,PRI,DGME;ICT
+Qatar,QAT,DGME
+Re. Checa,CZE,DGME
+Reino Tonga,TON,DGME
+Reino Unido,GBR,DGME;ICT
+Rep. Centroafricana,CAF,DGME
+Rep. Checa,CZE,DGME
+Rep. Corea,KOR,DGME
+Rep. De China,TWN,DGME
+Rep. De China Taiwan,TWN,DGME
+Rep. De Corea,KOR,DGME
+Rep. De Corea (Sur),KOR,ICT
+Rep. De Cores,KOR,DGME
+Rep. De Guinea,GIN,DGME
+Rep. De Taiwan,TWN,DGME
+Rep. Del Congo,COG,DGME
+Rep. Dem. Del Congo,COD,DGME
+Rep. Dominicaa,DOM,DGME
+Rep. Dominicana,DOM,DGME
+Rep. Guinea,GIN,DGME
+Rep. Helenica,GRC,DGME
+Rep. Pop. De China,CHN,DGME
+Rep. Pop. Dem. De Corea,PRK,DGME
+Rep. Pop.- Dem. De Corea,PRK,DGME
+Rep. de Corea (Sur),KOR,ICT
+Rep.Pop. De China,CHN,DGME
+Republica Centroafricana,CAF,DGME
+Republica Checa,CZE,DGME;ICT
+Republica De China Taiwan,TWN,DGME
+Republica De Corea,KOR,DGME
+Republica De Guinea,GIN,DGME
+Republica Del Congo,COG,DGME
+Republica Dem. Del Congo,COD,DGME
+Republica Dominicana,DOM,DGME;ICT
+Republica Helenica,GRC,DGME
+Republica Pop. De China,CHN,DGME
+Republica Pop. Dem. De Corea,PRK,DGME
+República Checa,CZE,ICT
+República Dominicana,DOM,ICT
+Ruanda,RWA,DGME
+Rumania,ROU,DGME;ICT
+Rumanía,ROU,ICT
+Rusia,RUS,ICT
+Rwanda,RWA,DGME
+Sahara Occidental,ESH,DGME
+Saint Kitts Y Nevis,KNA,DGME
+Samoa,WSM,DGME
+Samoa Occidental,WSM,DGME
+San Cristobal Y Nevis,KNA,DGME
+San Cristobal Y Nieves,KNA,DGME
+San Marino,SMR,DGME
+San Vicente Y Las Granadinas,VCT,DGME
+Santa Lucia,LCA,DGME
+Santa Sede Del Vaticano,VAT,DGME
+Santo Tome Y Principe,STP,DGME
+Senegal,SEN,DGME
+Serbia,SRB,DGME
+Seychelles,SYC,DGME
+Sierra Leona,SLE,DGME
+Singapur,SGP,DGME
+Siria,SYR,DGME
+Somalia,SOM,DGME
+Sri Lanka,LKA,DGME
+Suadfrica,ZAF,DGME
+Suazilandia,SWZ,DGME
+Sudafrica,ZAF,DGME;ICT
+Sudan,SDN,DGME
+Sudan Del Norte,SDN,DGME
+Sudan Del Sur,SSD,DGME
+Sudan Sur,SSD,DGME
+Sudáfrica,ZAF,ICT
+Suecia,SWE,DGME;ICT
+Suiza,CHE,DGME;ICT
+Surinam,SUR,DGME;ICT
+Surinan,SUR,DGME
+Swazilandia,SWZ,DGME
+Tailandia,THA,DGME
+Taiwan,TWN,ICT
+Tajikistan,TJK,DGME
+Tanzania,TZA,DGME
+Tayikistan,TJK,DGME
+Timor Oriental,TLS,DGME
+Togo,TGO,DGME
+Tonga,TON,DGME
+Trinidad Y Tobago,TTO,DGME;ICT
+Trinidad y Tobago,TTO,ICT
+Tunes,TUN,DGME
+Tunez,TUN,DGME
+Turcos Y Caicos,TCA,DGME
+Turkmenistan,TKM,DGME
+Turquia,TUR,DGME
+Tuvalu,TUV,DGME
+Ucrania,UKR,DGME
+Uganda,UGA,DGME
+Uruguay,URY,DGME;ICT
+Uzbekistan,UZB,DGME
+Uzbequistan,UZB,DGME
+Vanatu,VUT,DGME
+Vanuatu,VUT,DGME
+Venezuela,VEN,DGME;ICT
+Venzuela,VEN,DGME
+Viet Nam,VNM,DGME
+Viet Nan,VNM,DGME
+Vietnam,VNM,DGME
+Vietnan,VNM,DGME
+Yemen,YEM,DGME
+Yugoeslavia,YUG,DGME
+Zambia,ZMB,DGME
+Zimbabue,ZWE,DGME
+Zimbabwe,ZWE,DGME
+Zinbabwe,ZWE,DGME

@@ -1,0 +1,221 @@
+aeropuerto,anio,region_residencia,tema,categoria,nivel,valor,unidad,respuesta_multiple,pais_iso3
+Daniel Oduber (LIR),2025,Total,motivo_visita,Motivos personales,subtotal,95.6,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Motivos personales,subtotal,95.2,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Motivos personales,subtotal,97.4,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Motivos personales,subtotal,97.6,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,"Vacaciones, ocio, recreo o placer",detalle,83.6,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,"Vacaciones, ocio, recreo o placer",detalle,83.8,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,"Vacaciones, ocio, recreo o placer",detalle,83.9,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,"Vacaciones, ocio, recreo o placer",detalle,83.1,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Visita a familiares y amigos,detalle,8.2,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Visita a familiares y amigos,detalle,6.9,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Visita a familiares y amigos,detalle,12.3,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Visita a familiares y amigos,detalle,12.4,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Religión/peregrinaciones,detalle,1.8,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Religión/peregrinaciones,detalle,2.3,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Religión/peregrinaciones,detalle,0.0,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Religión/peregrinaciones,detalle,0.0,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Educación y formación,detalle,1.6,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Educación y formación,detalle,1.8,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Educación y formación,detalle,0.9,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Educación y formación,detalle,1.3,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Salud y atención médica,detalle,0.2,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Salud y atención médica,detalle,0.2,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Salud y atención médica,detalle,0.1,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Salud y atención médica,detalle,0.0,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Compras,detalle,0.2,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Compras,detalle,0.2,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Compras,detalle,0.2,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Compras,detalle,0.6,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Otros motivos personales,detalle,0.0,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Otros motivos personales,detalle,0.0,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Otros motivos personales,detalle,0.1,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Otros motivos personales,detalle,0.2,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Negocios y motivos profesionales,subtotal,4.4,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Negocios y motivos profesionales,subtotal,4.8,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Negocios y motivos profesionales,subtotal,2.6,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Negocios y motivos profesionales,subtotal,2.4,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Reuniones de negocios y profesionales,detalle,3.26,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Reuniones de negocios y profesionales,detalle,3.76,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Reuniones de negocios y profesionales,detalle,0.88,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Reuniones de negocios y profesionales,detalle,2.07,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Conferencias o congresos,detalle,0.36,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Conferencias o congresos,detalle,0.13,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Conferencias o congresos,detalle,1.19,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Conferencias o congresos,detalle,0.11,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Viaje de incentivo organizado por los empleadores,detalle,0.51,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Viaje de incentivo organizado por los empleadores,detalle,0.62,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Viaje de incentivo organizado por los empleadores,detalle,0.18,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Viaje de incentivo organizado por los empleadores,detalle,0.0,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Actividades deportivas/culturales profesionales,detalle,0.31,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Actividades deportivas/culturales profesionales,detalle,0.3,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Actividades deportivas/culturales profesionales,detalle,0.37,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Actividades deportivas/culturales profesionales,detalle,0.23,%,False,
+Daniel Oduber (LIR),2025,Total,motivo_visita,Otros motivos profesionales,detalle,0.0,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,motivo_visita,Otros motivos profesionales,detalle,0.0,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,motivo_visita,Otros motivos profesionales,detalle,0.0,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,motivo_visita,Otros motivos profesionales,detalle,0.0,%,False,
+Daniel Oduber (LIR),2025,Total,modalidad_viaje,Compró un paquete de viaje en una agencia virtual o física en su país,detalle,30.9,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,modalidad_viaje,Compró un paquete de viaje en una agencia virtual o física en su país,detalle,30.6,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,modalidad_viaje,Compró un paquete de viaje en una agencia virtual o física en su país,detalle,32.1,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,modalidad_viaje,Compró un paquete de viaje en una agencia virtual o física en su país,detalle,37.4,%,False,
+Daniel Oduber (LIR),2025,Total,modalidad_viaje,Compró un paquete de viaje en una agencia virtual o física en CR,detalle,0.3,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,modalidad_viaje,Compró un paquete de viaje en una agencia virtual o física en CR,detalle,0.3,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,modalidad_viaje,Compró un paquete de viaje en una agencia virtual o física en CR,detalle,0.1,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,modalidad_viaje,Compró un paquete de viaje en una agencia virtual o física en CR,detalle,0.7,%,False,
+Daniel Oduber (LIR),2025,Total,modalidad_viaje,Compró servicios turísticos usted mismo con familiares o amigos,detalle,61.8,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,modalidad_viaje,Compró servicios turísticos usted mismo con familiares o amigos,detalle,60.9,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,modalidad_viaje,Compró servicios turísticos usted mismo con familiares o amigos,detalle,65.0,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,modalidad_viaje,Compró servicios turísticos usted mismo con familiares o amigos,detalle,59.5,%,False,
+Daniel Oduber (LIR),2025,Total,modalidad_viaje,"La empresa (grupo religioso, deporte, cultural, estudio) organizó su viaje",detalle,7.0,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,modalidad_viaje,"La empresa (grupo religioso, deporte, cultural, estudio) organizó su viaje",detalle,8.2,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,modalidad_viaje,"La empresa (grupo religioso, deporte, cultural, estudio) organizó su viaje",detalle,2.8,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,modalidad_viaje,"La empresa (grupo religioso, deporte, cultural, estudio) organizó su viaje",detalle,2.4,%,False,
+Daniel Oduber (LIR),2025,Total,primera_visita,Sí,detalle,68.1,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,primera_visita,Sí,detalle,69.0,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,primera_visita,Sí,detalle,64.0,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,primera_visita,Sí,detalle,71.3,%,False,
+Daniel Oduber (LIR),2025,Total,primera_visita,No,detalle,31.9,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,primera_visita,No,detalle,31.0,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,primera_visita,No,detalle,36.0,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,primera_visita,No,detalle,28.7,%,False,
+Daniel Oduber (LIR),2025,Total,veces_visita_previa,Promedio de veces que ha venido a Costa Rica anteriormente,detalle,5.8,promedio,False,
+Daniel Oduber (LIR),2025,Estados Unidos,veces_visita_previa,Promedio de veces que ha venido a Costa Rica anteriormente,detalle,6.0,promedio,False,USA
+Daniel Oduber (LIR),2025,Canadá,veces_visita_previa,Promedio de veces que ha venido a Costa Rica anteriormente,detalle,5.0,promedio,False,CAN
+Daniel Oduber (LIR),2025,Europa,veces_visita_previa,Promedio de veces que ha venido a Costa Rica anteriormente,detalle,4.7,promedio,False,
+Daniel Oduber (LIR),2025,Total,como_se_intereso,Recomendación de amigos y/o familiares,detalle,60.89,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,como_se_intereso,Recomendación de amigos y/o familiares,detalle,60.28,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,como_se_intereso,Recomendación de amigos y/o familiares,detalle,63.66,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,como_se_intereso,Recomendación de amigos y/o familiares,detalle,52.28,%,True,
+Daniel Oduber (LIR),2025,Total,como_se_intereso,Había estado en Costa Rica anteriormente por otros motivos y regresó,detalle,19.38,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,como_se_intereso,Había estado en Costa Rica anteriormente por otros motivos y regresó,detalle,18.72,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,como_se_intereso,Había estado en Costa Rica anteriormente por otros motivos y regresó,detalle,22.06,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,como_se_intereso,Había estado en Costa Rica anteriormente por otros motivos y regresó,detalle,19.47,%,True,
+Daniel Oduber (LIR),2025,Total,como_se_intereso,"Publicación sobre Costa Rica (artículo, anuncio, reportaje o comentarios en redes sociales)",detalle,18.46,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,como_se_intereso,"Publicación sobre Costa Rica (artículo, anuncio, reportaje o comentarios en redes sociales)",detalle,19.45,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,como_se_intereso,"Publicación sobre Costa Rica (artículo, anuncio, reportaje o comentarios en redes sociales)",detalle,13.99,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,como_se_intereso,"Publicación sobre Costa Rica (artículo, anuncio, reportaje o comentarios en redes sociales)",detalle,27.16,%,True,
+Daniel Oduber (LIR),2025,Total,como_se_intereso,Sugerencia de agencia de viajes en línea o convencional,detalle,2.57,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,como_se_intereso,Sugerencia de agencia de viajes en línea o convencional,detalle,2.83,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,como_se_intereso,Sugerencia de agencia de viajes en línea o convencional,detalle,1.42,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,como_se_intereso,Sugerencia de agencia de viajes en línea o convencional,detalle,4.21,%,True,
+Daniel Oduber (LIR),2025,Total,como_se_intereso,Oferta de tiquetes o servicios turísticos en el país,detalle,0.15,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,como_se_intereso,Oferta de tiquetes o servicios turísticos en el país,detalle,0.18,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,como_se_intereso,Oferta de tiquetes o servicios turísticos en el país,detalle,0.05,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,como_se_intereso,Oferta de tiquetes o servicios turísticos en el país,detalle,0.0,%,True,
+Daniel Oduber (LIR),2025,Total,como_se_intereso,Programa de intercambio cultural/estudiantil,detalle,0.03,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,como_se_intereso,Programa de intercambio cultural/estudiantil,detalle,0.02,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,como_se_intereso,Programa de intercambio cultural/estudiantil,detalle,0.02,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,como_se_intereso,Programa de intercambio cultural/estudiantil,detalle,0.36,%,True,
+Daniel Oduber (LIR),2025,Total,acompanante,Viaja solo,detalle,4.94,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,acompanante,Viaja solo,detalle,4.37,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,acompanante,Viaja solo,detalle,4.65,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,acompanante,Viaja solo,detalle,12.4,%,False,
+Daniel Oduber (LIR),2025,Total,acompanante,En pareja,detalle,21.14,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,acompanante,En pareja,detalle,20.18,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,acompanante,En pareja,detalle,22.2,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,acompanante,En pareja,detalle,42.25,%,False,
+Daniel Oduber (LIR),2025,Total,acompanante,Amigos y familiares,detalle,54.44,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,acompanante,Amigos y familiares,detalle,54.29,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,acompanante,Amigos y familiares,detalle,59.94,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,acompanante,Amigos y familiares,detalle,29.51,%,False,
+Daniel Oduber (LIR),2025,Total,acompanante,Amigos (as),detalle,15.32,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,acompanante,Amigos (as),detalle,16.55,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,acompanante,Amigos (as),detalle,10.33,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,acompanante,Amigos (as),detalle,14.58,%,False,
+Daniel Oduber (LIR),2025,Total,acompanante,Compañeros(as) de trabajo,detalle,1.28,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,acompanante,Compañeros(as) de trabajo,detalle,1.42,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,acompanante,Compañeros(as) de trabajo,detalle,0.7,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,acompanante,Compañeros(as) de trabajo,detalle,1.26,%,False,
+Daniel Oduber (LIR),2025,Total,acompanante,Estudiantes,detalle,0.93,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,acompanante,Estudiantes,detalle,1.01,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,acompanante,Estudiantes,detalle,0.81,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,acompanante,Estudiantes,detalle,0.0,%,False,
+Daniel Oduber (LIR),2025,Total,acompanante,Iglesia,detalle,0.8,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,acompanante,Iglesia,detalle,0.98,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,acompanante,Iglesia,detalle,0.26,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,acompanante,Iglesia,detalle,0.0,%,False,
+Daniel Oduber (LIR),2025,Total,acompanante,Otros,detalle,1.14,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,acompanante,Otros,detalle,1.21,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,acompanante,Otros,detalle,1.1,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,acompanante,Otros,detalle,0.0,%,False,
+Daniel Oduber (LIR),2025,Total,hospedaje,Hotel/Cabinas/Albergue/Centro de acampar/Apartotel/Villas,detalle,68.31,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,hospedaje,Hotel/Cabinas/Albergue/Centro de acampar/Apartotel/Villas,detalle,70.8,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,hospedaje,Hotel/Cabinas/Albergue/Centro de acampar/Apartotel/Villas,detalle,58.49,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,hospedaje,Hotel/Cabinas/Albergue/Centro de acampar/Apartotel/Villas,detalle,74.05,%,True,
+Daniel Oduber (LIR),2025,Total,hospedaje,Casa/condominio o apartamento ALQUILADO,detalle,29.96,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,hospedaje,Casa/condominio o apartamento ALQUILADO,detalle,28.66,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,hospedaje,Casa/condominio o apartamento ALQUILADO,detalle,36.38,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,hospedaje,Casa/condominio o apartamento ALQUILADO,detalle,22.16,%,True,
+Daniel Oduber (LIR),2025,Total,hospedaje,Casa de familiares o amigos,detalle,4.77,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,hospedaje,Casa de familiares o amigos,detalle,3.89,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,hospedaje,Casa de familiares o amigos,detalle,6.43,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,hospedaje,Casa de familiares o amigos,detalle,13.66,%,True,
+Daniel Oduber (LIR),2025,Total,hospedaje,Casa/condominio o apartamento PROPIO,detalle,3.25,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,hospedaje,Casa/condominio o apartamento PROPIO,detalle,2.97,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,hospedaje,Casa/condominio o apartamento PROPIO,detalle,4.71,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,hospedaje,Casa/condominio o apartamento PROPIO,detalle,0.69,%,True,
+Daniel Oduber (LIR),2025,Total,hospedaje,"Airbnb, Nobbot, Wimdu y otras plataforma de alquiler vacacional",detalle,0.15,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,hospedaje,"Airbnb, Nobbot, Wimdu y otras plataforma de alquiler vacacional",detalle,0.06,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,hospedaje,"Airbnb, Nobbot, Wimdu y otras plataforma de alquiler vacacional",detalle,0.44,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,hospedaje,"Airbnb, Nobbot, Wimdu y otras plataforma de alquiler vacacional",detalle,0.46,%,True,
+Daniel Oduber (LIR),2025,Total,hospedaje,Intercambios de alojamiento (Couchsurfing),detalle,0.02,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,hospedaje,Intercambios de alojamiento (Couchsurfing),detalle,0.0,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,hospedaje,Intercambios de alojamiento (Couchsurfing),detalle,0.09,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,hospedaje,Intercambios de alojamiento (Couchsurfing),detalle,0.0,%,True,
+Daniel Oduber (LIR),2025,Total,hospedaje,Se hospedó en albergues - voluntariado,detalle,0.13,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,hospedaje,Se hospedó en albergues - voluntariado,detalle,0.0,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,hospedaje,Se hospedó en albergues - voluntariado,detalle,0.46,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,hospedaje,Se hospedó en albergues - voluntariado,detalle,0.8,%,True,
+Daniel Oduber (LIR),2025,Total,hospedaje,Residencias de Organismos internacionales,detalle,0.3,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,hospedaje,Residencias de Organismos internacionales,detalle,0.37,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,hospedaje,Residencias de Organismos internacionales,detalle,0.02,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,hospedaje,Residencias de Organismos internacionales,detalle,0.23,%,True,
+Daniel Oduber (LIR),2025,Total,hospedaje,"Bote, velero, yate, u otro tipo de embarcación",detalle,0.07,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,hospedaje,"Bote, velero, yate, u otro tipo de embarcación",detalle,0.0,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,hospedaje,"Bote, velero, yate, u otro tipo de embarcación",detalle,0.02,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,hospedaje,"Bote, velero, yate, u otro tipo de embarcación",detalle,0.46,%,True,
+Daniel Oduber (LIR),2025,Total,hospedaje,Residencia universitaria o intercambio,detalle,0.01,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,hospedaje,Residencia universitaria o intercambio,detalle,0.01,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,hospedaje,Residencia universitaria o intercambio,detalle,0.0,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,hospedaje,Residencia universitaria o intercambio,detalle,0.0,%,True,
+Daniel Oduber (LIR),2025,Total,estadia_media,Estadía media (En noches),detalle,8.0,noches,False,
+Daniel Oduber (LIR),2025,Estados Unidos,estadia_media,Estadía media (En noches),detalle,7.1,noches,False,USA
+Daniel Oduber (LIR),2025,Canadá,estadia_media,Estadía media (En noches),detalle,10.4,noches,False,CAN
+Daniel Oduber (LIR),2025,Europa,estadia_media,Estadía media (En noches),detalle,16.7,noches,False,
+Daniel Oduber (LIR),2025,Total,gasto_medio_viaje,Gasto medio por persona (En $EEUU),detalle,2124.4,USD por persona,False,
+Daniel Oduber (LIR),2025,Estados Unidos,gasto_medio_viaje,Gasto medio por persona (En $EEUU),detalle,2040.7,USD por persona,False,USA
+Daniel Oduber (LIR),2025,Canadá,gasto_medio_viaje,Gasto medio por persona (En $EEUU),detalle,2413.9,USD por persona,False,CAN
+Daniel Oduber (LIR),2025,Europa,gasto_medio_viaje,Gasto medio por persona (En $EEUU),detalle,2498.7,USD por persona,False,
+Daniel Oduber (LIR),2025,Total,visito_area_protegida,Sí,detalle,40.6,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,visito_area_protegida,Sí,detalle,37.4,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,visito_area_protegida,Sí,detalle,48.3,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,visito_area_protegida,Sí,detalle,73.6,%,False,
+Daniel Oduber (LIR),2025,Total,visito_area_protegida,No,detalle,59.4,%,False,
+Daniel Oduber (LIR),2025,Estados Unidos,visito_area_protegida,No,detalle,62.6,%,False,USA
+Daniel Oduber (LIR),2025,Canadá,visito_area_protegida,No,detalle,51.7,%,False,CAN
+Daniel Oduber (LIR),2025,Europa,visito_area_protegida,No,detalle,26.4,%,False,
+Daniel Oduber (LIR),2025,Total,grupo_actividad,SOL Y PLAYA,detalle,86.7,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,grupo_actividad,SOL Y PLAYA,detalle,86.2,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,grupo_actividad,SOL Y PLAYA,detalle,88.9,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,grupo_actividad,SOL Y PLAYA,detalle,89.6,%,True,
+Daniel Oduber (LIR),2025,Total,grupo_actividad,ECOTURISMO,detalle,66.5,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,grupo_actividad,ECOTURISMO,detalle,65.6,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,grupo_actividad,ECOTURISMO,detalle,68.2,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,grupo_actividad,ECOTURISMO,detalle,83.2,%,True,
+Daniel Oduber (LIR),2025,Total,grupo_actividad,AVENTURA,detalle,60.1,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,grupo_actividad,AVENTURA,detalle,60.5,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,grupo_actividad,AVENTURA,detalle,59.0,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,grupo_actividad,AVENTURA,detalle,65.7,%,True,
+Daniel Oduber (LIR),2025,Total,grupo_actividad,BIENESTAR,detalle,35.5,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,grupo_actividad,BIENESTAR,detalle,36.7,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,grupo_actividad,BIENESTAR,detalle,31.1,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,grupo_actividad,BIENESTAR,detalle,40.7,%,True,
+Daniel Oduber (LIR),2025,Total,grupo_actividad,DEPORTES,detalle,28.0,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,grupo_actividad,DEPORTES,detalle,28.8,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,grupo_actividad,DEPORTES,detalle,26.1,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,grupo_actividad,DEPORTES,detalle,22.3,%,True,
+Daniel Oduber (LIR),2025,Total,grupo_actividad,CULTURAL,detalle,55.2,%,True,
+Daniel Oduber (LIR),2025,Estados Unidos,grupo_actividad,CULTURAL,detalle,52.7,%,True,USA
+Daniel Oduber (LIR),2025,Canadá,grupo_actividad,CULTURAL,detalle,62.2,%,True,CAN
+Daniel Oduber (LIR),2025,Europa,grupo_actividad,CULTURAL,detalle,61.5,%,True,

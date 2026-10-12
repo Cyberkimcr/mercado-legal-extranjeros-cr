@@ -1,0 +1,1091 @@
+anio,via,nivel,zona,pais_o_zona,llegadas,pais_iso3
+2017,Todas las vías,total,Total,TOTAL,2959869,
+2018,Todas las vías,total,Total,TOTAL,3016667,
+2019,Todas las vías,total,Total,TOTAL,3139008,
+2020,Todas las vías,total,Total,TOTAL,1011912,
+2021,Todas las vías,total,Total,TOTAL,1347055,
+2022,Todas las vías,total,Total,TOTAL,2349537,
+2023,Todas las vías,total,Total,TOTAL,2751134,
+2024,Todas las vías,total,Total,TOTAL,2919483,
+2025,Todas las vías,total,Total,TOTAL,2943991,
+2017,Todas las vías,zona,América Del Norte,AMÉRICA DEL NORTE,1507945,
+2018,Todas las vías,zona,América Del Norte,AMÉRICA DEL NORTE,1580991,
+2019,Todas las vías,zona,América Del Norte,AMÉRICA DEL NORTE,1666571,
+2020,Todas las vías,zona,América Del Norte,AMÉRICA DEL NORTE,571010,
+2021,Todas las vías,zona,América Del Norte,AMÉRICA DEL NORTE,958792,
+2022,Todas las vías,zona,América Del Norte,AMÉRICA DEL NORTE,1533502,
+2023,Todas las vías,zona,América Del Norte,AMÉRICA DEL NORTE,1820038,
+2024,Todas las vías,zona,América Del Norte,AMÉRICA DEL NORTE,1989725,
+2025,Todas las vías,zona,América Del Norte,AMÉRICA DEL NORTE,1999600,
+2017,Todas las vías,pais,América Del Norte,Canadá,201921,CAN
+2018,Todas las vías,pais,América Del Norte,Canadá,217006,CAN
+2019,Todas las vías,pais,América Del Norte,Canadá,234621,CAN
+2020,Todas las vías,pais,América Del Norte,Canadá,115632,CAN
+2021,Todas las vías,pais,América Del Norte,Canadá,53185,CAN
+2022,Todas las vías,pais,América Del Norte,Canadá,183678,CAN
+2023,Todas las vías,pais,América Del Norte,Canadá,260744,CAN
+2024,Todas las vías,pais,América Del Norte,Canadá,272256,CAN
+2025,Todas las vías,pais,América Del Norte,Canadá,274081,CAN
+2017,Todas las vías,pais,América Del Norte,Estados Unidos,1199241,USA
+2018,Todas las vías,pais,América Del Norte,Estados Unidos,1265067,USA
+2019,Todas las vías,pais,América Del Norte,Estados Unidos,1334777,USA
+2020,Todas las vías,pais,América Del Norte,Estados Unidos,434775,USA
+2021,Todas las vías,pais,América Del Norte,Estados Unidos,868986,USA
+2022,Todas las vías,pais,América Del Norte,Estados Unidos,1290038,USA
+2023,Todas las vías,pais,América Del Norte,Estados Unidos,1473620,USA
+2024,Todas las vías,pais,América Del Norte,Estados Unidos,1621340,USA
+2025,Todas las vías,pais,América Del Norte,Estados Unidos,1627807,USA
+2017,Todas las vías,pais,América Del Norte,México,106783,MEX
+2018,Todas las vías,pais,América Del Norte,México,98918,MEX
+2019,Todas las vías,pais,América Del Norte,México,97173,MEX
+2020,Todas las vías,pais,América Del Norte,México,20603,MEX
+2021,Todas las vías,pais,América Del Norte,México,36621,MEX
+2022,Todas las vías,pais,América Del Norte,México,59786,MEX
+2023,Todas las vías,pais,América Del Norte,México,85674,MEX
+2024,Todas las vías,pais,América Del Norte,México,96129,MEX
+2025,Todas las vías,pais,América Del Norte,México,97712,MEX
+2017,Todas las vías,zona,América Central,AMÉRICA CENTRAL,735178,
+2018,Todas las vías,zona,América Central,AMÉRICA CENTRAL,691386,
+2019,Todas las vías,zona,América Central,AMÉRICA CENTRAL,698601,
+2020,Todas las vías,zona,América Central,AMÉRICA CENTRAL,202374,
+2021,Todas las vías,zona,América Central,AMÉRICA CENTRAL,78425,
+2022,Todas las vías,zona,América Central,AMÉRICA CENTRAL,194242,
+2023,Todas las vías,zona,América Central,AMÉRICA CENTRAL,235712,
+2024,Todas las vías,zona,América Central,AMÉRICA CENTRAL,235860,
+2025,Todas las vías,zona,América Central,AMÉRICA CENTRAL,247850,
+2017,Todas las vías,pais,América Central,Belice,970,BLZ
+2018,Todas las vías,pais,América Central,Belice,964,BLZ
+2019,Todas las vías,pais,América Central,Belice,1103,BLZ
+2020,Todas las vías,pais,América Central,Belice,203,BLZ
+2021,Todas las vías,pais,América Central,Belice,274,BLZ
+2022,Todas las vías,pais,América Central,Belice,517,BLZ
+2023,Todas las vías,pais,América Central,Belice,782,BLZ
+2024,Todas las vías,pais,América Central,Belice,720,BLZ
+2025,Todas las vías,pais,América Central,Belice,821,BLZ
+2017,Todas las vías,pais,América Central,El Salvador,81091,SLV
+2018,Todas las vías,pais,América Central,El Salvador,76937,SLV
+2019,Todas las vías,pais,América Central,El Salvador,78948,SLV
+2020,Todas las vías,pais,América Central,El Salvador,20898,SLV
+2021,Todas las vías,pais,América Central,El Salvador,12300,SLV
+2022,Todas las vías,pais,América Central,El Salvador,28173,SLV
+2023,Todas las vías,pais,América Central,El Salvador,31849,SLV
+2024,Todas las vías,pais,América Central,El Salvador,28258,SLV
+2025,Todas las vías,pais,América Central,El Salvador,30776,SLV
+2017,Todas las vías,pais,América Central,Guatemala,78032,GTM
+2018,Todas las vías,pais,América Central,Guatemala,65633,GTM
+2019,Todas las vías,pais,América Central,Guatemala,69471,GTM
+2020,Todas las vías,pais,América Central,Guatemala,18549,GTM
+2021,Todas las vías,pais,América Central,Guatemala,15638,GTM
+2022,Todas las vías,pais,América Central,Guatemala,30991,GTM
+2023,Todas las vías,pais,América Central,Guatemala,43075,GTM
+2024,Todas las vías,pais,América Central,Guatemala,45576,GTM
+2025,Todas las vías,pais,América Central,Guatemala,46232,GTM
+2017,Todas las vías,pais,América Central,Honduras,40300,HND
+2018,Todas las vías,pais,América Central,Honduras,38135,HND
+2019,Todas las vías,pais,América Central,Honduras,42024,HND
+2020,Todas las vías,pais,América Central,Honduras,10171,HND
+2021,Todas las vías,pais,América Central,Honduras,7436,HND
+2022,Todas las vías,pais,América Central,Honduras,18733,HND
+2023,Todas las vías,pais,América Central,Honduras,20505,HND
+2024,Todas las vías,pais,América Central,Honduras,18710,HND
+2025,Todas las vías,pais,América Central,Honduras,24439,HND
+2017,Todas las vías,pais,América Central,Nicaragua,429990,NIC
+2018,Todas las vías,pais,América Central,Nicaragua,416915,NIC
+2019,Todas las vías,pais,América Central,Nicaragua,414983,NIC
+2020,Todas las vías,pais,América Central,Nicaragua,123956,NIC
+2021,Todas las vías,pais,América Central,Nicaragua,27634,NIC
+2022,Todas las vías,pais,América Central,Nicaragua,78473,NIC
+2023,Todas las vías,pais,América Central,Nicaragua,94083,NIC
+2024,Todas las vías,pais,América Central,Nicaragua,95799,NIC
+2025,Todas las vías,pais,América Central,Nicaragua,97554,NIC
+2017,Todas las vías,pais,América Central,Panamá,104795,PAN
+2018,Todas las vías,pais,América Central,Panamá,92802,PAN
+2019,Todas las vías,pais,América Central,Panamá,92072,PAN
+2020,Todas las vías,pais,América Central,Panamá,28597,PAN
+2021,Todas las vías,pais,América Central,Panamá,15143,PAN
+2022,Todas las vías,pais,América Central,Panamá,37355,PAN
+2023,Todas las vías,pais,América Central,Panamá,45418,PAN
+2024,Todas las vías,pais,América Central,Panamá,46797,PAN
+2025,Todas las vías,pais,América Central,Panamá,48028,PAN
+2017,Todas las vías,zona,América Del Sur,AMÉRICA DEL SUR,181399,
+2018,Todas las vías,zona,América Del Sur,AMÉRICA DEL SUR,190413,
+2019,Todas las vías,zona,América Del Sur,AMÉRICA DEL SUR,195581,
+2020,Todas las vías,zona,América Del Sur,AMÉRICA DEL SUR,50237,
+2021,Todas las vías,zona,América Del Sur,AMÉRICA DEL SUR,60221,
+2022,Todas las vías,zona,América Del Sur,AMÉRICA DEL SUR,110852,
+2023,Todas las vías,zona,América Del Sur,AMÉRICA DEL SUR,134399,
+2024,Todas las vías,zona,América Del Sur,AMÉRICA DEL SUR,136466,
+2025,Todas las vías,zona,América Del Sur,AMÉRICA DEL SUR,155589,
+2017,Todas las vías,pais,América Del Sur,Argentina,30992,ARG
+2018,Todas las vías,pais,América Del Sur,Argentina,40832,ARG
+2019,Todas las vías,pais,América Del Sur,Argentina,37948,ARG
+2020,Todas las vías,pais,América Del Sur,Argentina,10571,ARG
+2021,Todas las vías,pais,América Del Sur,Argentina,8868,ARG
+2022,Todas las vías,pais,América Del Sur,Argentina,20746,ARG
+2023,Todas las vías,pais,América Del Sur,Argentina,28564,ARG
+2024,Todas las vías,pais,América Del Sur,Argentina,28736,ARG
+2025,Todas las vías,pais,América Del Sur,Argentina,36992,ARG
+2017,Todas las vías,pais,América Del Sur,Bolivia,2115,BOL
+2018,Todas las vías,pais,América Del Sur,Bolivia,2181,BOL
+2019,Todas las vías,pais,América Del Sur,Bolivia,2638,BOL
+2020,Todas las vías,pais,América Del Sur,Bolivia,584,BOL
+2021,Todas las vías,pais,América Del Sur,Bolivia,797,BOL
+2022,Todas las vías,pais,América Del Sur,Bolivia,1280,BOL
+2023,Todas las vías,pais,América Del Sur,Bolivia,1859,BOL
+2024,Todas las vías,pais,América Del Sur,Bolivia,1792,BOL
+2025,Todas las vías,pais,América Del Sur,Bolivia,1614,BOL
+2017,Todas las vías,pais,América Del Sur,Brasil,21485,BRA
+2018,Todas las vías,pais,América Del Sur,Brasil,22329,BRA
+2019,Todas las vías,pais,América Del Sur,Brasil,26815,BRA
+2020,Todas las vías,pais,América Del Sur,Brasil,6466,BRA
+2021,Todas las vías,pais,América Del Sur,Brasil,11864,BRA
+2022,Todas las vías,pais,América Del Sur,Brasil,15878,BRA
+2023,Todas las vías,pais,América Del Sur,Brasil,21249,BRA
+2024,Todas las vías,pais,América Del Sur,Brasil,21484,BRA
+2025,Todas las vías,pais,América Del Sur,Brasil,25995,BRA
+2017,Todas las vías,pais,América Del Sur,Chile,13555,CHL
+2018,Todas las vías,pais,América Del Sur,Chile,18297,CHL
+2019,Todas las vías,pais,América Del Sur,Chile,21235,CHL
+2020,Todas las vías,pais,América Del Sur,Chile,6487,CHL
+2021,Todas las vías,pais,América Del Sur,Chile,5200,CHL
+2022,Todas las vías,pais,América Del Sur,Chile,15317,CHL
+2023,Todas las vías,pais,América Del Sur,Chile,20164,CHL
+2024,Todas las vías,pais,América Del Sur,Chile,19340,CHL
+2025,Todas las vías,pais,América Del Sur,Chile,19339,CHL
+2017,Todas las vías,pais,América Del Sur,Colombia,47953,COL
+2018,Todas las vías,pais,América Del Sur,Colombia,46723,COL
+2019,Todas las vías,pais,América Del Sur,Colombia,44557,COL
+2020,Todas las vías,pais,América Del Sur,Colombia,11254,COL
+2021,Todas las vías,pais,América Del Sur,Colombia,14919,COL
+2022,Todas las vías,pais,América Del Sur,Colombia,25547,COL
+2023,Todas las vías,pais,América Del Sur,Colombia,29267,COL
+2024,Todas las vías,pais,América Del Sur,Colombia,31361,COL
+2025,Todas las vías,pais,América Del Sur,Colombia,34980,COL
+2017,Todas las vías,pais,América Del Sur,Ecuador,6306,ECU
+2018,Todas las vías,pais,América Del Sur,Ecuador,6280,ECU
+2019,Todas las vías,pais,América Del Sur,Ecuador,6434,ECU
+2020,Todas las vías,pais,América Del Sur,Ecuador,1446,ECU
+2021,Todas las vías,pais,América Del Sur,Ecuador,1798,ECU
+2022,Todas las vías,pais,América Del Sur,Ecuador,4151,ECU
+2023,Todas las vías,pais,América Del Sur,Ecuador,5698,ECU
+2024,Todas las vías,pais,América Del Sur,Ecuador,6716,ECU
+2025,Todas las vías,pais,América Del Sur,Ecuador,7735,ECU
+2017,Todas las vías,pais,América Del Sur,Guyana,248,GUY
+2018,Todas las vías,pais,América Del Sur,Guyana,214,GUY
+2019,Todas las vías,pais,América Del Sur,Guyana,290,GUY
+2020,Todas las vías,pais,América Del Sur,Guyana,45,GUY
+2021,Todas las vías,pais,América Del Sur,Guyana,100,GUY
+2022,Todas las vías,pais,América Del Sur,Guyana,204,GUY
+2023,Todas las vías,pais,América Del Sur,Guyana,287,GUY
+2024,Todas las vías,pais,América Del Sur,Guyana,322,GUY
+2025,Todas las vías,pais,América Del Sur,Guyana,371,GUY
+2021,Todas las vías,pais,América Del Sur,Guyana Francesa,1,GUF
+2022,Todas las vías,pais,América Del Sur,Guyana Francesa,0,GUF
+2023,Todas las vías,pais,América Del Sur,Guyana Francesa,0,GUF
+2024,Todas las vías,pais,América Del Sur,Guyana Francesa,1,GUF
+2025,Todas las vías,pais,América Del Sur,Guyana Francesa,0,GUF
+2017,Todas las vías,pais,América Del Sur,Paraguay,1017,PRY
+2018,Todas las vías,pais,América Del Sur,Paraguay,1005,PRY
+2019,Todas las vías,pais,América Del Sur,Paraguay,1603,PRY
+2020,Todas las vías,pais,América Del Sur,Paraguay,234,PRY
+2021,Todas las vías,pais,América Del Sur,Paraguay,310,PRY
+2022,Todas las vías,pais,América Del Sur,Paraguay,798,PRY
+2023,Todas las vías,pais,América Del Sur,Paraguay,936,PRY
+2024,Todas las vías,pais,América Del Sur,Paraguay,982,PRY
+2025,Todas las vías,pais,América Del Sur,Paraguay,1119,PRY
+2017,Todas las vías,pais,América Del Sur,Perú,13261,PER
+2018,Todas las vías,pais,América Del Sur,Perú,14865,PER
+2019,Todas las vías,pais,América Del Sur,Perú,17007,PER
+2020,Todas las vías,pais,América Del Sur,Perú,4029,PER
+2021,Todas las vías,pais,América Del Sur,Perú,5996,PER
+2022,Todas las vías,pais,América Del Sur,Perú,17163,PER
+2023,Todas las vías,pais,América Del Sur,Perú,17179,PER
+2024,Todas las vías,pais,América Del Sur,Perú,15852,PER
+2025,Todas las vías,pais,América Del Sur,Perú,17253,PER
+2017,Todas las vías,pais,América Del Sur,Surinam,91,SUR
+2018,Todas las vías,pais,América Del Sur,Surinam,98,SUR
+2019,Todas las vías,pais,América Del Sur,Surinam,89,SUR
+2020,Todas las vías,pais,América Del Sur,Surinam,14,SUR
+2021,Todas las vías,pais,América Del Sur,Surinam,11,SUR
+2022,Todas las vías,pais,América Del Sur,Surinam,50,SUR
+2023,Todas las vías,pais,América Del Sur,Surinam,127,SUR
+2024,Todas las vías,pais,América Del Sur,Surinam,107,SUR
+2025,Todas las vías,pais,América Del Sur,Surinam,119,SUR
+2017,Todas las vías,pais,América Del Sur,Uruguay,4099,URY
+2018,Todas las vías,pais,América Del Sur,Uruguay,4392,URY
+2019,Todas las vías,pais,América Del Sur,Uruguay,5041,URY
+2020,Todas las vías,pais,América Del Sur,Uruguay,1436,URY
+2021,Todas las vías,pais,América Del Sur,Uruguay,1883,URY
+2022,Todas las vías,pais,América Del Sur,Uruguay,3661,URY
+2023,Todas las vías,pais,América Del Sur,Uruguay,4153,URY
+2024,Todas las vías,pais,América Del Sur,Uruguay,4465,URY
+2025,Todas las vías,pais,América Del Sur,Uruguay,5089,URY
+2017,Todas las vías,pais,América Del Sur,Venezuela,40277,VEN
+2018,Todas las vías,pais,América Del Sur,Venezuela,33197,VEN
+2019,Todas las vías,pais,América Del Sur,Venezuela,31924,VEN
+2020,Todas las vías,pais,América Del Sur,Venezuela,7671,VEN
+2021,Todas las vías,pais,América Del Sur,Venezuela,8474,VEN
+2022,Todas las vías,pais,América Del Sur,Venezuela,6057,VEN
+2023,Todas las vías,pais,América Del Sur,Venezuela,4916,VEN
+2024,Todas las vías,pais,América Del Sur,Venezuela,5308,VEN
+2025,Todas las vías,pais,América Del Sur,Venezuela,4983,VEN
+2017,Todas las vías,zona,Caribe,CARIBE,13381,
+2018,Todas las vías,zona,Caribe,CARIBE,12997,
+2019,Todas las vías,zona,Caribe,CARIBE,13510,
+2020,Todas las vías,zona,Caribe,CARIBE,3247,
+2021,Todas las vías,zona,Caribe,CARIBE,4452,
+2022,Todas las vías,zona,Caribe,CARIBE,7457,
+2023,Todas las vías,zona,Caribe,CARIBE,10062,
+2024,Todas las vías,zona,Caribe,CARIBE,10628,
+2025,Todas las vías,zona,Caribe,CARIBE,11309,
+2017,Todas las vías,pais,Caribe,Bahamas,423,BHS
+2018,Todas las vías,pais,Caribe,Bahamas,355,BHS
+2019,Todas las vías,pais,Caribe,Bahamas,367,BHS
+2020,Todas las vías,pais,Caribe,Bahamas,79,BHS
+2021,Todas las vías,pais,Caribe,Bahamas,252,BHS
+2022,Todas las vías,pais,Caribe,Bahamas,319,BHS
+2023,Todas las vías,pais,Caribe,Bahamas,522,BHS
+2024,Todas las vías,pais,Caribe,Bahamas,506,BHS
+2025,Todas las vías,pais,Caribe,Bahamas,735,BHS
+2017,Todas las vías,pais,Caribe,Bermuda,364,BMU
+2018,Todas las vías,pais,Caribe,Bermuda,344,BMU
+2019,Todas las vías,pais,Caribe,Bermuda,339,BMU
+2020,Todas las vías,pais,Caribe,Bermuda,47,BMU
+2021,Todas las vías,pais,Caribe,Bermuda,61,BMU
+2022,Todas las vías,pais,Caribe,Bermuda,99,BMU
+2023,Todas las vías,pais,Caribe,Bermuda,121,BMU
+2024,Todas las vías,pais,Caribe,Bermuda,64,BMU
+2025,Todas las vías,pais,Caribe,Bermuda,73,BMU
+2017,Todas las vías,pais,Caribe,Cuba,3167,CUB
+2018,Todas las vías,pais,Caribe,Cuba,3149,CUB
+2019,Todas las vías,pais,Caribe,Cuba,3042,CUB
+2020,Todas las vías,pais,Caribe,Cuba,1126,CUB
+2021,Todas las vías,pais,Caribe,Cuba,739,CUB
+2022,Todas las vías,pais,Caribe,Cuba,697,CUB
+2023,Todas las vías,pais,Caribe,Cuba,1033,CUB
+2024,Todas las vías,pais,Caribe,Cuba,1196,CUB
+2025,Todas las vías,pais,Caribe,Cuba,1666,CUB
+2017,Todas las vías,pais,Caribe,Haití,399,HTI
+2018,Todas las vías,pais,Caribe,Haití,409,HTI
+2019,Todas las vías,pais,Caribe,Haití,502,HTI
+2020,Todas las vías,pais,Caribe,Haití,121,HTI
+2021,Todas las vías,pais,Caribe,Haití,341,HTI
+2022,Todas las vías,pais,Caribe,Haití,409,HTI
+2023,Todas las vías,pais,Caribe,Haití,378,HTI
+2024,Todas las vías,pais,Caribe,Haití,446,HTI
+2025,Todas las vías,pais,Caribe,Haití,317,HTI
+2017,Todas las vías,pais,Caribe,Jamaica,982,JAM
+2018,Todas las vías,pais,Caribe,Jamaica,997,JAM
+2019,Todas las vías,pais,Caribe,Jamaica,1180,JAM
+2020,Todas las vías,pais,Caribe,Jamaica,223,JAM
+2021,Todas las vías,pais,Caribe,Jamaica,622,JAM
+2022,Todas las vías,pais,Caribe,Jamaica,874,JAM
+2023,Todas las vías,pais,Caribe,Jamaica,993,JAM
+2024,Todas las vías,pais,Caribe,Jamaica,1057,JAM
+2025,Todas las vías,pais,Caribe,Jamaica,893,JAM
+2017,Todas las vías,pais,Caribe,Puerto Rico,13,PRI
+2018,Todas las vías,pais,Caribe,Puerto Rico,7,PRI
+2019,Todas las vías,pais,Caribe,Puerto Rico,5,PRI
+2020,Todas las vías,pais,Caribe,Puerto Rico,0,PRI
+2021,Todas las vías,pais,Caribe,Puerto Rico,0,PRI
+2022,Todas las vías,pais,Caribe,Puerto Rico,1,PRI
+2023,Todas las vías,pais,Caribe,Puerto Rico,1,PRI
+2024,Todas las vías,pais,Caribe,Puerto Rico,3,PRI
+2025,Todas las vías,pais,Caribe,Puerto Rico,156,PRI
+2017,Todas las vías,pais,Caribe,República Dominicana,5956,DOM
+2018,Todas las vías,pais,Caribe,República Dominicana,5897,DOM
+2019,Todas las vías,pais,Caribe,República Dominicana,6071,DOM
+2020,Todas las vías,pais,Caribe,República Dominicana,1313,DOM
+2021,Todas las vías,pais,Caribe,República Dominicana,1798,DOM
+2022,Todas las vías,pais,Caribe,República Dominicana,3839,DOM
+2023,Todas las vías,pais,Caribe,República Dominicana,5156,DOM
+2024,Todas las vías,pais,Caribe,República Dominicana,5496,DOM
+2025,Todas las vías,pais,Caribe,República Dominicana,5646,DOM
+2017,Todas las vías,pais,Caribe,Trinidad y Tobago,1356,TTO
+2018,Todas las vías,pais,Caribe,Trinidad y Tobago,1212,TTO
+2019,Todas las vías,pais,Caribe,Trinidad y Tobago,1371,TTO
+2020,Todas las vías,pais,Caribe,Trinidad y Tobago,217,TTO
+2021,Todas las vías,pais,Caribe,Trinidad y Tobago,354,TTO
+2022,Todas las vías,pais,Caribe,Trinidad y Tobago,696,TTO
+2023,Todas las vías,pais,Caribe,Trinidad y Tobago,1085,TTO
+2024,Todas las vías,pais,Caribe,Trinidad y Tobago,1065,TTO
+2025,Todas las vías,pais,Caribe,Trinidad y Tobago,973,TTO
+2017,Todas las vías,pais,Caribe,Otros Caribe,721,OT-CAR
+2018,Todas las vías,pais,Caribe,Otros Caribe,627,OT-CAR
+2019,Todas las vías,pais,Caribe,Otros Caribe,633,OT-CAR
+2020,Todas las vías,pais,Caribe,Otros Caribe,121,OT-CAR
+2021,Todas las vías,pais,Caribe,Otros Caribe,285,OT-CAR
+2022,Todas las vías,pais,Caribe,Otros Caribe,523,OT-CAR
+2023,Todas las vías,pais,Caribe,Otros Caribe,773,OT-CAR
+2024,Todas las vías,pais,Caribe,Otros Caribe,795,OT-CAR
+2025,Todas las vías,pais,Caribe,Otros Caribe,850,OT-CAR
+2017,Todas las vías,zona,Europa,EUROPA,462295,
+2018,Todas las vías,zona,Europa,EUROPA,480102,
+2019,Todas las vías,zona,Europa,EUROPA,500602,
+2020,Todas las vías,zona,Europa,EUROPA,169949,
+2021,Todas las vías,zona,Europa,EUROPA,229813,
+2022,Todas las vías,zona,Europa,EUROPA,469643,
+2023,Todas las vías,zona,Europa,EUROPA,499519,
+2024,Todas las vías,zona,Europa,EUROPA,485725,
+2025,Todas las vías,zona,Europa,EUROPA,471642,
+2017,Todas las vías,pais,Europa,Alemania,70960,DEU
+2018,Todas las vías,pais,Europa,Alemania,74574,DEU
+2019,Todas las vías,pais,Europa,Alemania,80580,DEU
+2020,Todas las vías,pais,Europa,Alemania,28821,DEU
+2021,Todas las vías,pais,Europa,Alemania,34700,DEU
+2022,Todas las vías,pais,Europa,Alemania,79701,DEU
+2023,Todas las vías,pais,Europa,Alemania,91511,DEU
+2024,Todas las vías,pais,Europa,Alemania,86571,DEU
+2025,Todas las vías,pais,Europa,Alemania,83500,DEU
+2017,Todas las vías,pais,Europa,Austria,7688,AUT
+2018,Todas las vías,pais,Europa,Austria,8089,AUT
+2019,Todas las vías,pais,Europa,Austria,8322,AUT
+2020,Todas las vías,pais,Europa,Austria,3146,AUT
+2021,Todas las vías,pais,Europa,Austria,3827,AUT
+2022,Todas las vías,pais,Europa,Austria,8402,AUT
+2023,Todas las vías,pais,Europa,Austria,9327,AUT
+2024,Todas las vías,pais,Europa,Austria,9148,AUT
+2025,Todas las vías,pais,Europa,Austria,8728,AUT
+2017,Todas las vías,pais,Europa,Bélgica,12275,BEL
+2018,Todas las vías,pais,Europa,Bélgica,12381,BEL
+2019,Todas las vías,pais,Europa,Bélgica,12256,BEL
+2020,Todas las vías,pais,Europa,Bélgica,3777,BEL
+2021,Todas las vías,pais,Europa,Bélgica,5460,BEL
+2022,Todas las vías,pais,Europa,Bélgica,11861,BEL
+2023,Todas las vías,pais,Europa,Bélgica,12814,BEL
+2024,Todas las vías,pais,Europa,Bélgica,13606,BEL
+2025,Todas las vías,pais,Europa,Bélgica,13143,BEL
+2017,Todas las vías,pais,Europa,Dinamarca,6123,DNK
+2018,Todas las vías,pais,Europa,Dinamarca,6574,DNK
+2019,Todas las vías,pais,Europa,Dinamarca,7191,DNK
+2020,Todas las vías,pais,Europa,Dinamarca,3255,DNK
+2021,Todas las vías,pais,Europa,Dinamarca,3045,DNK
+2022,Todas las vías,pais,Europa,Dinamarca,8641,DNK
+2023,Todas las vías,pais,Europa,Dinamarca,7968,DNK
+2024,Todas las vías,pais,Europa,Dinamarca,8155,DNK
+2025,Todas las vías,pais,Europa,Dinamarca,7353,DNK
+2017,Todas las vías,pais,Europa,Eslovaquia,1236,SVK
+2018,Todas las vías,pais,Europa,Eslovaquia,1323,SVK
+2019,Todas las vías,pais,Europa,Eslovaquia,1296,SVK
+2020,Todas las vías,pais,Europa,Eslovaquia,556,SVK
+2021,Todas las vías,pais,Europa,Eslovaquia,1122,SVK
+2022,Todas las vías,pais,Europa,Eslovaquia,1767,SVK
+2023,Todas las vías,pais,Europa,Eslovaquia,1783,SVK
+2024,Todas las vías,pais,Europa,Eslovaquia,1746,SVK
+2025,Todas las vías,pais,Europa,Eslovaquia,1787,SVK
+2017,Todas las vías,pais,Europa,España,69782,ESP
+2018,Todas las vías,pais,Europa,España,68634,ESP
+2019,Todas las vías,pais,Europa,España,69745,ESP
+2020,Todas las vías,pais,Europa,España,14801,ESP
+2021,Todas las vías,pais,Europa,España,41857,ESP
+2022,Todas las vías,pais,Europa,España,58367,ESP
+2023,Todas las vías,pais,Europa,España,59242,ESP
+2024,Todas las vías,pais,Europa,España,59201,ESP
+2025,Todas las vías,pais,Europa,España,57869,ESP
+2017,Todas las vías,pais,Europa,Finlandia,1894,FIN
+2018,Todas las vías,pais,Europa,Finlandia,1824,FIN
+2019,Todas las vías,pais,Europa,Finlandia,1832,FIN
+2020,Todas las vías,pais,Europa,Finlandia,728,FIN
+2021,Todas las vías,pais,Europa,Finlandia,569,FIN
+2022,Todas las vías,pais,Europa,Finlandia,1513,FIN
+2023,Todas las vías,pais,Europa,Finlandia,1993,FIN
+2024,Todas las vías,pais,Europa,Finlandia,1893,FIN
+2025,Todas las vías,pais,Europa,Finlandia,1846,FIN
+2017,Todas las vías,pais,Europa,Francia,69803,FRA
+2018,Todas las vías,pais,Europa,Francia,74032,FRA
+2019,Todas las vías,pais,Europa,Francia,77013,FRA
+2020,Todas las vías,pais,Europa,Francia,35267,FRA
+2021,Todas las vías,pais,Europa,Francia,32199,FRA
+2022,Todas las vías,pais,Europa,Francia,65411,FRA
+2023,Todas las vías,pais,Europa,Francia,74484,FRA
+2024,Todas las vías,pais,Europa,Francia,76685,FRA
+2025,Todas las vías,pais,Europa,Francia,71323,FRA
+2017,Todas las vías,pais,Europa,Hungría,1357,HUN
+2018,Todas las vías,pais,Europa,Hungría,1636,HUN
+2019,Todas las vías,pais,Europa,Hungría,1966,HUN
+2020,Todas las vías,pais,Europa,Hungría,880,HUN
+2021,Todas las vías,pais,Europa,Hungría,1391,HUN
+2022,Todas las vías,pais,Europa,Hungría,2252,HUN
+2023,Todas las vías,pais,Europa,Hungría,2374,HUN
+2024,Todas las vías,pais,Europa,Hungría,2692,HUN
+2025,Todas las vías,pais,Europa,Hungría,2608,HUN
+2017,Todas las vías,pais,Europa,Irlanda,4321,IRL
+2018,Todas las vías,pais,Europa,Irlanda,4578,IRL
+2019,Todas las vías,pais,Europa,Irlanda,4411,IRL
+2020,Todas las vías,pais,Europa,Irlanda,1212,IRL
+2021,Todas las vías,pais,Europa,Irlanda,1430,IRL
+2022,Todas las vías,pais,Europa,Irlanda,4969,IRL
+2023,Todas las vías,pais,Europa,Irlanda,5495,IRL
+2024,Todas las vías,pais,Europa,Irlanda,5633,IRL
+2025,Todas las vías,pais,Europa,Irlanda,5256,IRL
+2017,Todas las vías,pais,Europa,Israel,14563,ISR
+2018,Todas las vías,pais,Europa,Israel,14359,ISR
+2019,Todas las vías,pais,Europa,Israel,14869,ISR
+2020,Todas las vías,pais,Europa,Israel,4351,ISR
+2021,Todas las vías,pais,Europa,Israel,13148,ISR
+2022,Todas las vías,pais,Europa,Israel,18770,ISR
+2023,Todas las vías,pais,Europa,Israel,15172,ISR
+2024,Todas las vías,pais,Europa,Israel,10041,ISR
+2025,Todas las vías,pais,Europa,Israel,13317,ISR
+2017,Todas las vías,pais,Europa,Italia,29047,ITA
+2018,Todas las vías,pais,Europa,Italia,29171,ITA
+2019,Todas las vías,pais,Europa,Italia,30196,ITA
+2020,Todas las vías,pais,Europa,Italia,8936,ITA
+2021,Todas las vías,pais,Europa,Italia,9061,ITA
+2022,Todas las vías,pais,Europa,Italia,18089,ITA
+2023,Todas las vías,pais,Europa,Italia,21391,ITA
+2024,Todas las vías,pais,Europa,Italia,21832,ITA
+2025,Todas las vías,pais,Europa,Italia,22710,ITA
+2017,Todas las vías,pais,Europa,Noruega,3485,NOR
+2018,Todas las vías,pais,Europa,Noruega,3784,NOR
+2019,Todas las vías,pais,Europa,Noruega,4007,NOR
+2020,Todas las vías,pais,Europa,Noruega,1172,NOR
+2021,Todas las vías,pais,Europa,Noruega,1021,NOR
+2022,Todas las vías,pais,Europa,Noruega,3848,NOR
+2023,Todas las vías,pais,Europa,Noruega,3998,NOR
+2024,Todas las vías,pais,Europa,Noruega,3780,NOR
+2025,Todas las vías,pais,Europa,Noruega,3885,NOR
+2017,Todas las vías,pais,Europa,Países Bajos,30316,NLD
+2018,Todas las vías,pais,Europa,Países Bajos,32561,NLD
+2019,Todas las vías,pais,Europa,Países Bajos,34712,NLD
+2020,Todas las vías,pais,Europa,Países Bajos,10421,NLD
+2021,Todas las vías,pais,Europa,Países Bajos,10784,NLD
+2022,Todas las vías,pais,Europa,Países Bajos,34518,NLD
+2023,Todas las vías,pais,Europa,Países Bajos,37464,NLD
+2024,Todas las vías,pais,Europa,Países Bajos,36638,NLD
+2025,Todas las vías,pais,Europa,Países Bajos,36125,NLD
+2017,Todas las vías,pais,Europa,Polonia,4186,POL
+2018,Todas las vías,pais,Europa,Polonia,5056,POL
+2019,Todas las vías,pais,Europa,Polonia,6212,POL
+2020,Todas las vías,pais,Europa,Polonia,2340,POL
+2021,Todas las vías,pais,Europa,Polonia,5533,POL
+2022,Todas las vías,pais,Europa,Polonia,7116,POL
+2023,Todas las vías,pais,Europa,Polonia,7496,POL
+2024,Todas las vías,pais,Europa,Polonia,7708,POL
+2025,Todas las vías,pais,Europa,Polonia,8837,POL
+2017,Todas las vías,pais,Europa,Portugal,4268,PRT
+2018,Todas las vías,pais,Europa,Portugal,5808,PRT
+2019,Todas las vías,pais,Europa,Portugal,5953,PRT
+2020,Todas las vías,pais,Europa,Portugal,1459,PRT
+2021,Todas las vías,pais,Europa,Portugal,3173,PRT
+2022,Todas las vías,pais,Europa,Portugal,5169,PRT
+2023,Todas las vías,pais,Europa,Portugal,5526,PRT
+2024,Todas las vías,pais,Europa,Portugal,5530,PRT
+2025,Todas las vías,pais,Europa,Portugal,5422,PRT
+2017,Todas las vías,pais,Europa,Reino Unido,76173,GBR
+2018,Todas las vías,pais,Europa,Reino Unido,74338,GBR
+2019,Todas las vías,pais,Europa,Reino Unido,78562,GBR
+2020,Todas las vías,pais,Europa,Reino Unido,24623,GBR
+2021,Todas las vías,pais,Europa,Reino Unido,18048,GBR
+2022,Todas las vías,pais,Europa,Reino Unido,77810,GBR
+2023,Todas las vías,pais,Europa,Reino Unido,77376,GBR
+2024,Todas las vías,pais,Europa,Reino Unido,74674,GBR
+2025,Todas las vías,pais,Europa,Reino Unido,70354,GBR
+2017,Todas las vías,pais,Europa,Republica Checa,3028,CZE
+2018,Todas las vías,pais,Europa,Republica Checa,3909,CZE
+2019,Todas las vías,pais,Europa,Republica Checa,3723,CZE
+2020,Todas las vías,pais,Europa,Republica Checa,1966,CZE
+2021,Todas las vías,pais,Europa,Republica Checa,5571,CZE
+2022,Todas las vías,pais,Europa,Republica Checa,5762,CZE
+2023,Todas las vías,pais,Europa,Republica Checa,6524,CZE
+2024,Todas las vías,pais,Europa,Republica Checa,6667,CZE
+2025,Todas las vías,pais,Europa,Republica Checa,6815,CZE
+2017,Todas las vías,pais,Europa,Rumanía,1695,ROU
+2018,Todas las vías,pais,Europa,Rumanía,2032,ROU
+2019,Todas las vías,pais,Europa,Rumanía,2091,ROU
+2020,Todas las vías,pais,Europa,Rumanía,855,ROU
+2021,Todas las vías,pais,Europa,Rumanía,1426,ROU
+2022,Todas las vías,pais,Europa,Rumanía,1974,ROU
+2023,Todas las vías,pais,Europa,Rumanía,2290,ROU
+2024,Todas las vías,pais,Europa,Rumanía,2352,ROU
+2025,Todas las vías,pais,Europa,Rumanía,2318,ROU
+2017,Todas las vías,pais,Europa,Rusia,4657,RUS
+2018,Todas las vías,pais,Europa,Rusia,4765,RUS
+2019,Todas las vías,pais,Europa,Rusia,5562,RUS
+2020,Todas las vías,pais,Europa,Rusia,2049,RUS
+2021,Todas las vías,pais,Europa,Rusia,3506,RUS
+2022,Todas las vías,pais,Europa,Rusia,4342,RUS
+2023,Todas las vías,pais,Europa,Rusia,4861,RUS
+2024,Todas las vías,pais,Europa,Rusia,4177,RUS
+2025,Todas las vías,pais,Europa,Rusia,3858,RUS
+2017,Todas las vías,pais,Europa,Suecia,9985,SWE
+2018,Todas las vías,pais,Europa,Suecia,11117,SWE
+2019,Todas las vías,pais,Europa,Suecia,10979,SWE
+2020,Todas las vías,pais,Europa,Suecia,4283,SWE
+2021,Todas las vías,pais,Europa,Suecia,3690,SWE
+2022,Todas las vías,pais,Europa,Suecia,7727,SWE
+2023,Todas las vías,pais,Europa,Suecia,7207,SWE
+2024,Todas las vías,pais,Europa,Suecia,7309,SWE
+2025,Todas las vías,pais,Europa,Suecia,7235,SWE
+2017,Todas las vías,pais,Europa,Suiza,25395,CHE
+2018,Todas las vías,pais,Europa,Suiza,28884,CHE
+2019,Todas las vías,pais,Europa,Suiza,27841,CHE
+2020,Todas las vías,pais,Europa,Suiza,10487,CHE
+2021,Todas las vías,pais,Europa,Suiza,21643,CHE
+2022,Todas las vías,pais,Europa,Suiza,29766,CHE
+2023,Todas las vías,pais,Europa,Suiza,29429,CHE
+2024,Todas las vías,pais,Europa,Suiza,26541,CHE
+2025,Todas las vías,pais,Europa,Suiza,23709,CHE
+2017,Todas las vías,pais,Europa,Otros Europa,10058,OT-EUR
+2018,Todas las vías,pais,Europa,Otros Europa,10673,OT-EUR
+2019,Todas las vías,pais,Europa,Otros Europa,11283,OT-EUR
+2020,Todas las vías,pais,Europa,Otros Europa,4564,OT-EUR
+2021,Todas las vías,pais,Europa,Otros Europa,7609,OT-EUR
+2022,Todas las vías,pais,Europa,Otros Europa,11868,OT-EUR
+2023,Todas las vías,pais,Europa,Otros Europa,13794,OT-EUR
+2024,Todas las vías,pais,Europa,Otros Europa,13146,OT-EUR
+2025,Todas las vías,pais,Europa,Otros Europa,13644,OT-EUR
+2017,Todas las vías,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",59671,OT-ZON
+2018,Todas las vías,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",60778,OT-ZON
+2019,Todas las vías,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",64143,OT-ZON
+2020,Todas las vías,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",15095,OT-ZON
+2021,Todas las vías,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",15352,OT-ZON
+2022,Todas las vías,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",33841,OT-ZON
+2023,Todas las vías,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",51404,OT-ZON
+2024,Todas las vías,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",61079,OT-ZON
+2025,Todas las vías,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",58001,OT-ZON
+2017,Vía aérea,total,Total,TOTAL,2189234,
+2018,Vía aérea,total,Total,TOTAL,2314888,
+2019,Vía aérea,total,Total,TOTAL,2418300,
+2020,Vía aérea,total,Total,TOTAL,789833,
+2021,Vía aérea,total,Total,TOTAL,1270483,
+2022,Vía aérea,total,Total,TOTAL,2117960,
+2023,Vía aérea,total,Total,TOTAL,2471150,
+2024,Vía aérea,total,Total,TOTAL,2661488,
+2025,Vía aérea,total,Total,TOTAL,2689278,
+2017,Vía aérea,zona,América Del Norte,AMÉRICA DEL NORTE,1420770,
+2018,Vía aérea,zona,América Del Norte,AMÉRICA DEL NORTE,1512455,
+2019,Vía aérea,zona,América Del Norte,AMÉRICA DEL NORTE,1592888,
+2020,Vía aérea,zona,América Del Norte,AMÉRICA DEL NORTE,547466,
+2021,Vía aérea,zona,América Del Norte,AMÉRICA DEL NORTE,937802,
+2022,Vía aérea,zona,América Del Norte,AMÉRICA DEL NORTE,1480603,
+2023,Vía aérea,zona,América Del Norte,AMÉRICA DEL NORTE,1756578,
+2024,Vía aérea,zona,América Del Norte,AMÉRICA DEL NORTE,1936937,
+2025,Vía aérea,zona,América Del Norte,AMÉRICA DEL NORTE,1949344,
+2017,Vía aérea,pais,América Del Norte,Canadá,182662,CAN
+2018,Vía aérea,pais,América Del Norte,Canadá,200320,CAN
+2019,Vía aérea,pais,América Del Norte,Canadá,218982,CAN
+2020,Vía aérea,pais,América Del Norte,Canadá,107964,CAN
+2021,Vía aérea,pais,América Del Norte,Canadá,49917,CAN
+2022,Vía aérea,pais,América Del Norte,Canadá,171033,CAN
+2023,Vía aérea,pais,América Del Norte,Canadá,242970,CAN
+2024,Vía aérea,pais,América Del Norte,Canadá,257395,CAN
+2025,Vía aérea,pais,América Del Norte,Canadá,260347,CAN
+2017,Vía aérea,pais,América Del Norte,Estados Unidos,1137006,USA
+2018,Vía aérea,pais,América Del Norte,Estados Unidos,1217511,USA
+2019,Vía aérea,pais,América Del Norte,Estados Unidos,1283112,USA
+2020,Vía aérea,pais,América Del Norte,Estados Unidos,419978,USA
+2021,Vía aérea,pais,América Del Norte,Estados Unidos,852182,USA
+2022,Vía aérea,pais,América Del Norte,Estados Unidos,1252469,USA
+2023,Vía aérea,pais,América Del Norte,Estados Unidos,1431644,USA
+2024,Vía aérea,pais,América Del Norte,Estados Unidos,1587138,USA
+2025,Vía aérea,pais,América Del Norte,Estados Unidos,1594882,USA
+2017,Vía aérea,pais,América Del Norte,México,101102,MEX
+2018,Vía aérea,pais,América Del Norte,México,94624,MEX
+2019,Vía aérea,pais,América Del Norte,México,90794,MEX
+2020,Vía aérea,pais,América Del Norte,México,19524,MEX
+2021,Vía aérea,pais,América Del Norte,México,35703,MEX
+2022,Vía aérea,pais,América Del Norte,México,57101,MEX
+2023,Vía aérea,pais,América Del Norte,México,81964,MEX
+2024,Vía aérea,pais,América Del Norte,México,92404,MEX
+2025,Vía aérea,pais,América Del Norte,México,94115,MEX
+2017,Vía aérea,zona,América Central,AMÉRICA CENTRAL,165021,
+2018,Vía aérea,zona,América Central,AMÉRICA CENTRAL,149450,
+2019,Vía aérea,zona,América Central,AMÉRICA CENTRAL,144330,
+2020,Vía aérea,zona,América Central,AMÉRICA CENTRAL,32746,
+2021,Vía aérea,zona,América Central,AMÉRICA CENTRAL,43974,
+2022,Vía aérea,zona,América Central,AMÉRICA CENTRAL,86924,
+2023,Vía aérea,zona,América Central,AMÉRICA CENTRAL,105030,
+2024,Vía aérea,zona,América Central,AMÉRICA CENTRAL,103945,
+2025,Vía aérea,zona,América Central,AMÉRICA CENTRAL,112032,
+2017,Vía aérea,pais,América Central,Belice,839,BLZ
+2018,Vía aérea,pais,América Central,Belice,865,BLZ
+2019,Vía aérea,pais,América Central,Belice,965,BLZ
+2020,Vía aérea,pais,América Central,Belice,176,BLZ
+2021,Vía aérea,pais,América Central,Belice,267,BLZ
+2022,Vía aérea,pais,América Central,Belice,455,BLZ
+2023,Vía aérea,pais,América Central,Belice,647,BLZ
+2024,Vía aérea,pais,América Central,Belice,614,BLZ
+2025,Vía aérea,pais,América Central,Belice,726,BLZ
+2017,Vía aérea,pais,América Central,El Salvador,37538,SLV
+2018,Vía aérea,pais,América Central,El Salvador,36491,SLV
+2019,Vía aérea,pais,América Central,El Salvador,35949,SLV
+2020,Vía aérea,pais,América Central,El Salvador,7868,SLV
+2021,Vía aérea,pais,América Central,El Salvador,11257,SLV
+2022,Vía aérea,pais,América Central,El Salvador,23572,SLV
+2023,Vía aérea,pais,América Central,El Salvador,26247,SLV
+2024,Vía aérea,pais,América Central,El Salvador,22826,SLV
+2025,Vía aérea,pais,América Central,El Salvador,24846,SLV
+2017,Vía aérea,pais,América Central,Guatemala,52207,GTM
+2018,Vía aérea,pais,América Central,Guatemala,40490,GTM
+2019,Vía aérea,pais,América Central,Guatemala,43084,GTM
+2020,Vía aérea,pais,América Central,Guatemala,9151,GTM
+2021,Vía aérea,pais,América Central,Guatemala,14998,GTM
+2022,Vía aérea,pais,América Central,Guatemala,29015,GTM
+2023,Vía aérea,pais,América Central,Guatemala,40470,GTM
+2024,Vía aérea,pais,América Central,Guatemala,42485,GTM
+2025,Vía aérea,pais,América Central,Guatemala,42861,GTM
+2017,Vía aérea,pais,América Central,Honduras,15668,HND
+2018,Vía aérea,pais,América Central,Honduras,17842,HND
+2019,Vía aérea,pais,América Central,Honduras,17619,HND
+2020,Vía aérea,pais,América Central,Honduras,3904,HND
+2021,Vía aérea,pais,América Central,Honduras,5374,HND
+2022,Vía aérea,pais,América Central,Honduras,11148,HND
+2023,Vía aérea,pais,América Central,Honduras,12248,HND
+2024,Vía aérea,pais,América Central,Honduras,11969,HND
+2025,Vía aérea,pais,América Central,Honduras,15240,HND
+2017,Vía aérea,pais,América Central,Nicaragua,21246,NIC
+2018,Vía aérea,pais,América Central,Nicaragua,23594,NIC
+2019,Vía aérea,pais,América Central,Nicaragua,18299,NIC
+2020,Vía aérea,pais,América Central,Nicaragua,5015,NIC
+2021,Vía aérea,pais,América Central,Nicaragua,5106,NIC
+2022,Vía aérea,pais,América Central,Nicaragua,9156,NIC
+2023,Vía aérea,pais,América Central,Nicaragua,8245,NIC
+2024,Vía aérea,pais,América Central,Nicaragua,8373,NIC
+2025,Vía aérea,pais,América Central,Nicaragua,8530,NIC
+2017,Vía aérea,pais,América Central,Panamá,37523,PAN
+2018,Vía aérea,pais,América Central,Panamá,30168,PAN
+2019,Vía aérea,pais,América Central,Panamá,28414,PAN
+2020,Vía aérea,pais,América Central,Panamá,6632,PAN
+2021,Vía aérea,pais,América Central,Panamá,6972,PAN
+2022,Vía aérea,pais,América Central,Panamá,13578,PAN
+2023,Vía aérea,pais,América Central,Panamá,17173,PAN
+2024,Vía aérea,pais,América Central,Panamá,17678,PAN
+2025,Vía aérea,pais,América Central,Panamá,19829,PAN
+2017,Vía aérea,zona,América Del Sur,AMÉRICA DEL SUR,157634,
+2018,Vía aérea,zona,América Del Sur,AMÉRICA DEL SUR,172719,
+2019,Vía aérea,zona,América Del Sur,AMÉRICA DEL SUR,173635,
+2020,Vía aérea,zona,América Del Sur,AMÉRICA DEL SUR,44791,
+2021,Vía aérea,zona,América Del Sur,AMÉRICA DEL SUR,57663,
+2022,Vía aérea,zona,América Del Sur,AMÉRICA DEL SUR,102484,
+2023,Vía aérea,zona,América Del Sur,AMÉRICA DEL SUR,122726,
+2024,Vía aérea,zona,América Del Sur,AMÉRICA DEL SUR,126770,
+2025,Vía aérea,zona,América Del Sur,AMÉRICA DEL SUR,145148,
+2017,Vía aérea,pais,América Del Sur,Argentina,24474,ARG
+2018,Vía aérea,pais,América Del Sur,Argentina,33341,ARG
+2019,Vía aérea,pais,América Del Sur,Argentina,30615,ARG
+2020,Vía aérea,pais,América Del Sur,Argentina,8513,ARG
+2021,Vía aérea,pais,América Del Sur,Argentina,8058,ARG
+2022,Vía aérea,pais,América Del Sur,Argentina,17731,ARG
+2023,Vía aérea,pais,América Del Sur,Argentina,23718,ARG
+2024,Vía aérea,pais,América Del Sur,Argentina,25009,ARG
+2025,Vía aérea,pais,América Del Sur,Argentina,32443,ARG
+2017,Vía aérea,pais,América Del Sur,Bolivia,1936,BOL
+2018,Vía aérea,pais,América Del Sur,Bolivia,2026,BOL
+2019,Vía aérea,pais,América Del Sur,Bolivia,2301,BOL
+2020,Vía aérea,pais,América Del Sur,Bolivia,528,BOL
+2021,Vía aérea,pais,América Del Sur,Bolivia,773,BOL
+2022,Vía aérea,pais,América Del Sur,Bolivia,1174,BOL
+2023,Vía aérea,pais,América Del Sur,Bolivia,1711,BOL
+2024,Vía aérea,pais,América Del Sur,Bolivia,1680,BOL
+2025,Vía aérea,pais,América Del Sur,Bolivia,1455,BOL
+2017,Vía aérea,pais,América Del Sur,Brasil,19766,BRA
+2018,Vía aérea,pais,América Del Sur,Brasil,20659,BRA
+2019,Vía aérea,pais,América Del Sur,Brasil,23769,BRA
+2020,Vía aérea,pais,América Del Sur,Brasil,5991,BRA
+2021,Vía aérea,pais,América Del Sur,Brasil,11503,BRA
+2022,Vía aérea,pais,América Del Sur,Brasil,14830,BRA
+2023,Vía aérea,pais,América Del Sur,Brasil,19788,BRA
+2024,Vía aérea,pais,América Del Sur,Brasil,20102,BRA
+2025,Vía aérea,pais,América Del Sur,Brasil,24589,BRA
+2017,Vía aérea,pais,América Del Sur,Chile,11636,CHL
+2018,Vía aérea,pais,América Del Sur,Chile,16114,CHL
+2019,Vía aérea,pais,América Del Sur,Chile,18357,CHL
+2020,Vía aérea,pais,América Del Sur,Chile,5609,CHL
+2021,Vía aérea,pais,América Del Sur,Chile,4898,CHL
+2022,Vía aérea,pais,América Del Sur,Chile,13634,CHL
+2023,Vía aérea,pais,América Del Sur,Chile,17776,CHL
+2024,Vía aérea,pais,América Del Sur,Chile,17377,CHL
+2025,Vía aérea,pais,América Del Sur,Chile,17541,CHL
+2017,Vía aérea,pais,América Del Sur,Colombia,45218,COL
+2018,Vía aérea,pais,América Del Sur,Colombia,44180,COL
+2019,Vía aérea,pais,América Del Sur,Colombia,41988,COL
+2020,Vía aérea,pais,América Del Sur,Colombia,10559,COL
+2021,Vía aérea,pais,América Del Sur,Colombia,14610,COL
+2022,Vía aérea,pais,América Del Sur,Colombia,24816,COL
+2023,Vía aérea,pais,América Del Sur,Colombia,28463,COL
+2024,Vía aérea,pais,América Del Sur,Colombia,30531,COL
+2025,Vía aérea,pais,América Del Sur,Colombia,34141,COL
+2017,Vía aérea,pais,América Del Sur,Ecuador,6008,ECU
+2018,Vía aérea,pais,América Del Sur,Ecuador,6002,ECU
+2019,Vía aérea,pais,América Del Sur,Ecuador,5917,ECU
+2020,Vía aérea,pais,América Del Sur,Ecuador,1399,ECU
+2021,Vía aérea,pais,América Del Sur,Ecuador,1762,ECU
+2022,Vía aérea,pais,América Del Sur,Ecuador,4041,ECU
+2023,Vía aérea,pais,América Del Sur,Ecuador,5554,ECU
+2024,Vía aérea,pais,América Del Sur,Ecuador,6529,ECU
+2025,Vía aérea,pais,América Del Sur,Ecuador,7535,ECU
+2017,Vía aérea,pais,América Del Sur,Guyana,208,GUY
+2018,Vía aérea,pais,América Del Sur,Guyana,201,GUY
+2019,Vía aérea,pais,América Del Sur,Guyana,235,GUY
+2020,Vía aérea,pais,América Del Sur,Guyana,41,GUY
+2021,Vía aérea,pais,América Del Sur,Guyana,92,GUY
+2022,Vía aérea,pais,América Del Sur,Guyana,182,GUY
+2023,Vía aérea,pais,América Del Sur,Guyana,264,GUY
+2024,Vía aérea,pais,América Del Sur,Guyana,294,GUY
+2025,Vía aérea,pais,América Del Sur,Guyana,343,GUY
+2021,Vía aérea,pais,América Del Sur,Guyana Francesa,1,GUF
+2022,Vía aérea,pais,América Del Sur,Guyana Francesa,0,GUF
+2023,Vía aérea,pais,América Del Sur,Guyana Francesa,0,GUF
+2024,Vía aérea,pais,América Del Sur,Guyana Francesa,1,GUF
+2025,Vía aérea,pais,América Del Sur,Guyana Francesa,0,GUF
+2017,Vía aérea,pais,América Del Sur,Paraguay,938,PRY
+2018,Vía aérea,pais,América Del Sur,Paraguay,926,PRY
+2019,Vía aérea,pais,América Del Sur,Paraguay,1308,PRY
+2020,Vía aérea,pais,América Del Sur,Paraguay,219,PRY
+2021,Vía aérea,pais,América Del Sur,Paraguay,299,PRY
+2022,Vía aérea,pais,América Del Sur,Paraguay,752,PRY
+2023,Vía aérea,pais,América Del Sur,Paraguay,877,PRY
+2024,Vía aérea,pais,América Del Sur,Paraguay,934,PRY
+2025,Vía aérea,pais,América Del Sur,Paraguay,1059,PRY
+2017,Vía aérea,pais,América Del Sur,Perú,12114,PER
+2018,Vía aérea,pais,América Del Sur,Perú,13763,PER
+2019,Vía aérea,pais,América Del Sur,Perú,15615,PER
+2020,Vía aérea,pais,América Del Sur,Perú,3709,PER
+2021,Vía aérea,pais,América Del Sur,Perú,5786,PER
+2022,Vía aérea,pais,América Del Sur,Perú,16118,PER
+2023,Vía aérea,pais,América Del Sur,Perú,15984,PER
+2024,Vía aérea,pais,América Del Sur,Perú,14964,PER
+2025,Vía aérea,pais,América Del Sur,Perú,16370,PER
+2017,Vía aérea,pais,América Del Sur,Surinam,88,SUR
+2018,Vía aérea,pais,América Del Sur,Surinam,98,SUR
+2019,Vía aérea,pais,América Del Sur,Surinam,89,SUR
+2020,Vía aérea,pais,América Del Sur,Surinam,14,SUR
+2021,Vía aérea,pais,América Del Sur,Surinam,8,SUR
+2022,Vía aérea,pais,América Del Sur,Surinam,46,SUR
+2023,Vía aérea,pais,América Del Sur,Surinam,122,SUR
+2024,Vía aérea,pais,América Del Sur,Surinam,107,SUR
+2025,Vía aérea,pais,América Del Sur,Surinam,117,SUR
+2017,Vía aérea,pais,América Del Sur,Uruguay,3585,URY
+2018,Vía aérea,pais,América Del Sur,Uruguay,3977,URY
+2019,Vía aérea,pais,América Del Sur,Uruguay,4475,URY
+2020,Vía aérea,pais,América Del Sur,Uruguay,1284,URY
+2021,Vía aérea,pais,América Del Sur,Uruguay,1764,URY
+2022,Vía aérea,pais,América Del Sur,Uruguay,3363,URY
+2023,Vía aérea,pais,América Del Sur,Uruguay,3747,URY
+2024,Vía aérea,pais,América Del Sur,Uruguay,4157,URY
+2025,Vía aérea,pais,América Del Sur,Uruguay,4806,URY
+2017,Vía aérea,pais,América Del Sur,Venezuela,31663,VEN
+2018,Vía aérea,pais,América Del Sur,Venezuela,31432,VEN
+2019,Vía aérea,pais,América Del Sur,Venezuela,28966,VEN
+2020,Vía aérea,pais,América Del Sur,Venezuela,6925,VEN
+2021,Vía aérea,pais,América Del Sur,Venezuela,8109,VEN
+2022,Vía aérea,pais,América Del Sur,Venezuela,5797,VEN
+2023,Vía aérea,pais,América Del Sur,Venezuela,4722,VEN
+2024,Vía aérea,pais,América Del Sur,Venezuela,5085,VEN
+2025,Vía aérea,pais,América Del Sur,Venezuela,4749,VEN
+2017,Vía aérea,zona,Caribe,CARIBE,12903,
+2018,Vía aérea,zona,Caribe,CARIBE,12561,
+2019,Vía aérea,zona,Caribe,CARIBE,12868,
+2020,Vía aérea,zona,Caribe,CARIBE,2810,
+2021,Vía aérea,zona,Caribe,CARIBE,4353,
+2022,Vía aérea,zona,Caribe,CARIBE,7214,
+2023,Vía aérea,zona,Caribe,CARIBE,9759,
+2024,Vía aérea,zona,Caribe,CARIBE,10303,
+2025,Vía aérea,zona,Caribe,CARIBE,10963,
+2017,Vía aérea,pais,Caribe,Bahamas,414,BHS
+2018,Vía aérea,pais,Caribe,Bahamas,341,BHS
+2019,Vía aérea,pais,Caribe,Bahamas,351,BHS
+2020,Vía aérea,pais,Caribe,Bahamas,72,BHS
+2021,Vía aérea,pais,Caribe,Bahamas,244,BHS
+2022,Vía aérea,pais,Caribe,Bahamas,312,BHS
+2023,Vía aérea,pais,Caribe,Bahamas,505,BHS
+2024,Vía aérea,pais,Caribe,Bahamas,490,BHS
+2025,Vía aérea,pais,Caribe,Bahamas,706,BHS
+2017,Vía aérea,pais,Caribe,Bermuda,341,BMU
+2018,Vía aérea,pais,Caribe,Bermuda,331,BMU
+2019,Vía aérea,pais,Caribe,Bermuda,330,BMU
+2020,Vía aérea,pais,Caribe,Bermuda,44,BMU
+2021,Vía aérea,pais,Caribe,Bermuda,61,BMU
+2022,Vía aérea,pais,Caribe,Bermuda,98,BMU
+2023,Vía aérea,pais,Caribe,Bermuda,118,BMU
+2024,Vía aérea,pais,Caribe,Bermuda,64,BMU
+2025,Vía aérea,pais,Caribe,Bermuda,73,BMU
+2017,Vía aérea,pais,Caribe,Cuba,3085,CUB
+2018,Vía aérea,pais,Caribe,Cuba,3073,CUB
+2019,Vía aérea,pais,Caribe,Cuba,2809,CUB
+2020,Vía aérea,pais,Caribe,Cuba,769,CUB
+2021,Vía aérea,pais,Caribe,Cuba,729,CUB
+2022,Vía aérea,pais,Caribe,Cuba,655,CUB
+2023,Vía aérea,pais,Caribe,Cuba,998,CUB
+2024,Vía aérea,pais,Caribe,Cuba,1154,CUB
+2025,Vía aérea,pais,Caribe,Cuba,1595,CUB
+2017,Vía aérea,pais,Caribe,Haití,384,HTI
+2018,Vía aérea,pais,Caribe,Haití,387,HTI
+2019,Vía aérea,pais,Caribe,Haití,484,HTI
+2020,Vía aérea,pais,Caribe,Haití,116,HTI
+2021,Vía aérea,pais,Caribe,Haití,337,HTI
+2022,Vía aérea,pais,Caribe,Haití,400,HTI
+2023,Vía aérea,pais,Caribe,Haití,370,HTI
+2024,Vía aérea,pais,Caribe,Haití,434,HTI
+2025,Vía aérea,pais,Caribe,Haití,307,HTI
+2017,Vía aérea,pais,Caribe,Jamaica,932,JAM
+2018,Vía aérea,pais,Caribe,Jamaica,966,JAM
+2019,Vía aérea,pais,Caribe,Jamaica,1135,JAM
+2020,Vía aérea,pais,Caribe,Jamaica,213,JAM
+2021,Vía aérea,pais,Caribe,Jamaica,604,JAM
+2022,Vía aérea,pais,Caribe,Jamaica,849,JAM
+2023,Vía aérea,pais,Caribe,Jamaica,952,JAM
+2024,Vía aérea,pais,Caribe,Jamaica,1018,JAM
+2025,Vía aérea,pais,Caribe,Jamaica,858,JAM
+2017,Vía aérea,pais,Caribe,Puerto Rico,13,PRI
+2018,Vía aérea,pais,Caribe,Puerto Rico,7,PRI
+2019,Vía aérea,pais,Caribe,Puerto Rico,5,PRI
+2020,Vía aérea,pais,Caribe,Puerto Rico,0,PRI
+2021,Vía aérea,pais,Caribe,Puerto Rico,0,PRI
+2022,Vía aérea,pais,Caribe,Puerto Rico,1,PRI
+2023,Vía aérea,pais,Caribe,Puerto Rico,0,PRI
+2024,Vía aérea,pais,Caribe,Puerto Rico,3,PRI
+2025,Vía aérea,pais,Caribe,Puerto Rico,155,PRI
+2017,Vía aérea,pais,Caribe,República Dominicana,5749,DOM
+2018,Vía aérea,pais,Caribe,República Dominicana,5702,DOM
+2019,Vía aérea,pais,Caribe,República Dominicana,5822,DOM
+2020,Vía aérea,pais,Caribe,República Dominicana,1276,DOM
+2021,Vía aérea,pais,Caribe,República Dominicana,1776,DOM
+2022,Vía aérea,pais,Caribe,República Dominicana,3741,DOM
+2023,Vía aérea,pais,Caribe,República Dominicana,5043,DOM
+2024,Vía aérea,pais,Caribe,República Dominicana,5360,DOM
+2025,Vía aérea,pais,Caribe,República Dominicana,5516,DOM
+2017,Vía aérea,pais,Caribe,Trinidad y Tobago,1300,TTO
+2018,Vía aérea,pais,Caribe,Trinidad y Tobago,1159,TTO
+2019,Vía aérea,pais,Caribe,Trinidad y Tobago,1326,TTO
+2020,Vía aérea,pais,Caribe,Trinidad y Tobago,207,TTO
+2021,Vía aérea,pais,Caribe,Trinidad y Tobago,345,TTO
+2022,Vía aérea,pais,Caribe,Trinidad y Tobago,668,TTO
+2023,Vía aérea,pais,Caribe,Trinidad y Tobago,1015,TTO
+2024,Vía aérea,pais,Caribe,Trinidad y Tobago,1020,TTO
+2025,Vía aérea,pais,Caribe,Trinidad y Tobago,941,TTO
+2017,Vía aérea,pais,Caribe,Otros Caribe,685,OT-CAR
+2018,Vía aérea,pais,Caribe,Otros Caribe,595,OT-CAR
+2019,Vía aérea,pais,Caribe,Otros Caribe,606,OT-CAR
+2020,Vía aérea,pais,Caribe,Otros Caribe,113,OT-CAR
+2021,Vía aérea,pais,Caribe,Otros Caribe,257,OT-CAR
+2022,Vía aérea,pais,Caribe,Otros Caribe,490,OT-CAR
+2023,Vía aérea,pais,Caribe,Otros Caribe,758,OT-CAR
+2024,Vía aérea,pais,Caribe,Otros Caribe,760,OT-CAR
+2025,Vía aérea,pais,Caribe,Otros Caribe,812,OT-CAR
+2017,Vía aérea,zona,Europa,EUROPA,383066,
+2018,Vía aérea,zona,Europa,EUROPA,414722,
+2019,Vía aérea,zona,Europa,EUROPA,438284,
+2020,Vía aérea,zona,Europa,EUROPA,149023,
+2021,Vía aérea,zona,Europa,EUROPA,212639,
+2022,Vía aérea,zona,Europa,EUROPA,410832,
+2023,Vía aérea,zona,Europa,EUROPA,431980,
+2024,Vía aérea,zona,Europa,EUROPA,428637,
+2025,Vía aérea,zona,Europa,EUROPA,419820,
+2017,Vía aérea,pais,Europa,Alemania,54424,DEU
+2018,Vía aérea,pais,Europa,Alemania,61048,DEU
+2019,Vía aérea,pais,Europa,Alemania,67357,DEU
+2020,Vía aérea,pais,Europa,Alemania,23845,DEU
+2021,Vía aérea,pais,Europa,Alemania,31739,DEU
+2022,Vía aérea,pais,Europa,Alemania,66716,DEU
+2023,Vía aérea,pais,Europa,Alemania,75461,DEU
+2024,Vía aérea,pais,Europa,Alemania,73654,DEU
+2025,Vía aérea,pais,Europa,Alemania,71805,DEU
+2017,Vía aérea,pais,Europa,Austria,5996,AUT
+2018,Vía aérea,pais,Europa,Austria,6705,AUT
+2019,Vía aérea,pais,Europa,Austria,7020,AUT
+2020,Vía aérea,pais,Europa,Austria,2601,AUT
+2021,Vía aérea,pais,Europa,Austria,3531,AUT
+2022,Vía aérea,pais,Europa,Austria,7134,AUT
+2023,Vía aérea,pais,Europa,Austria,7785,AUT
+2024,Vía aérea,pais,Europa,Austria,7784,AUT
+2025,Vía aérea,pais,Europa,Austria,7508,AUT
+2017,Vía aérea,pais,Europa,Bélgica,10364,BEL
+2018,Vía aérea,pais,Europa,Bélgica,10855,BEL
+2019,Vía aérea,pais,Europa,Bélgica,11029,BEL
+2020,Vía aérea,pais,Europa,Bélgica,3339,BEL
+2021,Vía aérea,pais,Europa,Bélgica,5073,BEL
+2022,Vía aérea,pais,Europa,Bélgica,10515,BEL
+2023,Vía aérea,pais,Europa,Bélgica,11269,BEL
+2024,Vía aérea,pais,Europa,Bélgica,12328,BEL
+2025,Vía aérea,pais,Europa,Bélgica,12069,BEL
+2017,Vía aérea,pais,Europa,Dinamarca,4938,DNK
+2018,Vía aérea,pais,Europa,Dinamarca,5587,DNK
+2019,Vía aérea,pais,Europa,Dinamarca,6321,DNK
+2020,Vía aérea,pais,Europa,Dinamarca,2932,DNK
+2021,Vía aérea,pais,Europa,Dinamarca,2824,DNK
+2022,Vía aérea,pais,Europa,Dinamarca,7717,DNK
+2023,Vía aérea,pais,Europa,Dinamarca,6960,DNK
+2024,Vía aérea,pais,Europa,Dinamarca,6915,DNK
+2025,Vía aérea,pais,Europa,Dinamarca,6392,DNK
+2017,Vía aérea,pais,Europa,Eslovaquia,921,SVK
+2018,Vía aérea,pais,Europa,Eslovaquia,994,SVK
+2019,Vía aérea,pais,Europa,Eslovaquia,999,SVK
+2020,Vía aérea,pais,Europa,Eslovaquia,455,SVK
+2021,Vía aérea,pais,Europa,Eslovaquia,1052,SVK
+2022,Vía aérea,pais,Europa,Eslovaquia,1596,SVK
+2023,Vía aérea,pais,Europa,Eslovaquia,1495,SVK
+2024,Vía aérea,pais,Europa,Eslovaquia,1521,SVK
+2025,Vía aérea,pais,Europa,Eslovaquia,1622,SVK
+2017,Vía aérea,pais,Europa,España,61413,ESP
+2018,Vía aérea,pais,Europa,España,61286,ESP
+2019,Vía aérea,pais,Europa,España,62783,ESP
+2020,Vía aérea,pais,Europa,España,13354,ESP
+2021,Vía aérea,pais,Europa,España,39618,ESP
+2022,Vía aérea,pais,Europa,España,53217,ESP
+2023,Vía aérea,pais,Europa,España,53782,ESP
+2024,Vía aérea,pais,Europa,España,54145,ESP
+2025,Vía aérea,pais,Europa,España,53251,ESP
+2017,Vía aérea,pais,Europa,Finlandia,1366,FIN
+2018,Vía aérea,pais,Europa,Finlandia,1426,FIN
+2019,Vía aérea,pais,Europa,Finlandia,1490,FIN
+2020,Vía aérea,pais,Europa,Finlandia,596,FIN
+2021,Vía aérea,pais,Europa,Finlandia,533,FIN
+2022,Vía aérea,pais,Europa,Finlandia,1236,FIN
+2023,Vía aérea,pais,Europa,Finlandia,1673,FIN
+2024,Vía aérea,pais,Europa,Finlandia,1581,FIN
+2025,Vía aérea,pais,Europa,Finlandia,1606,FIN
+2017,Vía aérea,pais,Europa,Francia,61793,FRA
+2018,Vía aérea,pais,Europa,Francia,66984,FRA
+2019,Vía aérea,pais,Europa,Francia,70641,FRA
+2020,Vía aérea,pais,Europa,Francia,32576,FRA
+2021,Vía aérea,pais,Europa,Francia,30129,FRA
+2022,Vía aérea,pais,Europa,Francia,59504,FRA
+2023,Vía aérea,pais,Europa,Francia,67469,FRA
+2024,Vía aérea,pais,Europa,Francia,70426,FRA
+2025,Vía aérea,pais,Europa,Francia,65692,FRA
+2017,Vía aérea,pais,Europa,Hungría,1051,HUN
+2018,Vía aérea,pais,Europa,Hungría,1338,HUN
+2019,Vía aérea,pais,Europa,Hungría,1656,HUN
+2020,Vía aérea,pais,Europa,Hungría,760,HUN
+2021,Vía aérea,pais,Europa,Hungría,1320,HUN
+2022,Vía aérea,pais,Europa,Hungría,2066,HUN
+2023,Vía aérea,pais,Europa,Hungría,2103,HUN
+2024,Vía aérea,pais,Europa,Hungría,2479,HUN
+2025,Vía aérea,pais,Europa,Hungría,2383,HUN
+2017,Vía aérea,pais,Europa,Irlanda,3176,IRL
+2018,Vía aérea,pais,Europa,Irlanda,3792,IRL
+2019,Vía aérea,pais,Europa,Irlanda,3705,IRL
+2020,Vía aérea,pais,Europa,Irlanda,1007,IRL
+2021,Vía aérea,pais,Europa,Irlanda,1279,IRL
+2022,Vía aérea,pais,Europa,Irlanda,4105,IRL
+2023,Vía aérea,pais,Europa,Irlanda,4414,IRL
+2024,Vía aérea,pais,Europa,Irlanda,4473,IRL
+2025,Vía aérea,pais,Europa,Irlanda,4329,IRL
+2017,Vía aérea,pais,Europa,Israel,11895,ISR
+2018,Vía aérea,pais,Europa,Israel,11803,ISR
+2019,Vía aérea,pais,Europa,Israel,12248,ISR
+2020,Vía aérea,pais,Europa,Israel,3845,ISR
+2021,Vía aérea,pais,Europa,Israel,10945,ISR
+2022,Vía aérea,pais,Europa,Israel,14590,ISR
+2023,Vía aérea,pais,Europa,Israel,12079,ISR
+2024,Vía aérea,pais,Europa,Israel,8557,ISR
+2025,Vía aérea,pais,Europa,Israel,11817,ISR
+2017,Vía aérea,pais,Europa,Italia,23693,ITA
+2018,Vía aérea,pais,Europa,Italia,24373,ITA
+2019,Vía aérea,pais,Europa,Italia,25388,ITA
+2020,Vía aérea,pais,Europa,Italia,7510,ITA
+2021,Vía aérea,pais,Europa,Italia,8177,ITA
+2022,Vía aérea,pais,Europa,Italia,15448,ITA
+2023,Vía aérea,pais,Europa,Italia,18224,ITA
+2024,Vía aérea,pais,Europa,Italia,19410,ITA
+2025,Vía aérea,pais,Europa,Italia,20296,ITA
+2017,Vía aérea,pais,Europa,Noruega,2706,NOR
+2018,Vía aérea,pais,Europa,Noruega,3108,NOR
+2019,Vía aérea,pais,Europa,Noruega,3389,NOR
+2020,Vía aérea,pais,Europa,Noruega,981,NOR
+2021,Vía aérea,pais,Europa,Noruega,907,NOR
+2022,Vía aérea,pais,Europa,Noruega,3251,NOR
+2023,Vía aérea,pais,Europa,Noruega,3324,NOR
+2024,Vía aérea,pais,Europa,Noruega,3227,NOR
+2025,Vía aérea,pais,Europa,Noruega,3194,NOR
+2017,Vía aérea,pais,Europa,Países Bajos,24524,NLD
+2018,Vía aérea,pais,Europa,Países Bajos,27946,NLD
+2019,Vía aérea,pais,Europa,Países Bajos,30502,NLD
+2020,Vía aérea,pais,Europa,Países Bajos,8947,NLD
+2021,Vía aérea,pais,Europa,Países Bajos,9699,NLD
+2022,Vía aérea,pais,Europa,Países Bajos,28693,NLD
+2023,Vía aérea,pais,Europa,Países Bajos,31502,NLD
+2024,Vía aérea,pais,Europa,Países Bajos,31746,NLD
+2025,Vía aérea,pais,Europa,Países Bajos,31697,NLD
+2017,Vía aérea,pais,Europa,Polonia,2818,POL
+2018,Vía aérea,pais,Europa,Polonia,3729,POL
+2019,Vía aérea,pais,Europa,Polonia,4475,POL
+2020,Vía aérea,pais,Europa,Polonia,1795,POL
+2021,Vía aérea,pais,Europa,Polonia,5197,POL
+2022,Vía aérea,pais,Europa,Polonia,6067,POL
+2023,Vía aérea,pais,Europa,Polonia,6260,POL
+2024,Vía aérea,pais,Europa,Polonia,6413,POL
+2025,Vía aérea,pais,Europa,Polonia,7176,POL
+2017,Vía aérea,pais,Europa,Portugal,3571,PRT
+2018,Vía aérea,pais,Europa,Portugal,4872,PRT
+2019,Vía aérea,pais,Europa,Portugal,5228,PRT
+2020,Vía aérea,pais,Europa,Portugal,1252,PRT
+2021,Vía aérea,pais,Europa,Portugal,2925,PRT
+2022,Vía aérea,pais,Europa,Portugal,4709,PRT
+2023,Vía aérea,pais,Europa,Portugal,4999,PRT
+2024,Vía aérea,pais,Europa,Portugal,5007,PRT
+2025,Vía aérea,pais,Europa,Portugal,4968,PRT
+2017,Vía aérea,pais,Europa,Reino Unido,63630,GBR
+2018,Vía aérea,pais,Europa,Reino Unido,66708,GBR
+2019,Vía aérea,pais,Europa,Reino Unido,70972,GBR
+2020,Vía aérea,pais,Europa,Reino Unido,22288,GBR
+2021,Vía aérea,pais,Europa,Reino Unido,16674,GBR
+2022,Vía aérea,pais,Europa,Reino Unido,70425,GBR
+2023,Vía aérea,pais,Europa,Reino Unido,67962,GBR
+2024,Vía aérea,pais,Europa,Reino Unido,66343,GBR
+2025,Vía aérea,pais,Europa,Reino Unido,63471,GBR
+2017,Vía aérea,pais,Europa,Republica Checa,2266,CZE
+2018,Vía aérea,pais,Europa,Republica Checa,3123,CZE
+2019,Vía aérea,pais,Europa,Republica Checa,3072,CZE
+2020,Vía aérea,pais,Europa,Republica Checa,1666,CZE
+2021,Vía aérea,pais,Europa,Republica Checa,5351,CZE
+2022,Vía aérea,pais,Europa,Republica Checa,5070,CZE
+2023,Vía aérea,pais,Europa,Republica Checa,5596,CZE
+2024,Vía aérea,pais,Europa,Republica Checa,5879,CZE
+2025,Vía aérea,pais,Europa,Republica Checa,5974,CZE
+2017,Vía aérea,pais,Europa,Rumanía,1322,ROU
+2018,Vía aérea,pais,Europa,Rumanía,1744,ROU
+2019,Vía aérea,pais,Europa,Rumanía,1761,ROU
+2020,Vía aérea,pais,Europa,Rumanía,738,ROU
+2021,Vía aérea,pais,Europa,Rumanía,1263,ROU
+2022,Vía aérea,pais,Europa,Rumanía,1640,ROU
+2023,Vía aérea,pais,Europa,Rumanía,1914,ROU
+2024,Vía aérea,pais,Europa,Rumanía,2079,ROU
+2025,Vía aérea,pais,Europa,Rumanía,1998,ROU
+2017,Vía aérea,pais,Europa,Rusia,3615,RUS
+2018,Vía aérea,pais,Europa,Rusia,3789,RUS
+2019,Vía aérea,pais,Europa,Rusia,4467,RUS
+2020,Vía aérea,pais,Europa,Rusia,1625,RUS
+2021,Vía aérea,pais,Europa,Rusia,3234,RUS
+2022,Vía aérea,pais,Europa,Rusia,3640,RUS
+2023,Vía aérea,pais,Europa,Rusia,3978,RUS
+2024,Vía aérea,pais,Europa,Rusia,3425,RUS
+2025,Vía aérea,pais,Europa,Rusia,3188,RUS
+2017,Vía aérea,pais,Europa,Suecia,8238,SWE
+2018,Vía aérea,pais,Europa,Suecia,9512,SWE
+2019,Vía aérea,pais,Europa,Suecia,9805,SWE
+2020,Vía aérea,pais,Europa,Suecia,3673,SWE
+2021,Vía aérea,pais,Europa,Suecia,3437,SWE
+2022,Vía aérea,pais,Europa,Suecia,6775,SWE
+2023,Vía aérea,pais,Europa,Suecia,6230,SWE
+2024,Vía aérea,pais,Europa,Suecia,6461,SWE
+2025,Vía aérea,pais,Europa,Suecia,6369,SWE
+2017,Vía aérea,pais,Europa,Suiza,21464,CHE
+2018,Vía aérea,pais,Europa,Suiza,25175,CHE
+2019,Vía aérea,pais,Europa,Suiza,24692,CHE
+2020,Vía aérea,pais,Europa,Suiza,9281,CHE
+2021,Vía aérea,pais,Europa,Suiza,20547,CHE
+2022,Vía aérea,pais,Europa,Suiza,26109,CHE
+2023,Vía aérea,pais,Europa,Suiza,25473,CHE
+2024,Vía aérea,pais,Europa,Suiza,23181,CHE
+2025,Vía aérea,pais,Europa,Suiza,20924,CHE
+2017,Vía aérea,pais,Europa,Otros Europa,7882,OT-EUR
+2018,Vía aérea,pais,Europa,Otros Europa,8825,OT-EUR
+2019,Vía aérea,pais,Europa,Otros Europa,9284,OT-EUR
+2020,Vía aérea,pais,Europa,Otros Europa,3957,OT-EUR
+2021,Vía aérea,pais,Europa,Otros Europa,7185,OT-EUR
+2022,Vía aérea,pais,Europa,Otros Europa,10609,OT-EUR
+2023,Vía aérea,pais,Europa,Otros Europa,12028,OT-EUR
+2024,Vía aérea,pais,Europa,Otros Europa,11603,OT-EUR
+2025,Vía aérea,pais,Europa,Otros Europa,12091,OT-EUR
+2017,Vía aérea,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",49840,OT-ZON
+2018,Vía aérea,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",52981,OT-ZON
+2019,Vía aérea,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",56295,OT-ZON
+2020,Vía aérea,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",12997,OT-ZON
+2021,Vía aérea,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",14052,OT-ZON
+2022,Vía aérea,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",29903,OT-ZON
+2023,Vía aérea,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",45077,OT-ZON
+2024,Vía aérea,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",54896,OT-ZON
+2025,Vía aérea,pais,Otras Zonas,"Otras zonas (Asia, África y Oriente Medio)",51971,OT-ZON

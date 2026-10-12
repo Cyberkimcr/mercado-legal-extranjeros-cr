@@ -1,0 +1,226 @@
+pais_iso3,iso2,nombre_es,nombre_en,zona_ict,continente_dgme,es_agrupacion
+ABW,AW,Aruba,Aruba,,America,False
+AFG,AF,Afganistán,Afghanistan,,Asia,False
+AGO,AO,Angola,Angola,,Africa,False
+AIA,AI,Anguila,Anguilla,,,False
+ALB,AL,Albania,Albania,,Europa,False
+AND,AD,Andorra,Andorra,,Europa,False
+ANT,,Antillas Neerlandesas (histórico),Netherlands Antilles (historical),,America,False
+ARE,AE,Emiratos Árabes Unidos,United Arab Emirates,,Asia,False
+ARG,AR,Argentina,Argentina,América Del Sur,America,False
+ARM,AM,Armenia,Armenia,,Asia,False
+ATG,AG,Antigua y Barbuda,Antigua & Barbuda,,America,False
+AUS,AU,Australia,Australia,,Oceania,False
+AUT,AT,Austria,Austria,Europa,Europa,False
+AZE,AZ,Azerbaiyán,Azerbaijan,,Asia,False
+BDI,BI,Burundi,Burundi,,Africa,False
+BEL,BE,Bélgica,Belgium,Europa,Europa,False
+BEN,BJ,Benín,Benin,,Africa,False
+BFA,BF,Burkina Faso,Burkina Faso,,Africa,False
+BGD,BD,Bangladés,Bangladesh,,Asia,False
+BGR,BG,Bulgaria,Bulgaria,,Europa,False
+BHR,BH,Baréin,Bahrain,,,False
+BHS,BS,Bahamas,Bahamas,Caribe,America,False
+BIH,BA,Bosnia y Herzegovina,Bosnia & Herzegovina,,Europa,False
+BLR,BY,Bielorrusia,Belarus,,Europa,False
+BLZ,BZ,Belice,Belize,América Central,America,False
+BMU,BM,Bermudas,Bermuda,Caribe,America,False
+BOL,BO,Bolivia,Bolivia,América Del Sur,America,False
+BRA,BR,Brasil,Brazil,América Del Sur,America,False
+BRB,BB,Barbados,Barbados,,America,False
+BRN,BN,Brunéi,Brunei,,,False
+BTN,BT,Bután,Bhutan,,Africa,False
+BWA,BW,Botsuana,Botswana,,Africa,False
+CAF,CF,República Centroafricana,Central African Republic,,Africa,False
+CAN,CA,Canadá,Canada,América Del Norte,America,False
+CHE,CH,Suiza,Switzerland,Europa,Europa,False
+CHL,CL,Chile,Chile,América Del Sur,America,False
+CHN,CN,China,China,,Asia,False
+CIV,CI,Côte d’Ivoire,Côte d’Ivoire,,Africa,False
+CMR,CM,Camerún,Cameroon,,Africa,False
+COD,CD,República Democrática del Congo,Congo - Kinshasa,,Africa,False
+COG,CG,Congo,Congo - Brazzaville,,Africa,False
+COL,CO,Colombia,Colombia,América Del Sur,America,False
+COM,KM,Comoras,Comoros,,Africa,False
+CPV,CV,Cabo Verde,Cape Verde,,Africa,False
+CRI,CR,Costa Rica,Costa Rica,,,False
+CUB,CU,Cuba,Cuba,Caribe,America,False
+CUW,CW,Curazao,Curaçao,,America,False
+CXR,CX,Isla de Navidad,Christmas Island,,,False
+CYM,KY,Islas Caimán,Cayman Islands,,America,False
+CYP,CY,Chipre,Cyprus,,Asia,False
+CZE,CZ,Chequia,Czechia,Europa,Europa,False
+DEU,DE,Alemania,Germany,Europa,Europa,False
+DJI,DJ,Yibuti,Djibouti,,,False
+DMA,DM,Dominica,Dominica,,America,False
+DNK,DK,Dinamarca,Denmark,Europa,Europa,False
+DOM,DO,República Dominicana,Dominican Republic,Caribe,America,False
+DZA,DZ,Argelia,Algeria,,Africa,False
+ECU,EC,Ecuador,Ecuador,América Del Sur,America,False
+EGY,EG,Egipto,Egypt,,Africa,False
+ERI,ER,Eritrea,Eritrea,,Africa,False
+ESH,EH,Sáhara Occidental,Western Sahara,,Africa,False
+ESP,ES,España,Spain,Europa,Europa,False
+EST,EE,Estonia,Estonia,,Europa,False
+ETH,ET,Etiopía,Ethiopia,,Africa,False
+FIN,FI,Finlandia,Finland,Europa,Europa,False
+FJI,FJ,Fiyi,Fiji,,Oceania,False
+FRA,FR,Francia,France,Europa,Europa,False
+FSM,FM,Micronesia,Micronesia,,Oceania,False
+GAB,GA,Gabón,Gabon,,Africa,False
+GBR,GB,Reino Unido,United Kingdom,Europa,Europa,False
+GEO,GE,Georgia,Georgia,,Europa,False
+GHA,GH,Ghana,Ghana,,Africa,False
+GIN,GN,Guinea,Guinea,,Africa,False
+GLP,GP,Guadalupe,Guadeloupe,,America,False
+GMB,GM,Gambia,Gambia,,Africa,False
+GNB,GW,Guinea-Bisáu,Guinea-Bissau,,Africa,False
+GNQ,GQ,Guinea Ecuatorial,Equatorial Guinea,,Africa,False
+GRC,GR,Grecia,Greece,,Europa,False
+GRD,GD,Granada,Grenada,,America,False
+GTM,GT,Guatemala,Guatemala,América Central,America,False
+GUF,GF,Guayana Francesa,French Guiana,América Del Sur,,False
+GUM,GU,Guam,Guam,,Asia,False
+GUY,GY,Guyana,Guyana,América Del Sur,America,False
+HKG,HK,RAE de Hong Kong (China),Hong Kong SAR China,,Asia,False
+HMD,HM,Islas Heard y McDonald,Heard & McDonald Islands,,,False
+HND,HN,Honduras,Honduras,América Central,America,False
+HRV,HR,Croacia,Croatia,,Europa,False
+HTI,HT,Haití,Haiti,Caribe,America,False
+HUN,HU,Hungría,Hungary,Europa,Europa,False
+IDN,ID,Indonesia,Indonesia,,Asia,False
+IMN,IM,Isla de Man,Isle of Man,,,False
+IND,IN,India,India,,Asia,False
+IRL,IE,Irlanda,Ireland,Europa,Europa,False
+IRN,IR,Irán,Iran,,Asia,False
+IRQ,IQ,Irak,Iraq,,Asia,False
+ISL,IS,Islandia,Iceland,,Europa,False
+ISR,IL,Israel,Israel,Europa,Asia,False
+ITA,IT,Italia,Italy,Europa,Europa,False
+JAM,JM,Jamaica,Jamaica,Caribe,America,False
+JOR,JO,Jordania,Jordan,,Asia,False
+JPN,JP,Japón,Japan,,Asia,False
+KAZ,KZ,Kazajistán,Kazakhstan,,Asia,False
+KEN,KE,Kenia,Kenya,,Africa,False
+KGZ,KG,Kirguistán,Kyrgyzstan,,Asia,False
+KHM,KH,Camboya,Cambodia,,Asia,False
+KIR,KI,Kiribati,Kiribati,,,False
+KNA,KN,San Cristóbal y Nieves,St. Kitts & Nevis,,America,False
+KOR,KR,Corea del Sur,South Korea,,Asia,False
+KWT,KW,Kuwait,Kuwait,,Asia,False
+LAO,LA,Laos,Laos,,Asia,False
+LBN,LB,Líbano,Lebanon,,Asia,False
+LBR,LR,Liberia,Liberia,,Africa,False
+LBY,LY,Libia,Libya,,Africa,False
+LCA,LC,Santa Lucía,St. Lucia,,America,False
+LIE,LI,Liechtenstein,Liechtenstein,,Europa,False
+LKA,LK,Sri Lanka,Sri Lanka,,Asia,False
+LSO,LS,Lesoto,Lesotho,,Africa,False
+LTU,LT,Lituania,Lithuania,,Europa,False
+LUX,LU,Luxemburgo,Luxembourg,,Europa,False
+LVA,LV,Letonia,Latvia,,Europa,False
+MAR,MA,Marruecos,Morocco,,Africa,False
+MCO,MC,Mónaco,Monaco,,Europa,False
+MDA,MD,Moldavia,Moldova,,Europa,False
+MDG,MG,Madagascar,Madagascar,,Africa,False
+MDV,MV,Maldivas,Maldives,,Asia,False
+MEX,MX,México,Mexico,América Del Norte,America,False
+MHL,MH,Islas Marshall,Marshall Islands,,,False
+MKD,MK,Macedonia del Norte,North Macedonia,,Europa,False
+MLI,ML,Mali,Mali,,Africa,False
+MLT,MT,Malta,Malta,,Europa,False
+MMR,MM,Myanmar (Birmania),Myanmar (Burma),,Asia,False
+MNE,ME,Montenegro,Montenegro,,Europa,False
+MNG,MN,Mongolia,Mongolia,,Asia,False
+MOZ,MZ,Mozambique,Mozambique,,Africa,False
+MRT,MR,Mauritania,Mauritania,,,False
+MUS,MU,Mauricio,Mauritius,,Africa,False
+MWI,MW,Malaui,Malawi,,Africa,False
+MYS,MY,Malasia,Malaysia,,Asia,False
+NAM,NA,Namibia,Namibia,,Africa,False
+NER,NE,Níger,Niger,,Africa,False
+NGA,NG,Nigeria,Nigeria,,Africa,False
+NIC,NI,Nicaragua,Nicaragua,América Central,America,False
+NIU,NU,Niue,Niue,,Oceania,False
+NLD,NL,Países Bajos,Netherlands,Europa,Europa,False
+NOR,NO,Noruega,Norway,Europa,Europa,False
+NPL,NP,Nepal,Nepal,,Asia,False
+NRU,NR,Nauru,Nauru,,Oceania,False
+NZL,NZ,Nueva Zelanda,New Zealand,,Oceania,False
+OMN,OM,Omán,Oman,,Asia,False
+OT-AFR,,Otros África (ICT),Other Africa (ICT),,,True
+OT-ASP,,Otros Asia y el Pacífico (ICT),Other Asia & Pacific (ICT),,,True
+OT-CAR,,Otros Caribe (ICT),Other Caribbean (ICT),Caribe,,True
+OT-EUR,,Otros Europa (ICT),Other Europe (ICT),Europa,,True
+OT-OME,,Otros Oriente Medio (ICT),Other Middle East (ICT),,,True
+OT-ZON,,"Otras zonas: Asia, África y Oriente Medio (ICT anual)","Other regions: Asia, Africa & Middle East (ICT annual)",Otras Zonas,,True
+PAK,PK,Pakistán,Pakistan,,Asia,False
+PAN,PA,Panamá,Panama,América Central,America,False
+PCN,PN,Islas Pitcairn,Pitcairn Islands,,Oceania,False
+PER,PE,Perú,Peru,América Del Sur,America,False
+PHL,PH,Filipinas,Philippines,,Asia,False
+PLW,PW,Palaos,Palau,,,False
+PNG,PG,Papúa Nueva Guinea,Papua New Guinea,,,False
+POL,PL,Polonia,Poland,Europa,Europa,False
+PRI,PR,Puerto Rico,Puerto Rico,Caribe,America,False
+PRK,KP,Corea del Norte,North Korea,,Asia,False
+PRT,PT,Portugal,Portugal,Europa,Europa,False
+PRY,PY,Paraguay,Paraguay,América Del Sur,America,False
+PSE,PS,Territorios Palestinos,Palestinian Territories,,Asia,False
+QAT,QA,Catar,Qatar,,Asia,False
+ROU,RO,Rumanía,Romania,Europa,Europa,False
+RUS,RU,Rusia,Russia,Europa,Europa,False
+RWA,RW,Ruanda,Rwanda,,Africa,False
+SAU,SA,Arabia Saudí,Saudi Arabia,,Asia,False
+SDN,SD,Sudán,Sudan,,Africa,False
+SEN,SN,Senegal,Senegal,,Africa,False
+SGP,SG,Singapur,Singapore,,Asia,False
+SLE,SL,Sierra Leona,Sierra Leone,,Africa,False
+SLV,SV,El Salvador,El Salvador,América Central,America,False
+SMR,SM,San Marino,San Marino,,Europa,False
+SOM,SO,Somalia,Somalia,,Africa,False
+SRB,RS,Serbia,Serbia,,Europa,False
+SSD,SS,Sudán del Sur,South Sudan,,Africa,False
+STP,ST,Santo Tomé y Príncipe,São Tomé & Príncipe,,,False
+SUR,SR,Surinam,Suriname,América Del Sur,America,False
+SVK,SK,Eslovaquia,Slovakia,Europa,Europa,False
+SVN,SI,Eslovenia,Slovenia,,Europa,False
+SWE,SE,Suecia,Sweden,Europa,Europa,False
+SWZ,SZ,Esuatini,Eswatini,,Africa,False
+SYC,SC,Seychelles,Seychelles,,Africa,False
+SYR,SY,Siria,Syria,,Asia,False
+TCA,TC,Islas Turcas y Caicos,Turks & Caicos Islands,,Oceania,False
+TCD,TD,Chad,Chad,,Asia,False
+TGO,TG,Togo,Togo,,Africa,False
+THA,TH,Tailandia,Thailand,,Asia,False
+TJK,TJ,Tayikistán,Tajikistan,,Asia,False
+TKM,TM,Turkmenistán,Turkmenistan,,Asia,False
+TLS,TL,Timor-Leste,Timor-Leste,,Oceania,False
+TON,TO,Tonga,Tonga,,Oceania,False
+TTO,TT,Trinidad y Tobago,Trinidad & Tobago,Caribe,America,False
+TUN,TN,Túnez,Tunisia,,Africa,False
+TUR,TR,Turquía,Türkiye,,Asia,False
+TUV,TV,Tuvalu,Tuvalu,,,False
+TWN,TW,Taiwán,Taiwan,,Asia,False
+TZA,TZ,Tanzania,Tanzania,,Africa,False
+UGA,UG,Uganda,Uganda,,Africa,False
+UKR,UA,Ucrania,Ukraine,,Europa,False
+UNK,,No indica,Not stated,,Otros,True
+URY,UY,Uruguay,Uruguay,América Del Sur,America,False
+USA,US,Estados Unidos,United States,América Del Norte,America,False
+UZB,UZ,Uzbekistán,Uzbekistan,,Asia,False
+VAT,VA,Ciudad del Vaticano,Vatican City,,Europa,False
+VCT,VC,San Vicente y las Granadinas,St. Vincent & Grenadines,,America,False
+VEN,VE,Venezuela,Venezuela,América Del Sur,America,False
+VGB,VG,Islas Vírgenes Británicas,British Virgin Islands,,Oceania,False
+VIR,VI,Islas Vírgenes de EE. UU.,U.S. Virgin Islands,,,False
+VNM,VN,Vietnam,Vietnam,,Asia,False
+VUT,VU,Vanuatu,Vanuatu,,Oceania,False
+WSM,WS,Samoa,Samoa,,,False
+XKX,,Kosovo,Kosovo,,,False
+XXA,,Apátrida,Stateless,,Otros,True
+YEM,YE,Yemen,Yemen,,Asia,False
+YUG,,Yugoslavia (histórico),Yugoslavia (historical),,Europa,False
+ZAF,ZA,Sudáfrica,South Africa,,Africa,False
+ZMB,ZM,Zambia,Zambia,,Africa,False
+ZWE,ZW,Zimbabue,Zimbabwe,,Africa,False
